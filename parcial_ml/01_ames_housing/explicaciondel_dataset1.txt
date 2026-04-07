@@ -1,0 +1,17 @@
+## Primeramente el dataset que he escogido tiene estas caracteristicas 
+## X shape             : (2930, 15)
+## y shape             : (2930,)
+## m                   : 2,930
+## n features          : 15
+## Datos que que va tomar X son 15 los mas importantes que pueden influir en el precio final de la casa 
+## nuestro valor a predecir es valor de y SalePrice` — Precio de venta de la casa en USD 
+
+# Luego preparamos el dataset rellenamos los datos nulos con valores de media  
+# una vez hecho eso lo lo dividimos aleatoriamente 75% para y 25% de validacion 
+# Cuando los datos ya estan separados lo normalizamos y aumentamos los 1 para que se puede hacer el producto de matrices con theta 0
+# tanto para prueba como para validacion.
+
+# Calculamos el costo el modelo antes de entrenar esta muy alto  despues de aplicar  decenso por el gradiente podemos observar que el error a bajado === Regresión Lineal Múltiple ===
+ # Costo inicial      : 14451570588.50
+ # Costo entrenamiento: 591466954.05
+# Costo validacion   : 591175842.67
