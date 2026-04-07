@@ -1,0 +1,5433 @@
+﻿food_code,category
+11000000,Human milk
+11100000,"Milk, reduced fat"
+11111000,"Milk, whole"
+11112110,"Milk, reduced fat"
+11112210,"Milk, lowfat"
+11113000,"Milk, nonfat"
+11114300,"Milk, lowfat"
+11114320,"Milk, nonfat"
+11114330,"Milk, reduced fat"
+11114350,"Milk, whole"
+11115300,"Milk, whole"
+11115400,"Milk, lowfat"
+11116000,"Milk, whole"
+11120000,"Milk, nonfat"
+11121100,"Milk, whole"
+11210050,"Milk, whole"
+11211050,"Milk, whole"
+11211400,"Milk, reduced fat"
+11212050,"Milk, nonfat"
+11220000,"Flavored milk, whole"
+11300100,Plant-based milk
+11320000,Plant-based milk
+11320100,Plant-based milk
+11321000,Plant-based milk
+11350000,Plant-based milk
+11350010,Plant-based milk
+11350020,Plant-based milk
+11350040,Plant-based milk
+11360000,Plant-based milk
+11360200,Plant-based milk
+11370000,Plant-based milk
+11400000,"Yogurt, regular"
+11400010,"Yogurt, Greek"
+11410000,"Yogurt, regular"
+11411010,"Yogurt, regular"
+11411100,"Yogurt, regular"
+11411200,"Yogurt, regular"
+11411300,"Yogurt, regular"
+11411390,"Yogurt, Greek"
+11411400,"Yogurt, Greek"
+11411410,"Yogurt, Greek"
+11411420,"Yogurt, Greek"
+11430000,"Yogurt, regular"
+11431000,"Yogurt, regular"
+11432000,"Yogurt, regular"
+11433000,"Yogurt, regular"
+11433990,"Yogurt, Greek"
+11434000,"Yogurt, Greek"
+11434010,"Yogurt, Greek"
+11434020,"Yogurt, Greek"
+11434090,"Yogurt, regular"
+11434100,"Yogurt, regular"
+11434200,"Yogurt, regular"
+11434300,"Yogurt, regular"
+11435000,"Yogurt, Greek"
+11435010,"Yogurt, Greek"
+11435020,"Yogurt, Greek"
+11435030,"Yogurt, Greek"
+11435100,"Yogurt, Greek"
+11436000,"Yogurt, regular"
+11436100,"Yogurt, regular"
+11440010,"Dips, gravies, other sauces"
+11440030,"Dips, gravies, other sauces"
+11440040,"Dips, gravies, other sauces"
+11440050,"Dips, gravies, other sauces"
+11440060,"Dips, gravies, other sauces"
+11440070,"Dips, gravies, other sauces"
+11446000,"Yogurt, regular"
+11459990,Ice cream and frozen dairy desserts
+11460000,Ice cream and frozen dairy desserts
+11460100,Ice cream and frozen dairy desserts
+11460500,Ice cream and frozen dairy desserts
+11460510,Ice cream and frozen dairy desserts
+11461200,Ice cream and frozen dairy desserts
+11461210,Ice cream and frozen dairy desserts
+11461220,Ice cream and frozen dairy desserts
+11461250,Ice cream and frozen dairy desserts
+11461260,Ice cream and frozen dairy desserts
+11461300,Ice cream and frozen dairy desserts
+11461320,Ice cream and frozen dairy desserts
+11480000,Baby food: mixtures
+11480010,Baby food: yogurt
+11480100,Baby food: yogurt
+11511000,"Flavored milk, lowfat"
+11511100,"Flavored milk, whole"
+11511200,"Flavored milk, reduced fat"
+11511300,"Flavored milk, nonfat"
+11511400,"Flavored milk, lowfat"
+11511550,"Flavored milk, lowfat"
+11512005,"Flavored milk, lowfat"
+11512010,"Flavored milk, reduced fat"
+11512020,"Flavored milk, nonfat"
+11512030,Plant-based milk
+11512100,"Flavored milk, reduced fat"
+11513380,"Flavored milk, reduced fat"
+11513385,Plant-based milk
+11513801,"Flavored milk, whole"
+11513802,"Flavored milk, reduced fat"
+11513803,"Flavored milk, lowfat"
+11513804,"Flavored milk, nonfat"
+11514100,"Flavored milk, nonfat"
+11514110,"Flavored milk, reduced fat"
+11514130,"Flavored milk, nonfat"
+11514150,Plant-based milk
+11514160,"Flavored milk, reduced fat"
+11514310,"Flavored milk, nonfat"
+11514320,"Flavored milk, reduced fat"
+11514325,Plant-based milk
+11514330,"Flavored milk, reduced fat"
+11514340,"Flavored milk, nonfat"
+11514350,"Flavored milk, nonfat"
+11514360,Plant-based milk
+11519040,"Flavored milk, reduced fat"
+11519050,"Flavored milk, whole"
+11519105,"Flavored milk, reduced fat"
+11519200,"Flavored milk, lowfat"
+11519205,"Flavored milk, nonfat"
+11519210,"Flavored milk, lowfat"
+11526000,"Flavored milk, reduced fat"
+11531000,Milk shakes and other dairy drinks
+11541110,Milk shakes and other dairy drinks
+11541120,Milk shakes and other dairy drinks
+11541130,Milk shakes and other dairy drinks
+11541135,Milk shakes and other dairy drinks
+11541400,Milk shakes and other dairy drinks
+11542100,Milk shakes and other dairy drinks
+11542200,Milk shakes and other dairy drinks
+11543000,Milk shakes and other dairy drinks
+11543010,Milk shakes and other dairy drinks
+11551050,Smoothies and grain drinks
+11553100,Smoothies and grain drinks
+11553110,Smoothies and grain drinks
+11553120,Smoothies and grain drinks
+11553130,Smoothies and grain drinks
+11560000,Milk shakes and other dairy drinks
+11710000,"Formula, prepared from powder"
+11710030,"Formula, prepared from powder"
+11710051,"Formula, ready-to-feed"
+11710056,"Formula, prepared from powder"
+11710351,"Formula, ready-to-feed"
+11710357,"Formula, prepared from powder"
+11710358,"Formula, prepared from powder"
+11710359,"Formula, prepared from powder"
+11710371,"Formula, ready-to-feed"
+11710377,"Formula, prepared from powder"
+11710378,"Formula, prepared from powder"
+11710379,"Formula, prepared from powder"
+11710381,"Formula, ready-to-feed"
+11710383,"Formula, prepared from powder"
+11710481,"Formula, prepared from powder"
+11710605,"Formula, prepared from powder"
+11710631,"Formula, ready-to-feed"
+11710637,"Formula, prepared from powder"
+11710638,"Formula, prepared from powder"
+11710639,"Formula, prepared from powder"
+11710661,"Formula, ready-to-feed"
+11710669,"Formula, prepared from powder"
+11710671,"Formula, ready-to-feed"
+11710677,"Formula, prepared from powder"
+11710678,"Formula, prepared from powder"
+11710679,"Formula, prepared from powder"
+11710689,"Formula, prepared from powder"
+11710801,"Formula, ready-to-feed"
+11710807,"Formula, prepared from powder"
+11710810,"Formula, prepared from powder"
+11710815,"Formula, prepared from powder"
+11710905,"Formula, prepared from powder"
+11710911,"Formula, ready-to-feed"
+11710917,"Formula, prepared from powder"
+11710918,"Formula, prepared from powder"
+11710919,"Formula, prepared from powder"
+11710921,"Formula, prepared from powder"
+11710930,"Formula, prepared from powder"
+11710935,"Formula, prepared from powder"
+11710945,"Formula, ready-to-feed"
+11710954,"Formula, prepared from powder"
+11710955,"Formula, ready-to-feed"
+11710967,"Formula, prepared from powder"
+11710968,"Formula, prepared from powder"
+11710969,"Formula, prepared from powder"
+11710970,"Formula, prepared from powder"
+11710980,"Formula, prepared from powder"
+11720311,"Formula, ready-to-feed"
+11720317,"Formula, prepared from powder"
+11720318,"Formula, prepared from powder"
+11720319,"Formula, prepared from powder"
+11720411,"Formula, ready-to-feed"
+11720417,"Formula, prepared from powder"
+11720418,"Formula, prepared from powder"
+11720419,"Formula, prepared from powder"
+11720430,"Formula, ready-to-feed"
+11720611,"Formula, ready-to-feed"
+11720617,"Formula, prepared from powder"
+11720618,"Formula, prepared from powder"
+11720619,"Formula, prepared from powder"
+11720809,"Formula, prepared from powder"
+11740311,"Formula, ready-to-feed"
+11740313,"Formula, prepared from powder"
+11740401,"Formula, ready-to-feed"
+11740403,"Formula, prepared from powder"
+11740405,"Formula, prepared from powder"
+11740560,"Formula, prepared from powder"
+11810000,Not included in a food category
+11825000,Not included in a food category
+11830150,Not included in a food category
+11830160,Not included in a food category
+11830165,Not included in a food category
+11830260,Not included in a food category
+11830400,Not included in a food category
+12100100,Cream and cream substitutes
+12110100,Cream and cream substitutes
+12120100,Cream and cream substitutes
+12120106,Cream and cream substitutes
+12120110,Cream and cream substitutes
+12130100,Cream and cream substitutes
+12140000,"Cream cheese, sour cream, whipped cream"
+12200100,Cream and cream substitutes
+12210200,Cream and cream substitutes
+12210210,Cream and cream substitutes
+12210260,Cream and cream substitutes
+12210270,Cream and cream substitutes
+12210280,Cream and cream substitutes
+12210310,Cream and cream substitutes
+12210400,Cream and cream substitutes
+12210420,Cream and cream substitutes
+12210430,Cream and cream substitutes
+12210505,Cream and cream substitutes
+12210520,Cream and cream substitutes
+12220200,"Cream cheese, sour cream, whipped cream"
+12220270,"Cream cheese, sour cream, whipped cream"
+12220280,"Cream cheese, sour cream, whipped cream"
+12310100,"Cream cheese, sour cream, whipped cream"
+12310350,"Cream cheese, sour cream, whipped cream"
+12310370,"Cream cheese, sour cream, whipped cream"
+12320100,"Cream cheese, sour cream, whipped cream"
+12350010,"Dips, gravies, other sauces"
+12350200,"Dips, gravies, other sauces"
+12350205,"Dips, gravies, other sauces"
+12350220,"Dips, gravies, other sauces"
+12350225,"Dips, gravies, other sauces"
+12350230,"Dips, gravies, other sauces"
+12350235,"Dips, gravies, other sauces"
+12350240,"Dips, gravies, other sauces"
+12350245,"Dips, gravies, other sauces"
+12350250,"Dips, gravies, other sauces"
+12350255,"Dips, gravies, other sauces"
+13110000,Ice cream and frozen dairy desserts
+13110100,Ice cream and frozen dairy desserts
+13110102,Ice cream and frozen dairy desserts
+13110110,Ice cream and frozen dairy desserts
+13110112,Ice cream and frozen dairy desserts
+13110200,Ice cream and frozen dairy desserts
+13110210,Ice cream and frozen dairy desserts
+13110460,Ice cream and frozen dairy desserts
+13110470,Ice cream and frozen dairy desserts
+13120050,Ice cream and frozen dairy desserts
+13120100,Ice cream and frozen dairy desserts
+13120110,Ice cream and frozen dairy desserts
+13120140,Ice cream and frozen dairy desserts
+13120500,Ice cream and frozen dairy desserts
+13120510,Ice cream and frozen dairy desserts
+13120550,Ice cream and frozen dairy desserts
+13120730,Ice cream and frozen dairy desserts
+13120735,Ice cream and frozen dairy desserts
+13120740,Ice cream and frozen dairy desserts
+13120770,Ice cream and frozen dairy desserts
+13120775,Ice cream and frozen dairy desserts
+13120782,Ice cream and frozen dairy desserts
+13120784,Ice cream and frozen dairy desserts
+13120786,Ice cream and frozen dairy desserts
+13120788,Ice cream and frozen dairy desserts
+13120790,Ice cream and frozen dairy desserts
+13120792,Ice cream and frozen dairy desserts
+13120800,Milk shakes and other dairy drinks
+13120810,Milk shakes and other dairy drinks
+13121000,Ice cream and frozen dairy desserts
+13121100,Ice cream and frozen dairy desserts
+13121120,Ice cream and frozen dairy desserts
+13121300,Ice cream and frozen dairy desserts
+13121400,Ice cream and frozen dairy desserts
+13126000,Ice cream and frozen dairy desserts
+13130100,Ice cream and frozen dairy desserts
+13130300,Ice cream and frozen dairy desserts
+13130310,Ice cream and frozen dairy desserts
+13130700,Ice cream and frozen dairy desserts
+13135000,Ice cream and frozen dairy desserts
+13135010,Ice cream and frozen dairy desserts
+13140000,Ice cream and frozen dairy desserts
+13140100,Ice cream and frozen dairy desserts
+13140115,Ice cream and frozen dairy desserts
+13140700,Ice cream and frozen dairy desserts
+13140900,Ice cream and frozen dairy desserts
+13142100,Ice cream and frozen dairy desserts
+13142110,Ice cream and frozen dairy desserts
+13150000,Ice cream and frozen dairy desserts
+13161600,Ice cream and frozen dairy desserts
+13200110,Pudding
+13210110,Pudding
+13210280,Pudding
+13210300,Pudding
+13210350,Pudding
+13210370,Pudding
+13210410,Pudding
+13210450,Pudding
+13210520,Pudding
+13220110,Pudding
+13220120,Pudding
+13220210,Pudding
+13220220,Pudding
+13230110,Pudding
+13230120,Pudding
+13230130,Pudding
+13230140,Pudding
+13230500,Pudding
+13241000,Pudding
+13250000,Pudding
+13252200,Pudding
+13252500,Pudding
+13252590,Pudding
+13252600,Cakes and pies
+13411000,"Dips, gravies, other sauces"
+14010000,Cheese
+14101010,Cheese
+14102010,Cheese
+14103010,Cheese
+14103020,Cheese
+14104100,Cheese
+14104110,Cheese
+14104115,Cheese
+14104200,Cheese
+14104250,Cheese
+14104400,Cheese
+14104600,Cheese
+14104700,Cheese
+14105010,Cheese
+14105200,Cheese
+14106010,Cheese
+14106200,Cheese
+14106500,Cheese
+14107010,Cheese
+14107030,Cheese
+14107040,Cheese
+14107060,Cheese
+14107200,Cheese
+14107250,Cheese
+14108010,Cheese
+14108015,Cheese
+14108020,Cheese
+14108060,Cheese
+14108200,Cheese
+14108400,Cheese
+14108420,Cheese
+14109010,Cheese
+14109020,Cheese
+14109030,Cheese
+14109040,Cheese
+14110010,Cheese
+14110050,Cheese
+14120010,Cheese
+14120020,Cheese
+14131000,Cheese
+14131500,Cheese
+14133000,Cheese
+14134000,Cheese
+14200100,Cottage/ricotta cheese
+14201010,Cottage/ricotta cheese
+14201200,Cottage/ricotta cheese
+14201500,Cottage/ricotta cheese
+14202010,Cottage/ricotta cheese
+14202020,Cottage/ricotta cheese
+14203010,Cottage/ricotta cheese
+14203020,Cottage/ricotta cheese
+14203510,Cottage/ricotta cheese
+14204010,Cottage/ricotta cheese
+14204020,Cottage/ricotta cheese
+14206010,Cottage/ricotta cheese
+14207010,Cottage/ricotta cheese
+14301010,"Cream cheese, sour cream, whipped cream"
+14301100,"Cream cheese, sour cream, whipped cream"
+14303010,"Cream cheese, sour cream, whipped cream"
+14410100,Cheese
+14410110,Cheese
+14410120,Cheese
+14410130,Cheese
+14410210,Cheese
+14410330,Cheese
+14410380,"Cream cheese, sour cream, whipped cream"
+14410500,Cheese
+14410600,Cheese
+14410620,Cheese
+14420100,Cheese
+14420160,Cheese
+14420200,"Cream cheese, sour cream, whipped cream"
+14420300,Cheese
+14502000,Cheese
+14610200,Cottage/ricotta cheese
+14610210,Cottage/ricotta cheese
+14610250,Cottage/ricotta cheese
+14610520,Cheese
+14620110,"Dips, gravies, other sauces"
+14620115,"Dips, gravies, other sauces"
+14620130,"Dips, gravies, other sauces"
+14620150,"Dips, gravies, other sauces"
+14620200,"Dips, gravies, other sauces"
+14620300,Pizza
+14620310,Pizza
+14620320,Pizza
+14620330,Pizza
+14630100,"Dips, gravies, other sauces"
+14630200,Eggs and omelets
+14630300,"Dips, gravies, other sauces"
+14640000,Cheese sandwiches
+14640002,Cheese sandwiches
+14640004,Cheese sandwiches
+14640008,Cheese sandwiches
+14640010,Cheese sandwiches
+14640014,Cheese sandwiches
+14640016,Cheese sandwiches
+14640100,Cheese sandwiches
+14640105,Cheese sandwiches
+14640110,Cheese sandwiches
+14640125,Cheese sandwiches
+14640130,Cheese sandwiches
+14640155,Cheese sandwiches
+14640160,Cheese sandwiches
+14650100,"Dips, gravies, other sauces"
+14650160,"Dips, gravies, other sauces"
+14650165,"Dips, gravies, other sauces"
+14650170,"Dips, gravies, other sauces"
+14650175,"Dips, gravies, other sauces"
+14650180,"Dips, gravies, other sauces"
+14650185,"Dips, gravies, other sauces"
+14650190,"Dips, gravies, other sauces"
+14650195,"Dips, gravies, other sauces"
+14660200,Cheese
+14670000,"Coleslaw, non-lettuce salads"
+20000000,"Beef, excludes ground"
+20000200,Ground beef
+20000300,Baby food: meat and dinners
+21000100,"Beef, excludes ground"
+21001000,"Beef, excludes ground"
+21101000,"Beef, excludes ground"
+21101140,"Beef, excludes ground"
+21101150,"Beef, excludes ground"
+21101160,"Beef, excludes ground"
+21101170,"Beef, excludes ground"
+21101180,"Beef, excludes ground"
+21101190,"Beef, excludes ground"
+21102140,"Beef, excludes ground"
+21102150,"Beef, excludes ground"
+21102160,"Beef, excludes ground"
+21102170,"Beef, excludes ground"
+21102180,"Beef, excludes ground"
+21102190,"Beef, excludes ground"
+21103140,"Beef, excludes ground"
+21103150,"Beef, excludes ground"
+21103160,"Beef, excludes ground"
+21103170,"Beef, excludes ground"
+21103180,"Beef, excludes ground"
+21104110,"Beef, excludes ground"
+21301000,"Beef, excludes ground"
+21302000,"Beef, excludes ground"
+21304200,"Beef, excludes ground"
+21305000,"Beef, excludes ground"
+21401000,"Beef, excludes ground"
+21407000,"Beef, excludes ground"
+21410000,"Beef, excludes ground"
+21416000,Cold cuts and cured meats
+21417100,"Beef, excludes ground"
+21420100,"Beef, excludes ground"
+21500000,Ground beef
+21500100,Ground beef
+21500310,Ground beef
+21601000,Bacon
+21601010,Bacon
+21602000,Cold cuts and cured meats
+21602010,Cold cuts and cured meats
+21602100,Cold cuts and cured meats
+21701010,Baby food: meat and dinners
+22000100,Pork
+22002000,Pork
+22002050,Pork
+22002800,Cold cuts and cured meats
+22101000,Pork
+22101010,Pork
+22101020,Pork
+22101300,Pork
+22101310,Pork
+22101320,Pork
+22101330,Meat mixed dishes
+22201100,Pork
+22201110,Pork
+22201120,Pork
+22201400,Pork
+22210300,Pork
+22311000,Cold cuts and cured meats
+22311450,Cold cuts and cured meats
+22311500,Cold cuts and cured meats
+22321110,Cold cuts and cured meats
+22400100,Pork
+22431000,Cold cuts and cured meats
+22501010,Cold cuts and cured meats
+22600100,Bacon
+22600110,Bacon
+22600200,Bacon
+22600210,Bacon
+22601000,Bacon
+22601040,Bacon
+22602010,Bacon
+22621100,Butter and animal fats
+22700000,Pork
+22701000,Pork
+22704010,Pork
+22705010,Pork
+22706010,Pork
+22707010,Pork
+22707020,Pork
+22708010,Pork
+22708020,Pork
+22709010,Pork
+22810010,Baby food: meat and dinners
+22820000,Baby food: meat and dinners
+23000100,"Lamb, goat, game"
+23101000,"Lamb, goat, game"
+23132000,"Lamb, goat, game"
+23150100,"Lamb, goat, game"
+23201010,"Beef, excludes ground"
+23220010,Ground beef
+23220020,"Beef, excludes ground"
+23310000,"Lamb, goat, game"
+23321000,"Lamb, goat, game"
+23321200,"Lamb, goat, game"
+23321900,Cold cuts and cured meats
+23322100,Cold cuts and cured meats
+23323100,"Lamb, goat, game"
+23323500,"Lamb, goat, game"
+23324100,"Lamb, goat, game"
+23326100,"Lamb, goat, game"
+23331100,"Lamb, goat, game"
+23332100,"Lamb, goat, game"
+23333100,"Lamb, goat, game"
+23334100,"Lamb, goat, game"
+23335100,"Lamb, goat, game"
+23340100,"Lamb, goat, game"
+23345100,"Lamb, goat, game"
+23350100,"Turkey, duck, other poultry"
+24100000,"Chicken, whole pieces"
+24100010,"Chicken, whole pieces"
+24100020,"Chicken, whole pieces"
+24102000,"Chicken, whole pieces"
+24102010,"Chicken, whole pieces"
+24102020,"Chicken, whole pieces"
+24102050,"Chicken, whole pieces"
+24102060,"Chicken, whole pieces"
+24102070,"Chicken, whole pieces"
+24103000,"Chicken, whole pieces"
+24103010,"Chicken, whole pieces"
+24103020,"Chicken, whole pieces"
+24103050,"Chicken, whole pieces"
+24103055,"Chicken, whole pieces"
+24103060,"Chicken, whole pieces"
+24103070,"Chicken, whole pieces"
+24103075,"Chicken, whole pieces"
+24103080,"Chicken, whole pieces"
+24104049,"Chicken, whole pieces"
+24104051,"Chicken, whole pieces"
+24107070,"Chicken, whole pieces"
+24107071,"Chicken, whole pieces"
+24107080,"Chicken, whole pieces"
+24107081,"Chicken, whole pieces"
+24120110,"Chicken, whole pieces"
+24120120,"Chicken, whole pieces"
+24122130,"Chicken, whole pieces"
+24122131,"Chicken, whole pieces"
+24122140,"Chicken, whole pieces"
+24122141,"Chicken, whole pieces"
+24122150,"Chicken, whole pieces"
+24122151,"Chicken, whole pieces"
+24122160,"Chicken, whole pieces"
+24122161,"Chicken, whole pieces"
+24122170,"Chicken, whole pieces"
+24122171,"Chicken, whole pieces"
+24123110,"Chicken, whole pieces"
+24123120,"Chicken, whole pieces"
+24123300,"Chicken, whole pieces"
+24123301,"Chicken, whole pieces"
+24123310,"Chicken, whole pieces"
+24123311,"Chicken, whole pieces"
+24124200,"Chicken, whole pieces"
+24124201,"Chicken, whole pieces"
+24127200,"Chicken, whole pieces"
+24127201,"Chicken, whole pieces"
+24127202,"Chicken, whole pieces"
+24127210,"Chicken, whole pieces"
+24127211,"Chicken, whole pieces"
+24127220,"Chicken, whole pieces"
+24127221,"Chicken, whole pieces"
+24127500,"Chicken, whole pieces"
+24127501,"Chicken, whole pieces"
+24130210,"Chicken, whole pieces"
+24130220,"Chicken, whole pieces"
+24132230,"Chicken, whole pieces"
+24132231,"Chicken, whole pieces"
+24132240,"Chicken, whole pieces"
+24132241,"Chicken, whole pieces"
+24133210,"Chicken, whole pieces"
+24133220,"Chicken, whole pieces"
+24134100,"Chicken, whole pieces"
+24134101,"Chicken, whole pieces"
+24134150,"Chicken, whole pieces"
+24134151,"Chicken, whole pieces"
+24134300,"Chicken, whole pieces"
+24134301,"Chicken, whole pieces"
+24137300,"Chicken, whole pieces"
+24137301,"Chicken, whole pieces"
+24137310,"Chicken, whole pieces"
+24137311,"Chicken, whole pieces"
+24140210,"Chicken, whole pieces"
+24140220,"Chicken, whole pieces"
+24142300,"Chicken, whole pieces"
+24142301,"Chicken, whole pieces"
+24142310,"Chicken, whole pieces"
+24142311,"Chicken, whole pieces"
+24142320,"Chicken, whole pieces"
+24142321,"Chicken, whole pieces"
+24142400,"Chicken, whole pieces"
+24142401,"Chicken, whole pieces"
+24142500,"Chicken, whole pieces"
+24142501,"Chicken, whole pieces"
+24142510,"Chicken, whole pieces"
+24142511,"Chicken, whole pieces"
+24143210,"Chicken, whole pieces"
+24143220,"Chicken, whole pieces"
+24144300,"Chicken, whole pieces"
+24144301,"Chicken, whole pieces"
+24147300,"Chicken, whole pieces"
+24147301,"Chicken, whole pieces"
+24147302,"Chicken, whole pieces"
+24147310,"Chicken, whole pieces"
+24147311,"Chicken, whole pieces"
+24147320,"Chicken, whole pieces"
+24147321,"Chicken, whole pieces"
+24147400,"Chicken, whole pieces"
+24147401,"Chicken, whole pieces"
+24150210,"Chicken, whole pieces"
+24150220,"Chicken, whole pieces"
+24152230,"Chicken, whole pieces"
+24152231,"Chicken, whole pieces"
+24152240,"Chicken, whole pieces"
+24152241,"Chicken, whole pieces"
+24152250,"Chicken, whole pieces"
+24152251,"Chicken, whole pieces"
+24152300,"Chicken, whole pieces"
+24152301,"Chicken, whole pieces"
+24153210,"Chicken, whole pieces"
+24153220,"Chicken, whole pieces"
+24154010,"Chicken, whole pieces"
+24154011,"Chicken, whole pieces"
+24154020,"Chicken, whole pieces"
+24154021,"Chicken, whole pieces"
+24154300,"Chicken, whole pieces"
+24154301,"Chicken, whole pieces"
+24157300,"Chicken, whole pieces"
+24157301,"Chicken, whole pieces"
+24157302,"Chicken, whole pieces"
+24157310,"Chicken, whole pieces"
+24157311,"Chicken, whole pieces"
+24157320,"Chicken, whole pieces"
+24157321,"Chicken, whole pieces"
+24157330,"Chicken, whole pieces"
+24157331,"Chicken, whole pieces"
+24157400,"Chicken, whole pieces"
+24157401,"Chicken, whole pieces"
+24160110,"Chicken, whole pieces"
+24162130,"Chicken, whole pieces"
+24162140,"Chicken, whole pieces"
+24162150,"Chicken, whole pieces"
+24162200,"Chicken, whole pieces"
+24163110,"Chicken, whole pieces"
+24164000,"Chicken, whole pieces"
+24164010,"Chicken, whole pieces"
+24164200,"Chicken, whole pieces"
+24167200,"Chicken, whole pieces"
+24167210,"Chicken, whole pieces"
+24167220,"Chicken, whole pieces"
+24167230,"Chicken, whole pieces"
+24167300,"Chicken, whole pieces"
+24168000,"Chicken, whole pieces"
+24168001,"Chicken, whole pieces"
+24168002,"Chicken, whole pieces"
+24168010,"Chicken, whole pieces"
+24168011,"Chicken, whole pieces"
+24168012,"Chicken, whole pieces"
+24168020,"Chicken, whole pieces"
+24168021,"Chicken, whole pieces"
+24168022,"Chicken, whole pieces"
+24168030,"Chicken, whole pieces"
+24168031,"Chicken, whole pieces"
+24170200,"Chicken, whole pieces"
+24180200,"Chicken, whole pieces"
+24198340,"Chicken, whole pieces"
+24198440,"Chicken, whole pieces"
+24198500,"Chicken, whole pieces"
+24198570,"Chicken, whole pieces"
+24198670,"Chicken, whole pieces"
+24198671,"Chicken patties, nuggets and tenders"
+24198677,"Chicken patties, nuggets and tenders"
+24198683,"Chicken patties, nuggets and tenders"
+24198720,"Chicken, whole pieces"
+24198729,"Chicken patties, nuggets and tenders"
+24198731,"Chicken patties, nuggets and tenders"
+24198732,"Chicken patties, nuggets and tenders"
+24198735,"Chicken patties, nuggets and tenders"
+24198736,"Chicken patties, nuggets and tenders"
+24198737,"Chicken patties, nuggets and tenders"
+24198739,"Chicken patties, nuggets and tenders"
+24198741,"Chicken patties, nuggets and tenders"
+24198742,"Chicken patties, nuggets and tenders"
+24198745,"Chicken patties, nuggets and tenders"
+24198746,"Chicken patties, nuggets and tenders"
+24198747,"Chicken patties, nuggets and tenders"
+24201000,"Turkey, duck, other poultry"
+24201020,"Turkey, duck, other poultry"
+24201030,"Turkey, duck, other poultry"
+24201060,"Turkey, duck, other poultry"
+24201070,"Turkey, duck, other poultry"
+24201120,"Turkey, duck, other poultry"
+24201130,"Turkey, duck, other poultry"
+24201220,"Turkey, duck, other poultry"
+24201230,"Turkey, duck, other poultry"
+24201320,"Turkey, duck, other poultry"
+24201330,"Turkey, duck, other poultry"
+24201360,"Turkey, duck, other poultry"
+24201370,"Turkey, duck, other poultry"
+24201410,"Turkey, duck, other poultry"
+24201420,"Turkey, duck, other poultry"
+24201510,"Turkey, duck, other poultry"
+24201520,"Turkey, duck, other poultry"
+24202010,"Turkey, duck, other poultry"
+24202020,"Turkey, duck, other poultry"
+24202060,"Turkey, duck, other poultry"
+24202070,"Turkey, duck, other poultry"
+24202460,"Turkey, duck, other poultry"
+24202500,"Turkey, duck, other poultry"
+24202600,"Turkey, duck, other poultry"
+24203010,"Turkey, duck, other poultry"
+24203020,"Turkey, duck, other poultry"
+24205000,"Turkey, duck, other poultry"
+24205100,"Turkey, duck, other poultry"
+24206000,"Turkey, duck, other poultry"
+24207000,"Turkey, duck, other poultry"
+24208000,"Turkey, duck, other poultry"
+24208500,Bacon
+24208510,Bacon
+24300110,"Turkey, duck, other poultry"
+24300120,"Turkey, duck, other poultry"
+24301010,"Turkey, duck, other poultry"
+24301020,"Turkey, duck, other poultry"
+24302010,"Turkey, duck, other poultry"
+24311010,"Turkey, duck, other poultry"
+24400010,"Turkey, duck, other poultry"
+24400020,"Turkey, duck, other poultry"
+24401010,"Turkey, duck, other poultry"
+24401020,"Turkey, duck, other poultry"
+24402100,"Turkey, duck, other poultry"
+24402110,"Turkey, duck, other poultry"
+24403100,"Turkey, duck, other poultry"
+24404100,"Turkey, duck, other poultry"
+24701010,Baby food: meat and dinners
+24703010,Baby food: meat and dinners
+25110140,Liver and organ meats
+25110450,Liver and organ meats
+25112200,Liver and organ meats
+25120000,Liver and organ meats
+25130000,Liver and organ meats
+25140110,Liver and organ meats
+25150000,Liver and organ meats
+25160000,Liver and organ meats
+25160130,Liver and organ meats
+25170110,Liver and organ meats
+25170210,Liver and organ meats
+25170310,Liver and organ meats
+25170420,Liver and organ meats
+25210110,Frankfurters
+25210210,Frankfurters
+25210280,Frankfurters
+25210290,Frankfurters
+25210410,Frankfurters
+25220105,Sausages
+25220150,Sausages
+25220210,Sausages
+25220350,Sausages
+25220360,Sausages
+25220410,Cold cuts and cured meats
+25220425,Cold cuts and cured meats
+25220435,Cold cuts and cured meats
+25220710,Sausages
+25220910,Cold cuts and cured meats
+25221110,Sausages
+25221210,Cold cuts and cured meats
+25221215,Cold cuts and cured meats
+25221220,Cold cuts and cured meats
+25221250,Cold cuts and cured meats
+25221255,Cold cuts and cured meats
+25221260,Cold cuts and cured meats
+25221310,Sausages
+25221350,Sausages
+25221400,Sausages
+25221405,Sausages
+25221406,Sausages
+25221408,Sausages
+25221460,Sausages
+25221500,Cold cuts and cured meats
+25221505,Cold cuts and cured meats
+25221515,Cold cuts and cured meats
+25221610,Sausages
+25221810,Sausages
+25221830,Sausages
+25221855,Sausages
+25221870,Sausages
+25221910,Sausages
+25221950,Sausages
+25230110,Cold cuts and cured meats
+25230210,Cold cuts and cured meats
+25230220,Cold cuts and cured meats
+25230320,Cold cuts and cured meats
+25230340,Cold cuts and cured meats
+25230420,Cold cuts and cured meats
+25230530,Cold cuts and cured meats
+25230550,Cold cuts and cured meats
+25230560,Cold cuts and cured meats
+25230610,Cold cuts and cured meats
+25230780,Cold cuts and cured meats
+25230785,Cold cuts and cured meats
+25230800,Cold cuts and cured meats
+25231110,Cold cuts and cured meats
+25231120,Cold cuts and cured meats
+25240000,Cold cuts and cured meats
+25240110,Cold cuts and cured meats
+25240220,Cold cuts and cured meats
+26100100,Fish
+26100110,Fish
+26100120,Fish
+26100130,Fish
+26100140,Fish
+26100160,Fish
+26100180,Fish
+26100190,Fish
+26100270,Fish
+26101110,Fish
+26105110,Fish
+26107110,Fish
+26107120,Fish
+26107123,Fish
+26107130,Fish
+26107140,Fish
+26107160,Fish
+26109110,Fish
+26109120,Fish
+26109123,Fish
+26109130,Fish
+26109140,Fish
+26109160,Fish
+26111110,Fish
+26113110,Fish
+26115110,Fish
+26115120,Fish
+26115123,Fish
+26115130,Fish
+26115140,Fish
+26115160,Fish
+26117110,Fish
+26117120,Fish
+26117121,Fish
+26117130,Fish
+26117140,Fish
+26117160,Fish
+26118010,Fish
+26119110,Fish
+26119180,Fish
+26121110,Fish
+26121120,Fish
+26121121,Fish
+26121131,Fish
+26121140,Fish
+26121180,Fish
+26123110,Fish
+26127110,Fish
+26127120,Fish
+26127123,Fish
+26127130,Fish
+26127140,Fish
+26127160,Fish
+26129110,Fish
+26131110,Fish
+26131120,Fish
+26131121,Fish
+26131130,Fish
+26131140,Fish
+26131160,Fish
+26133110,Fish
+26137100,Fish
+26137110,Fish
+26137120,Fish
+26137123,Fish
+26137130,Fish
+26137140,Fish
+26137160,Fish
+26137180,Fish
+26137190,Fish
+26139180,Fish
+26141110,Fish
+26141120,Fish
+26141121,Fish
+26141130,Fish
+26141140,Fish
+26141160,Fish
+26143110,Fish
+26149110,Fish
+26151110,Fish
+26151120,Fish
+26151123,Fish
+26151130,Fish
+26151140,Fish
+26151160,Fish
+26153100,Fish
+26153110,Fish
+26153120,Fish
+26155110,Fish
+26157110,Fish
+26157120,Fish
+26157123,Fish
+26157130,Fish
+26157140,Fish
+26157160,Fish
+26158000,Fish
+26158010,Fish
+26158013,Fish
+26158020,Fish
+26158030,Fish
+26158050,Fish
+26158100,Fish
+26158110,Fish
+26158120,Fish
+26158130,Fish
+26158140,Fish
+26158150,Fish
+26203110,Shellfish
+26205110,Shellfish
+26211100,Fish
+26213120,Shellfish
+26213140,Shellfish
+26215120,Shellfish
+26300000,Shellfish
+26301110,Shellfish
+26303100,Shellfish
+26303110,Shellfish
+26303120,Shellfish
+26303140,Shellfish
+26303160,Shellfish
+26303180,Shellfish
+26305160,Shellfish
+26305180,Shellfish
+26307140,Shellfish
+26309140,Shellfish
+26309160,Shellfish
+26311110,Shellfish
+26313110,Shellfish
+26315100,Shellfish
+26315120,Shellfish
+26315130,Shellfish
+26315140,Shellfish
+26315180,Shellfish
+26317120,Shellfish
+26317121,Shellfish
+26317130,Shellfish
+26317140,Shellfish
+26319110,Shellfish
+26319120,Shellfish
+26319123,Shellfish
+26319130,Shellfish
+26319140,Shellfish
+26319160,Shellfish
+26319170,Shellfish
+26319180,Shellfish
+26321110,Shellfish
+27100100,Meat mixed dishes
+27111000,Meat mixed dishes
+27111200,Meat mixed dishes
+27111300,Meat mixed dishes
+27111400,Meat mixed dishes
+27111405,Meat mixed dishes
+27111406,Meat mixed dishes
+27111407,Meat mixed dishes
+27111420,Meat mixed dishes
+27111500,Meat mixed dishes
+27112000,Meat mixed dishes
+27112010,Meat mixed dishes
+27113000,Meat mixed dishes
+27113100,Meat mixed dishes
+27113200,Meat mixed dishes
+27113300,Meat mixed dishes
+27114000,Meat mixed dishes
+27115000,Stir-fry and soy-based sauce mixtures
+27115100,Stir-fry and soy-based sauce mixtures
+27116100,Meat mixed dishes
+27116110,Meat mixed dishes
+27116200,Meat mixed dishes
+27116210,"Beef, excludes ground"
+27116300,Stir-fry and soy-based sauce mixtures
+27116350,Meat mixed dishes
+27116400,Meat mixed dishes
+27118110,Meat mixed dishes
+27118120,Meat mixed dishes
+27118130,Meat mixed dishes
+27120020,Meat mixed dishes
+27120030,Meat mixed dishes
+27120040,Pork
+27120060,Stir-fry and soy-based sauce mixtures
+27120080,Meat mixed dishes
+27120090,Meat mixed dishes
+27120100,Meat mixed dishes
+27120110,Meat mixed dishes
+27120120,Meat mixed dishes
+27120130,Meat mixed dishes
+27120150,Stir-fry and soy-based sauce mixtures
+27120210,Meat mixed dishes
+27120250,Meat mixed dishes
+27121000,Meat mixed dishes
+27121010,Meat mixed dishes
+27130010,Meat mixed dishes
+27133010,Meat mixed dishes
+27135020,Meat mixed dishes
+27135050,Meat mixed dishes
+27135110,Meat mixed dishes
+27135150,Meat mixed dishes
+27136050,Meat mixed dishes
+27136080,Meat mixed dishes
+27141000,Poultry mixed dishes
+27141030,"Pasta sauces, tomato-based"
+27141035,"Pasta sauces, tomato-based"
+27141050,Poultry mixed dishes
+27141500,Poultry mixed dishes
+27141505,Poultry mixed dishes
+27141510,Poultry mixed dishes
+27142000,Poultry mixed dishes
+27142100,Poultry mixed dishes
+27142200,Poultry mixed dishes
+27143000,Poultry mixed dishes
+27144000,Poultry mixed dishes
+27145000,Stir-fry and soy-based sauce mixtures
+27146011,Poultry mixed dishes
+27146100,Stir-fry and soy-based sauce mixtures
+27146110,Stir-fry and soy-based sauce mixtures
+27146150,Poultry mixed dishes
+27146155,Poultry mixed dishes
+27146160,Poultry mixed dishes
+27146200,Poultry mixed dishes
+27146250,Poultry mixed dishes
+27146300,Poultry mixed dishes
+27146350,Stir-fry and soy-based sauce mixtures
+27146360,Stir-fry and soy-based sauce mixtures
+27146400,Poultry mixed dishes
+27148010,Poultry mixed dishes
+27150010,Seafood mixed dishes
+27150050,Seafood mixed dishes
+27150110,Shellfish
+27150120,Seafood mixed dishes
+27150130,Seafood mixed dishes
+27150140,Shellfish
+27150151,"Pasta sauces, tomato-based"
+27150155,"Pasta sauces, tomato-based"
+27150160,Seafood mixed dishes
+27150170,Stir-fry and soy-based sauce mixtures
+27150210,Soy-based condiments
+27150230,Shellfish
+27150310,Seafood mixed dishes
+27150320,Seafood mixed dishes
+27150325,Seafood mixed dishes
+27150410,Stir-fry and soy-based sauce mixtures
+27151030,Seafood mixed dishes
+27151040,Seafood mixed dishes
+27151050,Seafood mixed dishes
+27151070,Seafood mixed dishes
+27160100,Meat mixed dishes
+27161010,Meat mixed dishes
+27162010,Meat mixed dishes
+27162040,"Pasta sauces, tomato-based"
+27162060,"Pasta sauces, tomato-based"
+27162500,Meat mixed dishes
+27163010,Meat mixed dishes
+27211000,Meat mixed dishes
+27211190,Meat mixed dishes
+27211300,Meat mixed dishes
+27211400,Meat mixed dishes
+27211500,Meat mixed dishes
+27211550,Meat mixed dishes
+27212000,Meat mixed dishes
+27212050,Meat mixed dishes
+27212100,Meat mixed dishes
+27212120,Meat mixed dishes
+27212200,Meat mixed dishes
+27212300,Meat mixed dishes
+27212350,Meat mixed dishes
+27212400,Meat mixed dishes
+27212500,Stir-fry and soy-based sauce mixtures
+27213000,Meat mixed dishes
+27213010,Rice mixed dishes
+27213100,Meat mixed dishes
+27213120,Meat mixed dishes
+27213200,Meat mixed dishes
+27213300,Meat mixed dishes
+27213400,Meat mixed dishes
+27213420,Meat mixed dishes
+27213500,Stir-fry and soy-based sauce mixtures
+27213600,Meat mixed dishes
+27214100,Meat mixed dishes
+27214110,Meat mixed dishes
+27214300,Meat mixed dishes
+27214500,Meat mixed dishes
+27218210,Meat mixed dishes
+27220010,Meat mixed dishes
+27220020,Meat mixed dishes
+27220030,Meat mixed dishes
+27220050,Meat mixed dishes
+27220080,Meat mixed dishes
+27220110,Meat mixed dishes
+27220120,Meat mixed dishes
+27220150,Meat mixed dishes
+27220170,Meat mixed dishes
+27220190,Meat mixed dishes
+27220210,Meat mixed dishes
+27220310,Meat mixed dishes
+27220510,Meat mixed dishes
+27220520,Meat mixed dishes
+27221100,Meat mixed dishes
+27221150,Meat mixed dishes
+27221170,Meat mixed dishes
+27230010,Meat mixed dishes
+27231000,Meat mixed dishes
+27232000,Meat mixed dishes
+27233000,Meat mixed dishes
+27235000,Meat mixed dishes
+27236000,Meat mixed dishes
+27241000,Poultry mixed dishes
+27241010,Poultry mixed dishes
+27242000,Poultry mixed dishes
+27242200,Poultry mixed dishes
+27242250,Poultry mixed dishes
+27242300,Poultry mixed dishes
+27242310,Poultry mixed dishes
+27242350,Poultry mixed dishes
+27242400,Poultry mixed dishes
+27242500,Stir-fry and soy-based sauce mixtures
+27243000,Poultry mixed dishes
+27243100,Rice mixed dishes
+27243300,Poultry mixed dishes
+27243400,Poultry mixed dishes
+27243500,Poultry mixed dishes
+27243600,Stir-fry and soy-based sauce mixtures
+27246100,Poultry mixed dishes
+27246200,Poultry mixed dishes
+27246300,Poultry mixed dishes
+27246400,Poultry mixed dishes
+27246500,Poultry mixed dishes
+27246505,Poultry mixed dishes
+27250040,Seafood mixed dishes
+27250050,Seafood mixed dishes
+27250060,Seafood mixed dishes
+27250070,Seafood mixed dishes
+27250120,Seafood mixed dishes
+27250122,Seafood mixed dishes
+27250124,Seafood mixed dishes
+27250126,Seafood mixed dishes
+27250128,Stir-fry and soy-based sauce mixtures
+27250130,Seafood mixed dishes
+27250132,Seafood mixed dishes
+27250160,Seafood mixed dishes
+27250210,Seafood mixed dishes
+27250250,Seafood mixed dishes
+27250260,Seafood mixed dishes
+27250270,Seafood mixed dishes
+27250400,Seafood mixed dishes
+27250410,Seafood mixed dishes
+27250450,Seafood mixed dishes
+27250520,Fish
+27250550,Seafood mixed dishes
+27250610,Seafood mixed dishes
+27250630,Seafood mixed dishes
+27250710,Seafood mixed dishes
+27250810,Seafood mixed dishes
+27250820,Seafood mixed dishes
+27250830,Seafood mixed dishes
+27250900,Seafood mixed dishes
+27250950,Seafood mixed dishes
+27251010,Seafood mixed dishes
+27260010,Meat mixed dishes
+27260050,Meat mixed dishes
+27260080,Meat mixed dishes
+27260090,Meat mixed dishes
+27260100,Meat mixed dishes
+27260110,Meat mixed dishes
+27260500,Meat mixed dishes
+27261500,Meat mixed dishes
+27311110,Meat mixed dishes
+27311120,Meat mixed dishes
+27311210,Meat mixed dishes
+27311220,Meat mixed dishes
+27311310,Meat mixed dishes
+27311410,Meat mixed dishes
+27311430,Meat mixed dishes
+27311510,Meat mixed dishes
+27311600,Meat mixed dishes
+27311605,Meat mixed dishes
+27311610,Meat mixed dishes
+27311620,Meat mixed dishes
+27311625,Meat mixed dishes
+27311630,Meat mixed dishes
+27311635,Meat mixed dishes
+27311640,Meat mixed dishes
+27311645,Stir-fry and soy-based sauce mixtures
+27311650,Stir-fry and soy-based sauce mixtures
+27313010,Meat mixed dishes
+27313020,Meat mixed dishes
+27313110,Fried rice and lo/chow mein
+27313150,Stir-fry and soy-based sauce mixtures
+27313160,Stir-fry and soy-based sauce mixtures
+27313210,Meat mixed dishes
+27313220,Meat mixed dishes
+27313310,Meat mixed dishes
+27313320,Meat mixed dishes
+27313410,Meat mixed dishes
+27313420,Meat mixed dishes
+27315010,Meat mixed dishes
+27315020,Meat mixed dishes
+27315210,Meat mixed dishes
+27315220,Meat mixed dishes
+27315250,Meat mixed dishes
+27315270,Meat mixed dishes
+27315310,Meat mixed dishes
+27315320,Meat mixed dishes
+27315330,Meat mixed dishes
+27315340,Meat mixed dishes
+27315410,Meat mixed dishes
+27315420,Meat mixed dishes
+27315510,Stir-fry and soy-based sauce mixtures
+27315520,Stir-fry and soy-based sauce mixtures
+27317010,Meat mixed dishes
+27317100,Meat mixed dishes
+27317110,Meat mixed dishes
+27319010,Meat mixed dishes
+27320025,Meat mixed dishes
+27320027,Meat mixed dishes
+27320030,Meat mixed dishes
+27320040,Meat mixed dishes
+27320070,Meat mixed dishes
+27320080,Meat mixed dishes
+27320090,Meat mixed dishes
+27320100,Meat mixed dishes
+27320110,Meat mixed dishes
+27320120,Meat mixed dishes
+27320130,Meat mixed dishes
+27320140,Meat mixed dishes
+27320150,Meat mixed dishes
+27320210,Meat mixed dishes
+27320310,Fried rice and lo/chow mein
+27320320,Stir-fry and soy-based sauce mixtures
+27320330,Stir-fry and soy-based sauce mixtures
+27320340,Meat mixed dishes
+27320350,Meat mixed dishes
+27320410,Meat mixed dishes
+27320450,Meat mixed dishes
+27320500,Stir-fry and soy-based sauce mixtures
+27330050,Meat mixed dishes
+27330060,Meat mixed dishes
+27330080,Meat mixed dishes
+27330170,Meat mixed dishes
+27330210,Meat mixed dishes
+27335500,Meat mixed dishes
+27336200,Meat mixed dishes
+27336250,Meat mixed dishes
+27336300,Meat mixed dishes
+27336310,Meat mixed dishes
+27341000,Poultry mixed dishes
+27341010,Poultry mixed dishes
+27341020,Poultry mixed dishes
+27341025,Poultry mixed dishes
+27341030,Poultry mixed dishes
+27341035,Poultry mixed dishes
+27341040,Poultry mixed dishes
+27341045,Poultry mixed dishes
+27341050,Poultry mixed dishes
+27341055,Poultry mixed dishes
+27341060,Poultry mixed dishes
+27341330,Poultry mixed dishes
+27341520,Poultry mixed dishes
+27343010,Poultry mixed dishes
+27343020,Poultry mixed dishes
+27343410,Poultry mixed dishes
+27343420,Poultry mixed dishes
+27343470,Poultry mixed dishes
+27343480,Poultry mixed dishes
+27343510,Poultry mixed dishes
+27343520,Poultry mixed dishes
+27343910,Fried rice and lo/chow mein
+27343950,Poultry mixed dishes
+27343960,Poultry mixed dishes
+27345010,Poultry mixed dishes
+27345020,Poultry mixed dishes
+27345210,Poultry mixed dishes
+27345220,Poultry mixed dishes
+27345230,Poultry mixed dishes
+27345310,Stir-fry and soy-based sauce mixtures
+27345320,Stir-fry and soy-based sauce mixtures
+27345410,Poultry mixed dishes
+27345420,Poultry mixed dishes
+27345440,Poultry mixed dishes
+27345450,Poultry mixed dishes
+27345510,Poultry mixed dishes
+27345520,Poultry mixed dishes
+27347100,Poultry mixed dishes
+27347200,Poultry mixed dishes
+27347210,Poultry mixed dishes
+27347220,Poultry mixed dishes
+27347230,Poultry mixed dishes
+27347240,Poultry mixed dishes
+27347250,Poultry mixed dishes
+27348100,Poultry mixed dishes
+27350020,Rice mixed dishes
+27350050,Fried rice and lo/chow mein
+27350060,Seafood mixed dishes
+27350080,Seafood mixed dishes
+27350090,Seafood mixed dishes
+27350100,Seafood mixed dishes
+27350110,Seafood mixed dishes
+27350410,Seafood mixed dishes
+27351010,Seafood mixed dishes
+27351040,Seafood mixed dishes
+27360000,Meat mixed dishes
+27360080,Fried rice and lo/chow mein
+27360090,Rice mixed dishes
+27360120,Fried rice and lo/chow mein
+27362000,Meat mixed dishes
+27363000,Seafood mixed dishes
+27363100,Rice mixed dishes
+27410210,Meat mixed dishes
+27410220,Meat mixed dishes
+27410250,Meat mixed dishes
+27411100,Meat mixed dishes
+27411120,Meat mixed dishes
+27411150,Meat mixed dishes
+27411200,Meat mixed dishes
+27414100,Meat mixed dishes
+27414200,Meat mixed dishes
+27415100,Stir-fry and soy-based sauce mixtures
+27415110,Stir-fry and soy-based sauce mixtures
+27415120,Stir-fry and soy-based sauce mixtures
+27415130,Stir-fry and soy-based sauce mixtures
+27415140,Stir-fry and soy-based sauce mixtures
+27415150,Fried rice and lo/chow mein
+27415170,Stir-fry and soy-based sauce mixtures
+27415200,Stir-fry and soy-based sauce mixtures
+27415220,Stir-fry and soy-based sauce mixtures
+27416100,Meat mixed dishes
+27416150,Meat mixed dishes
+27416200,Meat mixed dishes
+27416250,Meat mixed dishes
+27416300,Burritos and tacos
+27416400,Stir-fry and soy-based sauce mixtures
+27416450,Meat mixed dishes
+27416500,Meat mixed dishes
+27418410,Meat mixed dishes
+27420010,Meat mixed dishes
+27420020,Meat mixed dishes
+27420040,Meat mixed dishes
+27420060,Meat mixed dishes
+27420080,Other dark green vegetables
+27420100,Stir-fry and soy-based sauce mixtures
+27420110,Stir-fry and soy-based sauce mixtures
+27420120,Stir-fry and soy-based sauce mixtures
+27420150,Stir-fry and soy-based sauce mixtures
+27420160,Stir-fry and soy-based sauce mixtures
+27420170,Stir-fry and soy-based sauce mixtures
+27420200,Meat mixed dishes
+27420250,Meat mixed dishes
+27420270,Meat mixed dishes
+27420350,Meat mixed dishes
+27420370,Stir-fry and soy-based sauce mixtures
+27420390,Fried rice and lo/chow mein
+27420400,Meat mixed dishes
+27420410,Meat mixed dishes
+27420450,Meat mixed dishes
+27420460,Meat mixed dishes
+27420470,Meat mixed dishes
+27420500,Stir-fry and soy-based sauce mixtures
+27420510,Stir-fry and soy-based sauce mixtures
+27420520,Meat mixed dishes
+27430610,Meat mixed dishes
+27440110,Poultry mixed dishes
+27440120,Poultry mixed dishes
+27440130,Poultry mixed dishes
+27441120,Poultry mixed dishes
+27442110,Poultry mixed dishes
+27442120,Poultry mixed dishes
+27443110,Poultry mixed dishes
+27443120,Poultry mixed dishes
+27443150,Poultry mixed dishes
+27445110,Stir-fry and soy-based sauce mixtures
+27445120,Stir-fry and soy-based sauce mixtures
+27445125,Poultry mixed dishes
+27445130,Poultry mixed dishes
+27445150,Stir-fry and soy-based sauce mixtures
+27445180,Stir-fry and soy-based sauce mixtures
+27445220,Stir-fry and soy-based sauce mixtures
+27445250,Stir-fry and soy-based sauce mixtures
+27446100,Fried rice and lo/chow mein
+27446200,Poultry mixed dishes
+27446205,Poultry mixed dishes
+27446220,Poultry mixed dishes
+27446225,Poultry mixed dishes
+27446230,Poultry mixed dishes
+27446235,Poultry mixed dishes
+27446240,Poultry mixed dishes
+27446245,Poultry mixed dishes
+27446250,Poultry mixed dishes
+27446255,Poultry mixed dishes
+27446260,Poultry mixed dishes
+27446300,Poultry mixed dishes
+27446310,Poultry mixed dishes
+27446315,Poultry mixed dishes
+27446320,Poultry mixed dishes
+27446330,Poultry mixed dishes
+27446332,Poultry mixed dishes
+27446350,Poultry mixed dishes
+27446355,Poultry mixed dishes
+27446360,Poultry mixed dishes
+27446362,Poultry mixed dishes
+27446400,Poultry mixed dishes
+27446410,Poultry mixed dishes
+27448020,Poultry mixed dishes
+27448030,Poultry mixed dishes
+27450010,Seafood mixed dishes
+27450020,Seafood mixed dishes
+27450030,Seafood mixed dishes
+27450040,Fried rice and lo/chow mein
+27450060,Seafood mixed dishes
+27450061,Seafood mixed dishes
+27450062,Seafood mixed dishes
+27450063,Seafood mixed dishes
+27450064,Seafood mixed dishes
+27450065,Seafood mixed dishes
+27450066,Seafood mixed dishes
+27450067,Seafood mixed dishes
+27450068,Seafood mixed dishes
+27450070,Seafood mixed dishes
+27450080,Seafood mixed dishes
+27450090,Seafood mixed dishes
+27450100,Seafood mixed dishes
+27450110,Seafood mixed dishes
+27450120,Seafood mixed dishes
+27450130,Seafood mixed dishes
+27450150,Seafood mixed dishes
+27450180,Seafood mixed dishes
+27450190,Seafood mixed dishes
+27450200,Seafood mixed dishes
+27450210,Seafood mixed dishes
+27450250,Seafood mixed dishes
+27450310,Seafood mixed dishes
+27450400,Seafood mixed dishes
+27450405,Seafood mixed dishes
+27450410,Stir-fry and soy-based sauce mixtures
+27450420,Stir-fry and soy-based sauce mixtures
+27450430,Seafood mixed dishes
+27450450,Seafood mixed dishes
+27450470,Stir-fry and soy-based sauce mixtures
+27450510,Seafood mixed dishes
+27450600,Stir-fry and soy-based sauce mixtures
+27450610,Stir-fry and soy-based sauce mixtures
+27450650,Seafood mixed dishes
+27450660,Seafood mixed dishes
+27450700,Seafood mixed dishes
+27450710,Seafood mixed dishes
+27450740,Stir-fry and soy-based sauce mixtures
+27450750,Stir-fry and soy-based sauce mixtures
+27450760,Seafood mixed dishes
+27451010,Seafood mixed dishes
+27451030,Seafood mixed dishes
+27451060,Seafood mixed dishes
+27451070,Seafood mixed dishes
+27460010,Fried rice and lo/chow mein
+27460100,Seafood mixed dishes
+27460510,Meat mixed dishes
+27460710,Poultry mixed dishes
+27460750,Meat mixed dishes
+27462000,Meat mixed dishes
+27463000,Poultry mixed dishes
+27464000,Seafood mixed dishes
+27500050,Deli and cured meat sandwiches
+27500300,Deli and cured meat sandwiches
+27500400,Meat and BBQ sandwiches
+27510100,Meat and BBQ sandwiches
+27510105,Meat and BBQ sandwiches
+27510130,Meat and BBQ sandwiches
+27510135,Meat and BBQ sandwiches
+27510140,Burgers
+27510155,Burgers
+27510160,Burgers
+27510170,Burgers
+27510171,Burgers
+27510172,Burgers
+27510190,Burgers
+27510191,Burgers
+27510195,Burgers
+27510196,Burgers
+27510215,Burgers
+27510229,Burgers
+27510231,Burgers
+27510232,Burgers
+27510241,Burgers
+27510242,Burgers
+27510245,Burgers
+27510246,Burgers
+27510254,Burgers
+27510255,Burgers
+27510257,Burgers
+27510258,Burgers
+27510261,Burgers
+27510262,Burgers
+27510263,Burgers
+27510371,Burgers
+27510386,Burgers
+27510387,Burgers
+27510388,Burgers
+27510389,Burgers
+27510401,Burgers
+27510405,Burgers
+27510501,Burgers
+27510521,Burgers
+27510531,Burgers
+27510551,Burgers
+27510552,Burgers
+27510553,Burgers
+27510565,Burgers
+27510573,Burgers
+27510575,Burgers
+27510576,Burgers
+27510601,Burgers
+27510605,Burgers
+27510615,Burgers
+27510631,Burgers
+27510632,Burgers
+27510635,Burgers
+27510636,Burgers
+27510649,Burgers
+27510652,Burgers
+27510655,Burgers
+27510657,Burgers
+27510658,Burgers
+27510659,Burgers
+27510661,Burgers
+27510671,Burgers
+27510675,Burgers
+27510700,Meat and BBQ sandwiches
+27510702,Meat and BBQ sandwiches
+27510705,Burgers
+27510910,Deli and cured meat sandwiches
+27510920,Deli and cured meat sandwiches
+27510930,Deli and cured meat sandwiches
+27510940,Deli and cured meat sandwiches
+27510950,Deli and cured meat sandwiches
+27513010,Deli and cured meat sandwiches
+27513050,Deli and cured meat sandwiches
+27513055,Deli and cured meat sandwiches
+27513065,Deli and cured meat sandwiches
+27513070,Deli and cured meat sandwiches
+27514010,Meat and BBQ sandwiches
+27514020,Meat and BBQ sandwiches
+27514030,Meat and BBQ sandwiches
+27514040,Meat and BBQ sandwiches
+27516010,Meat and BBQ sandwiches
+27517000,Burgers
+27520210,Deli and cured meat sandwiches
+27520220,Deli and cured meat sandwiches
+27520230,Deli and cured meat sandwiches
+27520240,Deli and cured meat sandwiches
+27520255,Deli and cured meat sandwiches
+27520260,Deli and cured meat sandwiches
+27520270,Deli and cured meat sandwiches
+27520340,Deli and cured meat sandwiches
+27520345,Deli and cured meat sandwiches
+27520410,Meat and BBQ sandwiches
+27520500,Meat and BBQ sandwiches
+27520510,Meat and BBQ sandwiches
+27520515,Meat and BBQ sandwiches
+27520520,Meat and BBQ sandwiches
+27520525,Meat and BBQ sandwiches
+27520610,Deli and cured meat sandwiches
+27520620,Deli and cured meat sandwiches
+27540010,Deli and cured meat sandwiches
+27540020,Deli and cured meat sandwiches
+27540030,Deli and cured meat sandwiches
+27540040,Deli and cured meat sandwiches
+27540050,Deli and cured meat sandwiches
+27540060,Deli and cured meat sandwiches
+27540070,Deli and cured meat sandwiches
+27540080,Deli and cured meat sandwiches
+27540090,Deli and cured meat sandwiches
+27540120,Chicken fillet sandwiches
+27540121,Chicken fillet sandwiches
+27540122,Chicken fillet sandwiches
+27540123,Deli and cured meat sandwiches
+27540124,Deli and cured meat sandwiches
+27540125,Deli and cured meat sandwiches
+27540126,Deli and cured meat sandwiches
+27540127,Deli and cured meat sandwiches
+27540130,Meat and BBQ sandwiches
+27540131,Meat and BBQ sandwiches
+27540132,Chicken fillet sandwiches
+27540139,Chicken fillet sandwiches
+27540145,Chicken fillet sandwiches
+27540146,Chicken fillet sandwiches
+27540147,Chicken fillet sandwiches
+27540152,Chicken fillet sandwiches
+27540153,Chicken fillet sandwiches
+27540160,Chicken fillet sandwiches
+27540175,Chicken fillet sandwiches
+27540176,Chicken fillet sandwiches
+27540185,Chicken fillet sandwiches
+27540186,Chicken fillet sandwiches
+27540195,Chicken fillet sandwiches
+27540196,Chicken fillet sandwiches
+27540205,Chicken fillet sandwiches
+27540206,Chicken fillet sandwiches
+27540210,Chicken fillet sandwiches
+27540300,Chicken fillet sandwiches
+27545100,Burgers
+27545110,Burgers
+27550000,Seafood sandwiches
+27550100,Seafood sandwiches
+27550110,Seafood sandwiches
+27550120,Seafood sandwiches
+27550150,Seafood sandwiches
+27550200,Seafood sandwiches
+27550300,Seafood sandwiches
+27550400,Seafood sandwiches
+27550405,Seafood sandwiches
+27550410,Seafood sandwiches
+27550415,Seafood sandwiches
+27550420,Seafood sandwiches
+27550425,Seafood sandwiches
+27550510,Seafood sandwiches
+27550720,Seafood sandwiches
+27550730,Seafood sandwiches
+27550735,Seafood sandwiches
+27550737,Seafood sandwiches
+27550755,Seafood sandwiches
+27550800,Seafood sandwiches
+27560130,Deli and cured meat sandwiches
+27560140,Deli and cured meat sandwiches
+27560150,Deli and cured meat sandwiches
+27560160,Deli and cured meat sandwiches
+27560300,Frankfurter sandwiches
+27560350,Frankfurter sandwiches
+27560520,Deli and cured meat sandwiches
+27560530,Deli and cured meat sandwiches
+27560540,Deli and cured meat sandwiches
+27560550,Deli and cured meat sandwiches
+27560610,Deli and cured meat sandwiches
+27560620,Deli and cured meat sandwiches
+27560630,Deli and cured meat sandwiches
+27560710,Frankfurter sandwiches
+27560715,Deli and cured meat sandwiches
+27560920,Deli and cured meat sandwiches
+27564000,Frankfurter sandwiches
+27564001,Frankfurter sandwiches
+27564010,Frankfurter sandwiches
+27564020,Frankfurter sandwiches
+27564060,Frankfurter sandwiches
+27564061,Frankfurter sandwiches
+27564070,Frankfurter sandwiches
+27564080,Frankfurter sandwiches
+27564180,Frankfurter sandwiches
+27564181,Frankfurter sandwiches
+27564190,Frankfurter sandwiches
+27564200,Frankfurter sandwiches
+27564240,Frankfurter sandwiches
+27564241,Frankfurter sandwiches
+27564250,Frankfurter sandwiches
+27564260,Frankfurter sandwiches
+27564300,Frankfurter sandwiches
+27564301,Frankfurter sandwiches
+27564310,Frankfurter sandwiches
+27564320,Frankfurter sandwiches
+27564420,Frankfurter sandwiches
+27564430,Frankfurter sandwiches
+27564440,Frankfurter sandwiches
+27564441,Frankfurter sandwiches
+27564450,Frankfurter sandwiches
+27564460,Frankfurter sandwiches
+27580010,Deli and cured meat sandwiches
+27580020,Deli and cured meat sandwiches
+27580030,Deli and cured meat sandwiches
+27580040,Deli and cured meat sandwiches
+27580050,Deli and cured meat sandwiches
+27580060,Deli and cured meat sandwiches
+27580070,Deli and cured meat sandwiches
+27580110,Deli and cured meat sandwiches
+27580120,Deli and cured meat sandwiches
+27580130,Deli and cured meat sandwiches
+27580140,Deli and cured meat sandwiches
+27580150,Deli and cured meat sandwiches
+27580160,Deli and cured meat sandwiches
+28101000,Meat mixed dishes
+28110000,Meat mixed dishes
+28110150,Meat mixed dishes
+28110300,Meat mixed dishes
+28110310,Meat mixed dishes
+28110330,Meat mixed dishes
+28110380,Meat mixed dishes
+28110510,Meat mixed dishes
+28110660,Meat mixed dishes
+28113140,Meat mixed dishes
+28140100,Poultry mixed dishes
+28140710,Poultry mixed dishes
+28140720,Poultry mixed dishes
+28141010,Poultry mixed dishes
+28141201,Stir-fry and soy-based sauce mixtures
+28141250,Poultry mixed dishes
+28141650,Poultry mixed dishes
+28143020,Poultry mixed dishes
+28143080,Poultry mixed dishes
+28143150,Poultry mixed dishes
+28143200,Stir-fry and soy-based sauce mixtures
+28144100,Poultry mixed dishes
+28145110,Poultry mixed dishes
+28145210,Poultry mixed dishes
+28150510,Seafood mixed dishes
+28154010,Seafood mixed dishes
+28160300,Meat mixed dishes
+28160310,Meat mixed dishes
+28310230,"Soups, broth-based"
+28310330,Ramen and Asian broth-based soups
+28310335,Ramen and Asian broth-based soups
+28311010,"Soups, cream-based"
+28315050,"Soups, broth-based"
+28315140,"Soups, broth-based"
+28315150,"Soups, broth-based"
+28315160,"Soups, broth-based"
+28320160,"Soups, broth-based"
+28340120,"Soups, broth-based"
+28340600,"Soups, broth-based"
+28340660,"Soups, broth-based"
+28340670,"Soups, broth-based"
+28340750,Ramen and Asian broth-based soups
+28345110,"Soups, cream-based"
+28350220,"Soups, broth-based"
+28355110,"Soups, cream-based"
+28355250,"Soups, cream-based"
+28355260,Seafood mixed dishes
+28355440,Seafood mixed dishes
+28355480,"Soups, broth-based"
+28500000,"Dips, gravies, other sauces"
+28500040,"Dips, gravies, other sauces"
+28501010,"Dips, gravies, other sauces"
+28501110,"Dips, gravies, other sauces"
+28520000,"Dips, gravies, other sauces"
+28520010,"Dips, gravies, other sauces"
+28520100,Soy-based condiments
+28522000,"Dips, gravies, other sauces"
+31101010,Eggs and omelets
+31102000,Eggs and omelets
+31103010,Eggs and omelets
+31105005,Eggs and omelets
+31105010,Eggs and omelets
+31105020,Eggs and omelets
+31105030,Eggs and omelets
+31105040,Eggs and omelets
+31105060,Eggs and omelets
+31105080,Eggs and omelets
+31105085,Eggs and omelets
+31105090,Eggs and omelets
+31106000,Eggs and omelets
+31106010,Eggs and omelets
+31106020,Eggs and omelets
+31107000,Eggs and omelets
+31108010,Eggs and omelets
+31108100,Eggs and omelets
+31108110,Eggs and omelets
+31108120,Eggs and omelets
+31110010,Eggs and omelets
+31111000,Eggs and omelets
+31111010,Eggs and omelets
+31111020,Eggs and omelets
+31201000,Eggs and omelets
+31202000,Eggs and omelets
+31203000,Eggs and omelets
+32101000,Eggs and omelets
+32101500,Eggs and omelets
+32102000,Eggs and omelets
+32103000,Eggs and omelets
+32103015,Eggs and omelets
+32103020,Eggs and omelets
+32103025,Eggs and omelets
+32103030,Eggs and omelets
+32103035,Eggs and omelets
+32103040,Eggs and omelets
+32103045,Eggs and omelets
+32103050,Eggs and omelets
+32105180,Eggs and omelets
+32105190,Eggs and omelets
+32105200,Stir-fry and soy-based sauce mixtures
+32105210,Stir-fry and soy-based sauce mixtures
+32105220,Stir-fry and soy-based sauce mixtures
+32105230,Stir-fry and soy-based sauce mixtures
+32105240,Stir-fry and soy-based sauce mixtures
+32129990,Eggs and omelets
+32130000,Eggs and omelets
+32130010,Eggs and omelets
+32130020,Eggs and omelets
+32130040,Eggs and omelets
+32130060,Eggs and omelets
+32130065,Eggs and omelets
+32130070,Eggs and omelets
+32130080,Eggs and omelets
+32130100,Eggs and omelets
+32130110,Eggs and omelets
+32130120,Eggs and omelets
+32130140,Eggs and omelets
+32130160,Eggs and omelets
+32130170,Eggs and omelets
+32130190,Eggs and omelets
+32130200,Eggs and omelets
+32130210,Eggs and omelets
+32130220,Eggs and omelets
+32130240,Eggs and omelets
+32130260,Eggs and omelets
+32130265,Eggs and omelets
+32130270,Eggs and omelets
+32130290,Eggs and omelets
+32130300,Eggs and omelets
+32130310,Eggs and omelets
+32130320,Eggs and omelets
+32130340,Eggs and omelets
+32130360,Eggs and omelets
+32130365,Eggs and omelets
+32130370,Eggs and omelets
+32130400,Eggs and omelets
+32130410,Eggs and omelets
+32130420,Eggs and omelets
+32130430,Eggs and omelets
+32130440,Eggs and omelets
+32130450,Eggs and omelets
+32130460,Eggs and omelets
+32130470,Eggs and omelets
+32130480,Eggs and omelets
+32130490,Eggs and omelets
+32130500,Eggs and omelets
+32130510,Eggs and omelets
+32130600,Eggs and omelets
+32130610,Eggs and omelets
+32130620,Eggs and omelets
+32130630,Eggs and omelets
+32130640,Eggs and omelets
+32130650,Eggs and omelets
+32130660,Eggs and omelets
+32130670,Eggs and omelets
+32130680,Eggs and omelets
+32130690,Eggs and omelets
+32130700,Eggs and omelets
+32130710,Eggs and omelets
+32130800,Eggs and omelets
+32130810,Eggs and omelets
+32130820,Eggs and omelets
+32130830,Eggs and omelets
+32130840,Eggs and omelets
+32130850,Eggs and omelets
+32130860,Eggs and omelets
+32130870,Eggs and omelets
+32130880,Eggs and omelets
+32130890,Eggs and omelets
+32130900,Eggs and omelets
+32130910,Eggs and omelets
+32131000,Eggs and omelets
+32131010,Eggs and omelets
+32131020,Eggs and omelets
+32131030,Eggs and omelets
+32131040,Eggs and omelets
+32131050,Eggs and omelets
+32131060,Eggs and omelets
+32131070,Eggs and omelets
+32131080,Eggs and omelets
+32131090,Eggs and omelets
+32131100,Eggs and omelets
+32131110,Eggs and omelets
+32131200,Eggs and omelets
+32131210,Eggs and omelets
+32131220,Eggs and omelets
+32203010,Egg/breakfast sandwiches
+32203020,Egg/breakfast sandwiches
+32300100,Ramen and Asian broth-based soups
+32400055,Eggs and omelets
+32400060,Eggs and omelets
+32400065,Eggs and omelets
+32400070,Eggs and omelets
+32400075,Eggs and omelets
+32400078,Eggs and omelets
+32400080,Eggs and omelets
+32400100,Eggs and omelets
+32400200,Eggs and omelets
+32400300,Eggs and omelets
+32400400,Eggs and omelets
+32400500,Eggs and omelets
+32400600,Eggs and omelets
+32400700,Eggs and omelets
+32401000,Pudding
+33001010,Eggs and omelets
+33001050,Eggs and omelets
+33401000,Eggs and omelets
+33401100,Eggs and omelets
+33401200,Eggs and omelets
+33401300,Eggs and omelets
+33401400,Eggs and omelets
+33401500,Eggs and omelets
+33401600,Eggs and omelets
+34001100,Egg/breakfast sandwiches
+34001110,Egg/breakfast sandwiches
+34001120,Egg/breakfast sandwiches
+34001130,Egg/breakfast sandwiches
+34001200,Egg/breakfast sandwiches
+34001210,Egg/breakfast sandwiches
+34001220,Egg/breakfast sandwiches
+34001230,Egg/breakfast sandwiches
+34001300,Egg/breakfast sandwiches
+34001310,Egg/breakfast sandwiches
+34001320,Egg/breakfast sandwiches
+34001330,Egg/breakfast sandwiches
+34001400,Egg/breakfast sandwiches
+34001410,Egg/breakfast sandwiches
+34001420,Egg/breakfast sandwiches
+34001430,Egg/breakfast sandwiches
+34001500,Egg/breakfast sandwiches
+34001510,Egg/breakfast sandwiches
+34001520,Egg/breakfast sandwiches
+34001530,Egg/breakfast sandwiches
+34001540,Egg/breakfast sandwiches
+34001600,Egg/breakfast sandwiches
+34001610,Egg/breakfast sandwiches
+34001620,Egg/breakfast sandwiches
+34001630,Egg/breakfast sandwiches
+34001700,Egg/breakfast sandwiches
+34001710,Egg/breakfast sandwiches
+34002000,Egg/breakfast sandwiches
+34002010,Egg/breakfast sandwiches
+34002020,Egg/breakfast sandwiches
+34002110,Egg/breakfast sandwiches
+34002120,Egg/breakfast sandwiches
+34002130,Egg/breakfast sandwiches
+34002140,Egg/breakfast sandwiches
+34002150,Egg/breakfast sandwiches
+34002160,Egg/breakfast sandwiches
+34003100,Egg/breakfast sandwiches
+34003120,Egg/breakfast sandwiches
+34003130,Egg/breakfast sandwiches
+34003140,Egg/breakfast sandwiches
+41100990,"Beans, peas, legumes"
+41101010,"Beans, peas, legumes"
+41101020,"Beans, peas, legumes"
+41101060,"Beans, peas, legumes"
+41101070,"Beans, peas, legumes"
+41101080,"Beans, peas, legumes"
+41101090,"Beans, peas, legumes"
+41101110,"Beans, peas, legumes"
+41101120,"Beans, peas, legumes"
+41101140,"Beans, peas, legumes"
+41101180,"Beans, peas, legumes"
+41101210,"Beans, peas, legumes"
+41101990,"Beans, peas, legumes"
+41102010,"Beans, peas, legumes"
+41102020,"Beans, peas, legumes"
+41102040,"Beans, peas, legumes"
+41102080,"Beans, peas, legumes"
+41102110,"Beans, peas, legumes"
+41102150,"Beans, peas, legumes"
+41102170,"Beans, peas, legumes"
+41102210,"Beans, peas, legumes"
+41102990,"Beans, peas, legumes"
+41103010,"Beans, peas, legumes"
+41103070,"Beans, peas, legumes"
+41103990,"Beans, peas, legumes"
+41104010,"Beans, peas, legumes"
+41104020,"Beans, peas, legumes"
+41104040,"Beans, peas, legumes"
+41104080,"Beans, peas, legumes"
+41104110,"Beans, peas, legumes"
+41104200,"Beans, peas, legumes"
+41104250,"Beans, peas, legumes"
+41105990,"Beans, peas, legumes"
+41106010,"Beans, peas, legumes"
+41106020,"Beans, peas, legumes"
+41106040,"Beans, peas, legumes"
+41106080,"Beans, peas, legumes"
+41106110,"Beans, peas, legumes"
+41106150,"Beans, peas, legumes"
+41106170,"Beans, peas, legumes"
+41106510,"Beans, peas, legumes"
+41107010,"Beans, peas, legumes"
+41108010,"Beans, peas, legumes"
+41201010,"Beans, peas, legumes"
+41201020,"Beans, peas, legumes"
+41201050,"Beans, peas, legumes"
+41202505,"Beans, peas, legumes"
+41202510,"Beans, peas, legumes"
+41203030,"Bean, pea, legume dishes"
+41205010,"Beans, peas, legumes"
+41205017,"Beans, peas, legumes"
+41205030,"Beans, peas, legumes"
+41205040,"Beans, peas, legumes"
+41205050,"Dips, gravies, other sauces"
+41205055,"Dips, gravies, other sauces"
+41205070,"Dips, gravies, other sauces"
+41205075,"Dips, gravies, other sauces"
+41205100,"Dips, gravies, other sauces"
+41206030,"Beans, peas, legumes"
+41208030,"Beans, peas, legumes"
+41208100,"Beans, peas, legumes"
+41209000,"Bean, pea, legume dishes"
+41210000,"Bean, pea, legume dishes"
+41221000,"Beans, peas, legumes"
+41221020,"Bean, pea, legume dishes"
+41300990,"Beans, peas, legumes"
+41301010,"Beans, peas, legumes"
+41301990,"Beans, peas, legumes"
+41302010,"Beans, peas, legumes"
+41302020,"Beans, peas, legumes"
+41302040,"Beans, peas, legumes"
+41302080,"Beans, peas, legumes"
+41302110,"Beans, peas, legumes"
+41303000,"Beans, peas, legumes"
+41303010,"Beans, peas, legumes"
+41304000,"Beans, peas, legumes"
+41304970,"Beans, peas, legumes"
+41304990,"Beans, peas, legumes"
+41305000,"Beans, peas, legumes"
+41305020,"Beans, peas, legumes"
+41305050,"Beans, peas, legumes"
+41310900,"Tortilla, corn, other chips"
+41311000,"Beans, peas, legumes"
+41311020,Vegetable dishes
+41311030,"Bean, pea, legume dishes"
+41311040,"Bean, pea, legume dishes"
+41410010,"Beans, peas, legumes"
+41410015,"Tortilla, corn, other chips"
+41420010,Soy and meat-alternative products
+41420020,"Beans, peas, legumes"
+41420050,Soy and meat-alternative products
+41420100,Soy-based condiments
+41420110,Soy-based condiments
+41420200,Soy-based condiments
+41420250,Soy-based condiments
+41420300,Soy-based condiments
+41420350,Soy-based condiments
+41420380,Plant-based yogurt
+41420400,Soy-based condiments
+41420410,Soy-based condiments
+41420450,Mustard and other condiments
+41421010,Soy and meat-alternative products
+41421020,Soy and meat-alternative products
+41425010,Soy and meat-alternative products
+41440000,Soy and meat-alternative products
+41480020,Soy and meat-alternative products
+41601010,"Soups, broth-based"
+41601030,"Soups, broth-based"
+41601070,Ramen and Asian broth-based soups
+41601160,"Soups, broth-based"
+41601180,"Soups, broth-based"
+41602030,"Soups, broth-based"
+41602050,"Soups, broth-based"
+41603000,"Soups, broth-based"
+41603005,"Soups, broth-based"
+41603010,"Soups, broth-based"
+41603020,"Soups, broth-based"
+41603030,"Soups, broth-based"
+41810200,Soy and meat-alternative products
+41810250,Bacon
+41810400,Soy and meat-alternative products
+41810600,Soy and meat-alternative products
+41810610,Soy and meat-alternative products
+41811400,Soy and meat-alternative products
+41811600,Soy and meat-alternative products
+41811800,Soy and meat-alternative products
+41811890,Soy and meat-alternative products
+41811950,"Bean, pea, legume dishes"
+41812400,"Bean, pea, legume dishes"
+41812500,Stir-fry and soy-based sauce mixtures
+41812510,Stir-fry and soy-based sauce mixtures
+41812600,Soy and meat-alternative products
+41812800,Vegetable dishes
+41812850,"Bean, pea, legume dishes"
+41901010,Vegetable sandwiches/burgers
+41901020,Vegetable sandwiches/burgers
+41901030,Vegetable sandwiches/burgers
+42100050,Nuts and seeds
+42100100,Nuts and seeds
+42101000,Nuts and seeds
+42101110,Nuts and seeds
+42101120,Nuts and seeds
+42101130,Nuts and seeds
+42101300,Nuts and seeds
+42101350,Nuts and seeds
+42102000,Nuts and seeds
+42104000,Nuts and seeds
+42104050,Nuts and seeds
+42104100,Nuts and seeds
+42104105,Nuts and seeds
+42104110,Nuts and seeds
+42104500,Nuts and seeds
+42105000,Nuts and seeds
+42106000,Nuts and seeds
+42106020,Nuts and seeds
+42107000,Nuts and seeds
+42109100,Nuts and seeds
+42110000,Nuts and seeds
+42110050,Nuts and seeds
+42110100,Nuts and seeds
+42110110,Nuts and seeds
+42110120,Nuts and seeds
+42110150,Nuts and seeds
+42110160,Nuts and seeds
+42110300,Nuts and seeds
+42111000,Nuts and seeds
+42111030,Nuts and seeds
+42111040,Nuts and seeds
+42111100,Nuts and seeds
+42111110,Nuts and seeds
+42111200,Nuts and seeds
+42111205,Nuts and seeds
+42111210,Nuts and seeds
+42111500,Nuts and seeds
+42112000,Nuts and seeds
+42112100,Nuts and seeds
+42112200,Nuts and seeds
+42112210,Nuts and seeds
+42112300,Nuts and seeds
+42113000,Nuts and seeds
+42114130,Nuts and seeds
+42114140,Nuts and seeds
+42114142,Nuts and seeds
+42114145,Nuts and seeds
+42116000,Nuts and seeds
+42116100,Nuts and seeds
+42200500,Nuts and seeds
+42200510,Nuts and seeds
+42200600,Nuts and seeds
+42201000,Nuts and seeds
+42202000,Nuts and seeds
+42202010,Nuts and seeds
+42202100,Nuts and seeds
+42202130,Nuts and seeds
+42202150,Nuts and seeds
+42202200,Nuts and seeds
+42203000,Nuts and seeds
+42203100,Nuts and seeds
+42203200,Soy and meat-alternative products
+42204050,"Dips, gravies, other sauces"
+42204060,"Soups, cream-based"
+42204100,"Dips, gravies, other sauces"
+42301010,Peanut butter and jelly sandwiches
+42301015,Peanut butter and jelly sandwiches
+42301020,Peanut butter and jelly sandwiches
+42301115,Peanut butter and jelly sandwiches
+42301120,Peanut butter and jelly sandwiches
+42302010,Peanut butter and jelly sandwiches
+42302015,Peanut butter and jelly sandwiches
+42302020,Peanut butter and jelly sandwiches
+42302055,Peanut butter and jelly sandwiches
+42302060,Peanut butter and jelly sandwiches
+42302105,Peanut butter and jelly sandwiches
+42302110,Peanut butter and jelly sandwiches
+42303100,Peanut butter and jelly sandwiches
+42304010,Peanut butter and jelly sandwiches
+42304020,Peanut butter and jelly sandwiches
+42304030,Peanut butter and jelly sandwiches
+42304040,Peanut butter and jelly sandwiches
+42305010,Peanut butter and jelly sandwiches
+42305020,Peanut butter and jelly sandwiches
+42401010,Plant-based milk
+42401100,Plant-based yogurt
+42401200,Plant-based yogurt
+42402010,Plant-based milk
+42403010,Fruit drinks
+42404010,Fruit drinks
+42500000,Nuts and seeds
+42500100,Nuts and seeds
+42501000,Nuts and seeds
+42501500,Nuts and seeds
+42502100,Nuts and seeds
+43101050,Nuts and seeds
+43101100,Nuts and seeds
+43101150,Nuts and seeds
+43102000,Nuts and seeds
+43102100,Nuts and seeds
+43102300,Nuts and seeds
+43102400,Nuts and seeds
+43103000,Nuts and seeds
+43103300,Nuts and seeds
+43104000,Nuts and seeds
+43107000,Nuts and seeds
+43108010,Nuts and seeds
+51000100,Yeast breads
+51000110,Yeast breads
+51000180,Yeast breads
+51000190,Yeast breads
+51000200,Rolls and buns
+51000300,Rolls and buns
+51000400,Rolls and buns
+51101000,Yeast breads
+51101010,Yeast breads
+51101050,Yeast breads
+51101060,Yeast breads
+51102010,Yeast breads
+51102020,Yeast breads
+51105010,Yeast breads
+51105040,Yeast breads
+51106010,Yeast breads
+51106020,Yeast breads
+51106200,Yeast breads
+51106210,Yeast breads
+51107010,Yeast breads
+51107040,Yeast breads
+51108010,Yeast breads
+51108100,Yeast breads
+51109010,Yeast breads
+51109040,Yeast breads
+51109100,Yeast breads
+51109150,Yeast breads
+51111010,Yeast breads
+51111040,Yeast breads
+51113010,Yeast breads
+51113100,Yeast breads
+51115010,Yeast breads
+51115020,Yeast breads
+51119010,Yeast breads
+51119040,Yeast breads
+51121015,Yeast breads
+51121025,Yeast breads
+51121035,Yeast breads
+51121045,Yeast breads
+51121055,Yeast breads
+51121065,Yeast breads
+51121075,Yeast breads
+51121110,Yeast breads
+51121120,Yeast breads
+51122000,Yeast breads
+51122010,Yeast breads
+51122100,Yeast breads
+51122110,Yeast breads
+51122300,Yeast breads
+51122310,Yeast breads
+51123020,Yeast breads
+51127010,Yeast breads
+51127020,Yeast breads
+51129010,Yeast breads
+51129020,Yeast breads
+51133010,Yeast breads
+51133020,Yeast breads
+51134000,Yeast breads
+51134010,Yeast breads
+51135000,Yeast breads
+51135010,Yeast breads
+51136000,Vegetable sandwiches/burgers
+51140100,Yeast breads
+51150000,Rolls and buns
+51153000,Rolls and buns
+51154010,Rolls and buns
+51154100,Rolls and buns
+51154510,Rolls and buns
+51154550,Rolls and buns
+51154600,Rolls and buns
+51155000,Rolls and buns
+51156500,Rolls and buns
+51157000,Rolls and buns
+51158100,Rolls and buns
+51159000,Rolls and buns
+51160000,"Doughnuts, sweet rolls, pastries"
+51160100,"Doughnuts, sweet rolls, pastries"
+51160110,"Doughnuts, sweet rolls, pastries"
+51160200,"Doughnuts, sweet rolls, pastries"
+51161000,"Doughnuts, sweet rolls, pastries"
+51161020,"Doughnuts, sweet rolls, pastries"
+51161030,"Doughnuts, sweet rolls, pastries"
+51161050,"Doughnuts, sweet rolls, pastries"
+51161250,"Doughnuts, sweet rolls, pastries"
+51161270,"Doughnuts, sweet rolls, pastries"
+51161280,"Doughnuts, sweet rolls, pastries"
+51165000,"Doughnuts, sweet rolls, pastries"
+51166000,"Doughnuts, sweet rolls, pastries"
+51166100,"Doughnuts, sweet rolls, pastries"
+51166200,"Doughnuts, sweet rolls, pastries"
+51166500,"Doughnuts, sweet rolls, pastries"
+51167000,"Doughnuts, sweet rolls, pastries"
+51168000,"Doughnuts, sweet rolls, pastries"
+51180010,Bagels and English muffins
+51180030,Bagels and English muffins
+51180080,Bagels and English muffins
+51182010,Turnovers and other grain-based items
+51182020,Turnovers and other grain-based items
+51183990,Rolls and buns
+51184000,"Crackers, excludes saltines"
+51184100,"Crackers, excludes saltines"
+51184200,Rolls and buns
+51184210,Rolls and buns
+51184220,Rolls and buns
+51184230,Rolls and buns
+51184260,Rolls and buns
+51185000,"Crackers, excludes saltines"
+51186010,Bagels and English muffins
+51186100,Bagels and English muffins
+51186130,Bagels and English muffins
+51186160,Bagels and English muffins
+51187000,"Crackers, excludes saltines"
+51187020,Cookies and brownies
+51188100,"Doughnuts, sweet rolls, pastries"
+51188500,"Crackers, excludes saltines"
+51300050,Yeast breads
+51300060,Yeast breads
+51300100,Bagels and English muffins
+51300110,Yeast breads
+51300120,Yeast breads
+51300140,Yeast breads
+51300150,Yeast breads
+51300175,Yeast breads
+51300180,Yeast breads
+51300185,Yeast breads
+51300210,Yeast breads
+51300220,Yeast breads
+51300300,Yeast breads
+51300310,Yeast breads
+51301010,Yeast breads
+51301020,Yeast breads
+51301040,Yeast breads
+51301050,Yeast breads
+51301120,Yeast breads
+51301130,Yeast breads
+51301510,Yeast breads
+51301520,Yeast breads
+51301540,Yeast breads
+51301550,Yeast breads
+51301600,Yeast breads
+51301620,Yeast breads
+51301700,Bagels and English muffins
+51301750,Bagels and English muffins
+51301800,Bagels and English muffins
+51301805,Bagels and English muffins
+51301820,Bagels and English muffins
+51301900,Bagels and English muffins
+51302500,Bagels and English muffins
+51302520,Bagels and English muffins
+51303010,Bagels and English muffins
+51303030,Bagels and English muffins
+51303050,Bagels and English muffins
+51303070,Bagels and English muffins
+51303100,Bagels and English muffins
+51306000,"Crackers, excludes saltines"
+51320010,Rolls and buns
+51320060,Rolls and buns
+51320070,Rolls and buns
+51320500,Rolls and buns
+51320550,Rolls and buns
+51320560,Rolls and buns
+51320700,Rolls and buns
+51320710,Rolls and buns
+51320720,Rolls and buns
+51401010,Yeast breads
+51401020,Yeast breads
+51401030,Yeast breads
+51401040,Yeast breads
+51401200,Bagels and English muffins
+51404010,Yeast breads
+51404020,Yeast breads
+51404500,Bagels and English muffins
+51404550,Bagels and English muffins
+51407010,Yeast breads
+51407020,Yeast breads
+51420000,Rolls and buns
+51421000,Rolls and buns
+51501010,Yeast breads
+51501020,Yeast breads
+51501040,Yeast breads
+51501050,Yeast breads
+51501080,Bagels and English muffins
+51502010,Rolls and buns
+51503000,Bagels and English muffins
+51503040,Bagels and English muffins
+51601010,Yeast breads
+51601020,Yeast breads
+51601210,Yeast breads
+51601220,Yeast breads
+51602010,Yeast breads
+51602020,Yeast breads
+51620000,Rolls and buns
+51620020,Rolls and buns
+51620030,Rolls and buns
+51630000,Bagels and English muffins
+51630100,Bagels and English muffins
+51630200,Bagels and English muffins
+51801010,Yeast breads
+51801020,Yeast breads
+51804010,Yeast breads
+51804020,Yeast breads
+51805010,Yeast breads
+51805020,Yeast breads
+51806010,Yeast breads
+51806020,Yeast breads
+51807000,Yeast breads
+51808000,Yeast breads
+51808010,Yeast breads
+51808050,"Crackers, excludes saltines"
+51808100,Rolls and buns
+52101000,"Biscuits, muffins, quick breads"
+52102040,"Biscuits, muffins, quick breads"
+52103000,"Biscuits, muffins, quick breads"
+52104010,"Biscuits, muffins, quick breads"
+52104040,"Biscuits, muffins, quick breads"
+52104100,"Biscuits, muffins, quick breads"
+52104200,"Biscuits, muffins, quick breads"
+52105100,"Biscuits, muffins, quick breads"
+52105200,"Biscuits, muffins, quick breads"
+52201000,"Biscuits, muffins, quick breads"
+52202060,"Biscuits, muffins, quick breads"
+52204000,Turnovers and other grain-based items
+52206010,"Biscuits, muffins, quick breads"
+52206060,"Biscuits, muffins, quick breads"
+52207010,"Biscuits, muffins, quick breads"
+52208010,"Biscuits, muffins, quick breads"
+52208020,"Biscuits, muffins, quick breads"
+52208760,Tortillas
+52209010,"Biscuits, muffins, quick breads"
+52211010,"Biscuits, muffins, quick breads"
+52213010,"Biscuits, muffins, quick breads"
+52215000,Tortillas
+52215100,Tortillas
+52215200,Tortillas
+52215260,Tortillas
+52215300,Tortillas
+52215350,Tortillas
+52220110,"Biscuits, muffins, quick breads"
+52301000,"Biscuits, muffins, quick breads"
+52302010,"Biscuits, muffins, quick breads"
+52302020,"Biscuits, muffins, quick breads"
+52302500,"Biscuits, muffins, quick breads"
+52302600,"Biscuits, muffins, quick breads"
+52303010,"Biscuits, muffins, quick breads"
+52303500,"Biscuits, muffins, quick breads"
+52304000,"Biscuits, muffins, quick breads"
+52304010,"Biscuits, muffins, quick breads"
+52304040,"Biscuits, muffins, quick breads"
+52304100,"Biscuits, muffins, quick breads"
+52304150,"Biscuits, muffins, quick breads"
+52306010,"Biscuits, muffins, quick breads"
+52306300,"Biscuits, muffins, quick breads"
+52306500,"Biscuits, muffins, quick breads"
+52306550,"Biscuits, muffins, quick breads"
+52306700,"Biscuits, muffins, quick breads"
+52311010,"Biscuits, muffins, quick breads"
+52401000,"Biscuits, muffins, quick breads"
+52403000,"Biscuits, muffins, quick breads"
+52404060,"Biscuits, muffins, quick breads"
+52405010,"Biscuits, muffins, quick breads"
+52407000,"Biscuits, muffins, quick breads"
+52408000,"Biscuits, muffins, quick breads"
+53100100,Cakes and pies
+53101100,Cakes and pies
+53102200,Cakes and pies
+53102700,Cakes and pies
+53102800,Cakes and pies
+53103000,Cakes and pies
+53104260,Cakes and pies
+53104400,Cakes and pies
+53104500,Cakes and pies
+53104550,Cakes and pies
+53104600,Cakes and pies
+53105262,Cakes and pies
+53105264,Cakes and pies
+53105270,Cakes and pies
+53105272,Cakes and pies
+53105275,Cakes and pies
+53105300,Cakes and pies
+53105310,Cakes and pies
+53105396,Cakes and pies
+53106500,Cakes and pies
+53108200,Cakes and pies
+53109200,Cakes and pies
+53110000,Cakes and pies
+53111000,Cakes and pies
+53112100,Cakes and pies
+53113000,Cakes and pies
+53114100,Cakes and pies
+53115200,Cakes and pies
+53115450,Cakes and pies
+53116000,Cakes and pies
+53116510,Cakes and pies
+53116520,Cakes and pies
+53117200,Cakes and pies
+53118100,Cakes and pies
+53118110,Cakes and pies
+53118500,Cakes and pies
+53118550,Cakes and pies
+53119000,Cakes and pies
+53120270,Cakes and pies
+53120272,Cakes and pies
+53121270,Cakes and pies
+53121272,Cakes and pies
+53121275,Cakes and pies
+53123070,Cakes and pies
+53124110,Cakes and pies
+53200100,Cookies and brownies
+53201000,Cookies and brownies
+53202000,Cookies and brownies
+53203000,Cookies and brownies
+53203500,Cookies and brownies
+53204000,Cookies and brownies
+53204010,Cookies and brownies
+53204100,Cookies and brownies
+53204840,Cookies and brownies
+53205250,Cookies and brownies
+53205260,Cookies and brownies
+53206000,Cookies and brownies
+53206020,Cookies and brownies
+53206030,Cookies and brownies
+53206100,Cookies and brownies
+53206500,Cookies and brownies
+53206550,Cookies and brownies
+53207000,Cookies and brownies
+53208000,Cookies and brownies
+53208200,Cookies and brownies
+53209005,Cookies and brownies
+53209010,Cookies and brownies
+53209015,Cookies and brownies
+53209020,Cookies and brownies
+53209100,Cookies and brownies
+53209500,Cookies and brownies
+53210000,Cookies and brownies
+53210900,Cookies and brownies
+53211000,Cookies and brownies
+53215500,Cookies and brownies
+53220000,Cookies and brownies
+53220030,Cookies and brownies
+53222010,Cookies and brownies
+53222020,Cookies and brownies
+53223000,Cookies and brownies
+53223100,Cookies and brownies
+53224000,Cookies and brownies
+53224250,Cookies and brownies
+53225000,Cookies and brownies
+53226000,Cookies and brownies
+53226500,Cookies and brownies
+53226550,Cookies and brownies
+53226600,Cookies and brownies
+53228000,Cookies and brownies
+53230000,Cookies and brownies
+53231000,Cookies and brownies
+53231400,Cookies and brownies
+53233000,Cookies and brownies
+53233010,Cookies and brownies
+53233040,Cookies and brownies
+53233050,Cookies and brownies
+53233060,Cookies and brownies
+53233080,Cookies and brownies
+53233100,Cookies and brownies
+53234000,Cookies and brownies
+53234100,Cookies and brownies
+53234250,Cookies and brownies
+53235000,Cookies and brownies
+53235500,Cookies and brownies
+53235600,Cookies and brownies
+53236000,Cookies and brownies
+53236100,Cookies and brownies
+53237000,Cookies and brownies
+53237010,Cookies and brownies
+53237500,Cookies and brownies
+53238000,Cookies and brownies
+53239000,Cookies and brownies
+53239010,Cookies and brownies
+53239050,Cookies and brownies
+53239100,Cookies and brownies
+53240000,Cookies and brownies
+53240010,Cookies and brownies
+53241500,Cookies and brownies
+53241510,Cookies and brownies
+53241600,Cookies and brownies
+53242000,Cookies and brownies
+53242500,Cookies and brownies
+53243000,Cookies and brownies
+53243010,Cookies and brownies
+53243050,Cookies and brownies
+53244010,Cookies and brownies
+53244020,Cookies and brownies
+53246000,Cookies and brownies
+53247000,Cookies and brownies
+53247050,Cookies and brownies
+53247500,Cookies and brownies
+53251100,Cookies and brownies
+53260030,Cookies and brownies
+53260200,Cookies and brownies
+53260300,Cookies and brownies
+53260400,Cookies and brownies
+53260500,Cookies and brownies
+53260600,Cookies and brownies
+53261000,Cookies and brownies
+53270100,Cookies and brownies
+53300100,Cakes and pies
+53300200,Cakes and pies
+53301000,Cakes and pies
+53301070,Cakes and pies
+53303500,Cakes and pies
+53304000,Cakes and pies
+53305000,Cakes and pies
+53305700,Cakes and pies
+53305800,Cakes and pies
+53307000,Cakes and pies
+53312000,Cakes and pies
+53341000,Cakes and pies
+53342000,Cakes and pies
+53343000,Cakes and pies
+53344000,Cakes and pies
+53344300,Cakes and pies
+53346000,Cakes and pies
+53346500,Cakes and pies
+53347000,Cakes and pies
+53360000,Cakes and pies
+53365000,Cakes and pies
+53381000,Cakes and pies
+53385000,Cakes and pies
+53385500,Cakes and pies
+53391000,Cakes and pies
+53391100,Cakes and pies
+53410100,Cakes and pies
+53410300,Cakes and pies
+53410500,Cakes and pies
+53410800,Cakes and pies
+53415100,Cakes and pies
+53415110,"Doughnuts, sweet rolls, pastries"
+53415120,"Doughnuts, sweet rolls, pastries"
+53415300,Cakes and pies
+53415400,Cakes and pies
+53415500,Cakes and pies
+53420000,"Doughnuts, sweet rolls, pastries"
+53420100,"Doughnuts, sweet rolls, pastries"
+53420200,"Doughnuts, sweet rolls, pastries"
+53420210,"Doughnuts, sweet rolls, pastries"
+53420250,"Doughnuts, sweet rolls, pastries"
+53420400,"Doughnuts, sweet rolls, pastries"
+53420410,"Doughnuts, sweet rolls, pastries"
+53430100,"Pancakes, waffles, French toast"
+53430200,"Pancakes, waffles, French toast"
+53430700,"Doughnuts, sweet rolls, pastries"
+53440000,Cakes and pies
+53440300,Cakes and pies
+53440500,Cakes and pies
+53440600,Cakes and pies
+53440700,Cakes and pies
+53441110,Cakes and pies
+53441210,Cakes and pies
+53450000,Cakes and pies
+53452100,"Doughnuts, sweet rolls, pastries"
+53452120,"Doughnuts, sweet rolls, pastries"
+53452130,"Doughnuts, sweet rolls, pastries"
+53452150,"Doughnuts, sweet rolls, pastries"
+53452170,"Doughnuts, sweet rolls, pastries"
+53452200,"Doughnuts, sweet rolls, pastries"
+53452400,"Doughnuts, sweet rolls, pastries"
+53452420,"Doughnuts, sweet rolls, pastries"
+53452450,"Doughnuts, sweet rolls, pastries"
+53452500,"Doughnuts, sweet rolls, pastries"
+53453150,Cakes and pies
+53500100,"Doughnuts, sweet rolls, pastries"
+53510000,"Doughnuts, sweet rolls, pastries"
+53510100,"Doughnuts, sweet rolls, pastries"
+53511000,"Doughnuts, sweet rolls, pastries"
+53520000,"Doughnuts, sweet rolls, pastries"
+53520100,"Doughnuts, sweet rolls, pastries"
+53520120,"Doughnuts, sweet rolls, pastries"
+53520130,"Doughnuts, sweet rolls, pastries"
+53520135,"Doughnuts, sweet rolls, pastries"
+53520140,"Doughnuts, sweet rolls, pastries"
+53520160,"Doughnuts, sweet rolls, pastries"
+53520170,"Doughnuts, sweet rolls, pastries"
+53520200,"Doughnuts, sweet rolls, pastries"
+53520510,"Doughnuts, sweet rolls, pastries"
+53521110,"Doughnuts, sweet rolls, pastries"
+53521130,"Doughnuts, sweet rolls, pastries"
+53521140,"Doughnuts, sweet rolls, pastries"
+53521210,"Doughnuts, sweet rolls, pastries"
+53521230,"Doughnuts, sweet rolls, pastries"
+53530000,"Doughnuts, sweet rolls, pastries"
+53530010,"Doughnuts, sweet rolls, pastries"
+53610100,"Doughnuts, sweet rolls, pastries"
+53610170,"Doughnuts, sweet rolls, pastries"
+53610200,"Doughnuts, sweet rolls, pastries"
+53710400,Cereal bars
+53710500,Cereal bars
+53710502,Cereal bars
+53710504,Cereal bars
+53710600,Cereal bars
+53710700,Cereal bars
+53710800,Nutrition bars
+53710802,Nutrition bars
+53710810,Cereal bars
+53710900,Cereal bars
+53710902,Cereal bars
+53710904,Cereal bars
+53710906,Cereal bars
+53711000,Cereal bars
+53711002,Cereal bars
+53711004,Cereal bars
+53711006,Cereal bars
+53711100,Cereal bars
+53712000,Cereal bars
+53712100,Cereal bars
+53712200,Cereal bars
+53712210,Cereal bars
+53713000,Cereal bars
+53713010,Cereal bars
+53713100,Cereal bars
+53714200,Cereal bars
+53714210,Cereal bars
+53714220,Cereal bars
+53714230,Cereal bars
+53714250,Cereal bars
+53714300,Cereal bars
+53714400,Cereal bars
+53714500,Cereal bars
+53714510,Cereal bars
+53714520,Cereal bars
+53720100,Nutrition bars
+53720200,Nutrition bars
+53720210,Nutrition bars
+53720300,Nutrition bars
+53720400,Nutrition bars
+53720500,Nutrition bars
+53720600,Nutrition bars
+53720610,Nutrition bars
+53720700,Nutrition bars
+53720800,Nutrition bars
+53729000,Nutrition bars
+53800000,Baby food: snacks and sweets
+53801000,Baby food: snacks and sweets
+53803100,Baby food: snacks and sweets
+53803300,Baby food: snacks and sweets
+54001000,"Crackers, excludes saltines"
+54102010,Cookies and brownies
+54102015,Cookies and brownies
+54102020,Cookies and brownies
+54102050,"Crackers, excludes saltines"
+54102060,Cookies and brownies
+54102100,Cookies and brownies
+54102200,Cookies and brownies
+54103000,"Crackers, excludes saltines"
+54200100,"Crackers, excludes saltines"
+54201010,"Crackers, excludes saltines"
+54202020,Saltine crackers
+54204020,"Crackers, excludes saltines"
+54204030,"Crackers, excludes saltines"
+54301010,"Crackers, excludes saltines"
+54301020,"Crackers, excludes saltines"
+54301030,"Crackers, excludes saltines"
+54301100,"Crackers, excludes saltines"
+54304000,"Crackers, excludes saltines"
+54304005,"Crackers, excludes saltines"
+54304020,"Crackers, excludes saltines"
+54304100,"Crackers, excludes saltines"
+54304110,"Crackers, excludes saltines"
+54304150,"Crackers, excludes saltines"
+54305010,"Crackers, excludes saltines"
+54305020,"Crackers, excludes saltines"
+54307000,"Crackers, excludes saltines"
+54308000,"Crackers, excludes saltines"
+54313000,Saltine crackers
+54318000,"Tortilla, corn, other chips"
+54318500,"Crackers, excludes saltines"
+54319000,"Crackers, excludes saltines"
+54319005,"Crackers, excludes saltines"
+54319020,"Crackers, excludes saltines"
+54319500,"Crackers, excludes saltines"
+54325000,Saltine crackers
+54325010,Saltine crackers
+54325060,Saltine crackers
+54326000,"Crackers, excludes saltines"
+54328000,"Crackers, excludes saltines"
+54328100,"Crackers, excludes saltines"
+54328105,"Crackers, excludes saltines"
+54328110,"Crackers, excludes saltines"
+54328120,"Crackers, excludes saltines"
+54328200,"Crackers, excludes saltines"
+54328210,"Crackers, excludes saltines"
+54336000,"Crackers, excludes saltines"
+54336100,"Crackers, excludes saltines"
+54337010,"Crackers, excludes saltines"
+54337020,"Crackers, excludes saltines"
+54337030,"Crackers, excludes saltines"
+54337060,"Crackers, excludes saltines"
+54338000,"Crackers, excludes saltines"
+54338010,"Crackers, excludes saltines"
+54338020,"Crackers, excludes saltines"
+54338100,"Crackers, excludes saltines"
+54340100,"Crackers, excludes saltines"
+54340110,"Crackers, excludes saltines"
+54350000,Baby food: snacks and sweets
+54350100,Baby food: snacks and sweets
+54350200,Baby food: snacks and sweets
+54360000,Baby food: snacks and sweets
+54360100,Baby food: snacks and sweets
+54401011,"Tortilla, corn, other chips"
+54401021,"Tortilla, corn, other chips"
+54401026,"Tortilla, corn, other chips"
+54401031,"Tortilla, corn, other chips"
+54401035,"Tortilla, corn, other chips"
+54401055,"Tortilla, corn, other chips"
+54401065,"Tortilla, corn, other chips"
+54401075,"Tortilla, corn, other chips"
+54401081,"Tortilla, corn, other chips"
+54401085,"Tortilla, corn, other chips"
+54401090,"Tortilla, corn, other chips"
+54401110,"Tortilla, corn, other chips"
+54401111,"Tortilla, corn, other chips"
+54401112,"Tortilla, corn, other chips"
+54401121,"Tortilla, corn, other chips"
+54401122,"Tortilla, corn, other chips"
+54401170,"Tortilla, corn, other chips"
+54402080,"Tortilla, corn, other chips"
+54402200,Pretzels/snack mix
+54402610,Potato chips
+54402700,"Crackers, excludes saltines"
+54403001,Popcorn
+54403005,Popcorn
+54403006,Popcorn
+54403010,Popcorn
+54403040,Popcorn
+54403045,Popcorn
+54403046,Popcorn
+54403051,Popcorn
+54403052,Popcorn
+54403053,Popcorn
+54403054,Popcorn
+54403056,Popcorn
+54403057,Popcorn
+54403058,Popcorn
+54403059,Popcorn
+54403080,Popcorn
+54403081,Popcorn
+54403082,Popcorn
+54403083,Popcorn
+54403085,Popcorn
+54403087,Popcorn
+54403088,Popcorn
+54403089,Popcorn
+54403110,Popcorn
+54403120,Popcorn
+54403160,Popcorn
+54404000,"Tortilla, corn, other chips"
+54404010,"Tortilla, corn, other chips"
+54404020,"Tortilla, corn, other chips"
+54406010,"Tortilla, corn, other chips"
+54406200,"Tortilla, corn, other chips"
+54408000,Pretzels/snack mix
+54408015,Pretzels/snack mix
+54408016,Pretzels/snack mix
+54408017,Pretzels/snack mix
+54408030,Pretzels/snack mix
+54408035,Pretzels/snack mix
+54408070,Pretzels/snack mix
+54408081,Pretzels/snack mix
+54408082,Pretzels/snack mix
+54408105,Pretzels/snack mix
+54408110,Pretzels/snack mix
+54408115,Pretzels/snack mix
+54408190,Pretzels/snack mix
+54408200,Pretzels/snack mix
+54408210,Pretzels/snack mix
+54408250,Pretzels/snack mix
+54408260,Pretzels/snack mix
+54408290,Pretzels/snack mix
+54408300,Pretzels/snack mix
+54408310,Pretzels/snack mix
+54408400,Pretzels/snack mix
+54408405,Pretzels/snack mix
+54408410,Pretzels/snack mix
+54408411,Pretzels/snack mix
+54408415,Pretzels/snack mix
+54408416,Pretzels/snack mix
+54408420,Pretzels/snack mix
+54408422,Pretzels/snack mix
+54408430,Pretzels/snack mix
+54408432,Pretzels/snack mix
+54408450,Pretzels/snack mix
+54408455,Pretzels/snack mix
+54408456,Pretzels/snack mix
+54408460,Pretzels/snack mix
+54408462,Pretzels/snack mix
+54408465,Pretzels/snack mix
+54408466,Pretzels/snack mix
+54408470,Pretzels/snack mix
+54408475,Pretzels/snack mix
+54408480,Pretzels/snack mix
+54408485,Pretzels/snack mix
+54408486,Pretzels/snack mix
+54408487,Pretzels/snack mix
+54420210,"Tortilla, corn, other chips"
+54420220,Pretzels/snack mix
+54440010,"Crackers, excludes saltines"
+54440020,"Tortilla, corn, other chips"
+55100005,"Pancakes, waffles, French toast"
+55100010,"Pancakes, waffles, French toast"
+55100020,"Pancakes, waffles, French toast"
+55100025,"Pancakes, waffles, French toast"
+55100030,"Pancakes, waffles, French toast"
+55100050,"Pancakes, waffles, French toast"
+55100055,"Pancakes, waffles, French toast"
+55100060,"Pancakes, waffles, French toast"
+55100065,"Pancakes, waffles, French toast"
+55100080,"Pancakes, waffles, French toast"
+55101000,"Pancakes, waffles, French toast"
+55101015,"Pancakes, waffles, French toast"
+55103000,"Pancakes, waffles, French toast"
+55103020,"Pancakes, waffles, French toast"
+55103100,"Pancakes, waffles, French toast"
+55105200,"Pancakes, waffles, French toast"
+55105205,"Pancakes, waffles, French toast"
+55106000,"Pancakes, waffles, French toast"
+55200010,"Pancakes, waffles, French toast"
+55200020,"Pancakes, waffles, French toast"
+55200030,"Pancakes, waffles, French toast"
+55200040,"Pancakes, waffles, French toast"
+55200050,"Pancakes, waffles, French toast"
+55200060,"Pancakes, waffles, French toast"
+55200070,"Pancakes, waffles, French toast"
+55200080,"Pancakes, waffles, French toast"
+55200100,"Pancakes, waffles, French toast"
+55200110,"Pancakes, waffles, French toast"
+55200120,"Pancakes, waffles, French toast"
+55200130,"Pancakes, waffles, French toast"
+55200200,"Pancakes, waffles, French toast"
+55201000,"Pancakes, waffles, French toast"
+55203000,"Pancakes, waffles, French toast"
+55203600,"Pancakes, waffles, French toast"
+55203700,"Pancakes, waffles, French toast"
+55205000,"Pancakes, waffles, French toast"
+55208000,"Pancakes, waffles, French toast"
+55300010,"Pancakes, waffles, French toast"
+55300020,"Pancakes, waffles, French toast"
+55300050,"Pancakes, waffles, French toast"
+55300060,"Pancakes, waffles, French toast"
+55301000,"Pancakes, waffles, French toast"
+55301015,"Pancakes, waffles, French toast"
+55301025,"Pancakes, waffles, French toast"
+55301031,"Pancakes, waffles, French toast"
+55301040,"Pancakes, waffles, French toast"
+55301048,"Pancakes, waffles, French toast"
+55400010,"Pancakes, waffles, French toast"
+55401000,"Pancakes, waffles, French toast"
+55501000,"Pancakes, waffles, French toast"
+55610300,"Biscuits, muffins, quick breads"
+55701000,Rice mixed dishes
+55702000,Rice mixed dishes
+55702100,"Pancakes, waffles, French toast"
+55703000,Rice mixed dishes
+55801000,"Doughnuts, sweet rolls, pastries"
+55801010,"Doughnuts, sweet rolls, pastries"
+56104000,"Pasta, noodles, cooked grains"
+56112000,"Pasta, noodles, cooked grains"
+56113000,"Pasta, noodles, cooked grains"
+56116000,"Crackers, excludes saltines"
+56116990,"Pasta, noodles, cooked grains"
+56117090,"Pasta, noodles, cooked grains"
+56130000,"Pasta, noodles, cooked grains"
+56132990,"Pasta, noodles, cooked grains"
+56140100,"Pasta, noodles, cooked grains"
+56200300,Grits and other cooked cereals
+56200410,"Pasta, noodles, cooked grains"
+56200510,"Pasta, noodles, cooked grains"
+56200990,Grits and other cooked cereals
+56201050,Grits and other cooked cereals
+56201051,Grits and other cooked cereals
+56201052,Grits and other cooked cereals
+56201090,Grits and other cooked cereals
+56201091,Grits and other cooked cereals
+56201092,Grits and other cooked cereals
+56201210,Grits and other cooked cereals
+56201220,Grits and other cooked cereals
+56201230,Grits and other cooked cereals
+56201515,Grits and other cooked cereals
+56201516,Grits and other cooked cereals
+56201517,Grits and other cooked cereals
+56201600,Grits and other cooked cereals
+56202000,"Pasta, noodles, cooked grains"
+56202900,Oatmeal
+56202905,Oatmeal
+56202960,Oatmeal
+56203056,Oatmeal
+56203057,Oatmeal
+56203066,Oatmeal
+56203067,Oatmeal
+56203076,Oatmeal
+56203077,Oatmeal
+56203086,Oatmeal
+56203087,Oatmeal
+56203096,Oatmeal
+56203097,Oatmeal
+56203106,Oatmeal
+56203107,Oatmeal
+56203130,Oatmeal
+56203135,Oatmeal
+56203155,Oatmeal
+56203160,Oatmeal
+56203555,Oatmeal
+56203610,Oatmeal
+56204000,"Pasta, noodles, cooked grains"
+56204005,"Pasta, noodles, cooked grains"
+56204010,"Pasta, noodles, cooked grains"
+56205000,Rice
+56205001,Rice
+56205002,Rice
+56205004,Rice
+56205006,Rice
+56205007,Rice
+56205008,Rice
+56205011,Rice
+56205012,Rice
+56205014,Rice
+56205016,Rice
+56205017,Rice
+56205018,Rice
+56205050,Grits and other cooked cereals
+56205060,Rice
+56205070,Rice
+56205101,Rice
+56205130,Rice
+56205150,Rice
+56205170,Rice
+56205190,Rice
+56205205,Rice
+56205210,Rice
+56205215,Rice
+56205300,Rice
+56205310,Rice
+56205320,Rice
+56205330,Rice
+56205340,Rice
+56205350,Rice
+56205410,Rice
+56206990,Grits and other cooked cereals
+56207016,Grits and other cooked cereals
+56207017,Grits and other cooked cereals
+56207030,Grits and other cooked cereals
+56207060,Grits and other cooked cereals
+56207110,"Pasta, noodles, cooked grains"
+56207120,"Pasta, noodles, cooked grains"
+56207130,"Pasta, noodles, cooked grains"
+56207160,"Pasta, noodles, cooked grains"
+56207200,Grits and other cooked cereals
+56207370,Grits and other cooked cereals
+56208500,Grits and other cooked cereals
+57100100,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57103100,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57119000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57123000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57124200,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57125000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57126000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57132000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57134000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57137000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57151000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57207000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57214000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57216000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57221700,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57223000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57227000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57237100,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57240100,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57241000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57301600,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57304100,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57305150,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57308400,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57329000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57336000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57344000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57344010,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57347000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57348000,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57401100,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57411000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57412000,Not included in a food category
+57416000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57417000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57418000,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57420100,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57420110,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57420120,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57420130,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57420140,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57420150,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+57420160,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+57601100,Not included in a food category
+57602100,Not included in a food category
+57602500,Not included in a food category
+57801000,Baby food: cereals
+57804000,Baby food: cereals
+57805000,Baby food: cereals
+57805090,Baby food: cereals
+57806000,Baby food: cereals
+57806050,Baby food: cereals
+57806100,Baby food: cereals
+57820000,Baby food: cereals
+57820100,Baby food: cereals
+57820200,Baby food: cereals
+57820300,Baby food: cereals
+57822000,Baby food: cereals
+57823000,Baby food: cereals
+57824000,Baby food: cereals
+58100360,Other Mexican mixed dishes
+58101830,Other Mexican mixed dishes
+58101835,Other Mexican mixed dishes
+58101930,Burritos and tacos
+58101935,Burritos and tacos
+58101940,Burritos and tacos
+58101945,Burritos and tacos
+58101950,Burritos and tacos
+58101955,Burritos and tacos
+58102000,Burritos and tacos
+58102010,Burritos and tacos
+58102020,Burritos and tacos
+58102030,Burritos and tacos
+58102040,Burritos and tacos
+58102050,Burritos and tacos
+58102060,Burritos and tacos
+58102070,Burritos and tacos
+58102110,Burritos and tacos
+58102120,Burritos and tacos
+58102130,Burritos and tacos
+58102140,Burritos and tacos
+58102150,Burritos and tacos
+58102160,Burritos and tacos
+58102170,Burritos and tacos
+58102210,Burritos and tacos
+58102220,Burritos and tacos
+58102230,Burritos and tacos
+58102240,Burritos and tacos
+58102250,Burritos and tacos
+58102300,Burritos and tacos
+58102310,Burritos and tacos
+58102320,Burritos and tacos
+58102330,Burritos and tacos
+58102340,Burritos and tacos
+58102410,Burritos and tacos
+58102420,Burritos and tacos
+58102430,Burritos and tacos
+58102440,Burritos and tacos
+58102510,Burritos and tacos
+58102520,Burritos and tacos
+58102530,Burritos and tacos
+58102540,Burritos and tacos
+58102605,Burritos and tacos
+58102610,Burritos and tacos
+58102620,Burritos and tacos
+58102630,Burritos and tacos
+58102640,Burritos and tacos
+58102650,Burritos and tacos
+58102660,Burritos and tacos
+58102680,Burritos and tacos
+58102700,Other Mexican mixed dishes
+58102710,Other Mexican mixed dishes
+58102720,Other Mexican mixed dishes
+58102730,Other Mexican mixed dishes
+58102740,Other Mexican mixed dishes
+58102750,Other Mexican mixed dishes
+58102760,Other Mexican mixed dishes
+58102770,Other Mexican mixed dishes
+58102780,Other Mexican mixed dishes
+58102790,Other Mexican mixed dishes
+58102800,Other Mexican mixed dishes
+58102810,Other Mexican mixed dishes
+58102820,Other Mexican mixed dishes
+58102830,Other Mexican mixed dishes
+58102840,Other Mexican mixed dishes
+58103100,Other Mexican mixed dishes
+58103120,Other Mexican mixed dishes
+58103125,Other Mexican mixed dishes
+58103130,Other Mexican mixed dishes
+58103250,Other Mexican mixed dishes
+58103310,Other Mexican mixed dishes
+58104105,Nachos
+58104120,Nachos
+58104130,Nachos
+58104135,Nachos
+58104150,Nachos
+58104165,Nachos
+58104170,Nachos
+58104255,Other Mexican mixed dishes
+58104260,Other Mexican mixed dishes
+58104290,Other Mexican mixed dishes
+58104295,Other Mexican mixed dishes
+58104500,Other Mexican mixed dishes
+58104520,Other Mexican mixed dishes
+58104530,Other Mexican mixed dishes
+58104700,Other Mexican mixed dishes
+58104710,Other Mexican mixed dishes
+58104730,Other Mexican mixed dishes
+58104740,Other Mexican mixed dishes
+58104750,Other Mexican mixed dishes
+58104760,Other Mexican mixed dishes
+58104770,Other Mexican mixed dishes
+58104780,Egg/breakfast sandwiches
+58104790,Egg/breakfast sandwiches
+58104800,Other Mexican mixed dishes
+58104825,Other Mexican mixed dishes
+58104835,Other Mexican mixed dishes
+58104900,Egg/breakfast sandwiches
+58104990,Other Mexican mixed dishes
+58105000,Other Mexican mixed dishes
+58105050,Other Mexican mixed dishes
+58105060,Other Mexican mixed dishes
+58105075,Other Mexican mixed dishes
+58105100,Other Mexican mixed dishes
+58105105,Other Mexican mixed dishes
+58105110,Other Mexican mixed dishes
+58105120,Other Mexican mixed dishes
+58106200,Pizza
+58106205,Pizza
+58106210,Pizza
+58106220,Pizza
+58106225,Pizza
+58106230,Pizza
+58106233,Pizza
+58106234,Pizza
+58106235,Pizza
+58106236,Pizza
+58106250,Pizza
+58106260,Pizza
+58106300,Pizza
+58106305,Pizza
+58106320,Pizza
+58106325,Pizza
+58106330,Pizza
+58106345,Pizza
+58106347,Pizza
+58106350,Pizza
+58106358,Pizza
+58106359,Pizza
+58106360,Pizza
+58106512,Pizza
+58106514,Pizza
+58106516,Pizza
+58106540,Pizza
+58106550,Pizza
+58106555,Pizza
+58106560,Pizza
+58106565,Pizza
+58106570,Pizza
+58106578,Pizza
+58106580,Pizza
+58106602,Pizza
+58106604,Pizza
+58106606,Pizza
+58106610,Pizza
+58106620,Pizza
+58106625,Pizza
+58106630,Pizza
+58106633,Pizza
+58106634,Pizza
+58106635,Pizza
+58106636,Pizza
+58106650,Pizza
+58106655,Pizza
+58106660,Pizza
+58106700,Pizza
+58106702,Pizza
+58106705,Pizza
+58106720,Pizza
+58106725,Pizza
+58106730,Pizza
+58106736,Pizza
+58106737,Pizza
+58106738,Pizza
+58106750,Pizza
+58106755,Pizza
+58106760,Pizza
+58106820,Pizza
+58106830,Pizza
+58107050,Pizza
+58107100,Pizza
+58107205,Pizza
+58107207,Pizza
+58107212,Pizza
+58107214,Pizza
+58107222,Pizza
+58107224,Pizza
+58107232,Pizza
+58107234,Pizza
+58108000,Pizza
+58108010,Pizza
+58108050,Pizza
+58109015,Pizza
+58109020,Pizza
+58109030,Pizza
+58109040,Pizza
+58109050,Pizza
+58109060,Pizza
+58109100,Pizza
+58109110,Pizza
+58109120,Pizza
+58109130,Pizza
+58109140,Pizza
+58109150,Pizza
+58109210,Egg/breakfast sandwiches
+58110110,"Egg rolls, dumplings, sushi"
+58110120,"Egg rolls, dumplings, sushi"
+58110130,"Egg rolls, dumplings, sushi"
+58110170,"Egg rolls, dumplings, sushi"
+58110200,"Egg rolls, dumplings, sushi"
+58111110,"Egg rolls, dumplings, sushi"
+58111120,"Egg rolls, dumplings, sushi"
+58111200,"Egg rolls, dumplings, sushi"
+58112510,"Egg rolls, dumplings, sushi"
+58116100,Turnovers and other grain-based items
+58116115,Turnovers and other grain-based items
+58116117,Turnovers and other grain-based items
+58116120,Turnovers and other grain-based items
+58116125,Turnovers and other grain-based items
+58116130,Turnovers and other grain-based items
+58117210,"Biscuits, muffins, quick breads"
+58117310,Meat mixed dishes
+58117410,Seafood mixed dishes
+58117510,Meat mixed dishes
+58120110,Turnovers and other grain-based items
+58121610,Turnovers and other grain-based items
+58122210,"Pasta mixed dishes, excludes macaroni and cheese"
+58122220,"Pasta mixed dishes, excludes macaroni and cheese"
+58122320,Turnovers and other grain-based items
+58123110,"Egg rolls, dumplings, sushi"
+58123120,"Egg rolls, dumplings, sushi"
+58124210,"Doughnuts, sweet rolls, pastries"
+58124220,Turnovers and other grain-based items
+58124230,Turnovers and other grain-based items
+58124250,Turnovers and other grain-based items
+58124500,Turnovers and other grain-based items
+58125110,Turnovers and other grain-based items
+58125120,Turnovers and other grain-based items
+58125180,Turnovers and other grain-based items
+58126100,Turnovers and other grain-based items
+58126105,Turnovers and other grain-based items
+58126125,Turnovers and other grain-based items
+58126130,Turnovers and other grain-based items
+58126150,Turnovers and other grain-based items
+58126160,Turnovers and other grain-based items
+58126270,Turnovers and other grain-based items
+58126275,Turnovers and other grain-based items
+58126290,Turnovers and other grain-based items
+58126400,Turnovers and other grain-based items
+58128000,Egg/breakfast sandwiches
+58128110,Poultry mixed dishes
+58128120,Turnovers and other grain-based items
+58128210,Turnovers and other grain-based items
+58128220,Turnovers and other grain-based items
+58128250,Turnovers and other grain-based items
+58130011,"Pasta mixed dishes, excludes macaroni and cheese"
+58130013,"Pasta mixed dishes, excludes macaroni and cheese"
+58130014,"Pasta mixed dishes, excludes macaroni and cheese"
+58130015,"Pasta mixed dishes, excludes macaroni and cheese"
+58130016,"Pasta mixed dishes, excludes macaroni and cheese"
+58130020,"Pasta mixed dishes, excludes macaroni and cheese"
+58130140,"Pasta mixed dishes, excludes macaroni and cheese"
+58130150,"Pasta mixed dishes, excludes macaroni and cheese"
+58130310,"Pasta mixed dishes, excludes macaroni and cheese"
+58130320,"Pasta mixed dishes, excludes macaroni and cheese"
+58131100,"Pasta mixed dishes, excludes macaroni and cheese"
+58131110,"Pasta mixed dishes, excludes macaroni and cheese"
+58131120,"Pasta mixed dishes, excludes macaroni and cheese"
+58131310,"Pasta mixed dishes, excludes macaroni and cheese"
+58131320,"Pasta mixed dishes, excludes macaroni and cheese"
+58131323,"Pasta mixed dishes, excludes macaroni and cheese"
+58131330,"Pasta mixed dishes, excludes macaroni and cheese"
+58131510,"Pasta mixed dishes, excludes macaroni and cheese"
+58131520,"Pasta mixed dishes, excludes macaroni and cheese"
+58131523,"Pasta mixed dishes, excludes macaroni and cheese"
+58131530,"Pasta mixed dishes, excludes macaroni and cheese"
+58131535,"Pasta mixed dishes, excludes macaroni and cheese"
+58131590,"Pasta mixed dishes, excludes macaroni and cheese"
+58131600,"Pasta mixed dishes, excludes macaroni and cheese"
+58131610,"Pasta mixed dishes, excludes macaroni and cheese"
+58133110,"Pasta mixed dishes, excludes macaroni and cheese"
+58133120,"Pasta mixed dishes, excludes macaroni and cheese"
+58133130,"Pasta mixed dishes, excludes macaroni and cheese"
+58133140,"Pasta mixed dishes, excludes macaroni and cheese"
+58134110,"Pasta mixed dishes, excludes macaroni and cheese"
+58134120,"Pasta mixed dishes, excludes macaroni and cheese"
+58134130,"Pasta mixed dishes, excludes macaroni and cheese"
+58134160,"Pasta mixed dishes, excludes macaroni and cheese"
+58134210,"Pasta mixed dishes, excludes macaroni and cheese"
+58134310,"Pasta mixed dishes, excludes macaroni and cheese"
+58134610,"Pasta mixed dishes, excludes macaroni and cheese"
+58134613,"Pasta mixed dishes, excludes macaroni and cheese"
+58134620,"Pasta mixed dishes, excludes macaroni and cheese"
+58134623,"Pasta mixed dishes, excludes macaroni and cheese"
+58134640,"Pasta mixed dishes, excludes macaroni and cheese"
+58134650,"Pasta mixed dishes, excludes macaroni and cheese"
+58134660,"Pasta mixed dishes, excludes macaroni and cheese"
+58134680,"Pasta mixed dishes, excludes macaroni and cheese"
+58134710,"Pasta mixed dishes, excludes macaroni and cheese"
+58134720,"Pasta mixed dishes, excludes macaroni and cheese"
+58134810,"Pasta mixed dishes, excludes macaroni and cheese"
+58135110,Fried rice and lo/chow mein
+58135120,Fried rice and lo/chow mein
+58136110,Fried rice and lo/chow mein
+58136120,Fried rice and lo/chow mein
+58136130,Fried rice and lo/chow mein
+58136140,Fried rice and lo/chow mein
+58136150,Fried rice and lo/chow mein
+58136160,Fried rice and lo/chow mein
+58137210,Fried rice and lo/chow mein
+58137220,Fried rice and lo/chow mein
+58137230,Fried rice and lo/chow mein
+58137240,Fried rice and lo/chow mein
+58137250,Fried rice and lo/chow mein
+58137300,Poultry mixed dishes
+58140310,"Pasta mixed dishes, excludes macaroni and cheese"
+58145110,Macaroni and cheese
+58145111,Macaroni and cheese
+58145112,Macaroni and cheese
+58145113,Macaroni and cheese
+58145117,Macaroni and cheese
+58145119,Macaroni and cheese
+58145120,Macaroni and cheese
+58145135,Macaroni and cheese
+58145136,Macaroni and cheese
+58145140,Macaroni and cheese
+58145160,Macaroni and cheese
+58145170,Macaroni and cheese
+58145190,Macaroni and cheese
+58145300,Macaroni and cheese
+58146120,"Pasta mixed dishes, excludes macaroni and cheese"
+58146150,"Pasta mixed dishes, excludes macaroni and cheese"
+58146160,"Pasta mixed dishes, excludes macaroni and cheese"
+58146210,"Pasta mixed dishes, excludes macaroni and cheese"
+58146215,"Pasta mixed dishes, excludes macaroni and cheese"
+58146221,"Pasta mixed dishes, excludes macaroni and cheese"
+58146222,"Pasta mixed dishes, excludes macaroni and cheese"
+58146223,"Pasta mixed dishes, excludes macaroni and cheese"
+58146301,"Pasta mixed dishes, excludes macaroni and cheese"
+58146302,"Pasta mixed dishes, excludes macaroni and cheese"
+58146303,"Pasta mixed dishes, excludes macaroni and cheese"
+58146315,"Pasta mixed dishes, excludes macaroni and cheese"
+58146321,"Pasta mixed dishes, excludes macaroni and cheese"
+58146322,"Pasta mixed dishes, excludes macaroni and cheese"
+58146323,"Pasta mixed dishes, excludes macaroni and cheese"
+58146331,"Pasta mixed dishes, excludes macaroni and cheese"
+58146332,"Pasta mixed dishes, excludes macaroni and cheese"
+58146333,"Pasta mixed dishes, excludes macaroni and cheese"
+58146341,"Pasta mixed dishes, excludes macaroni and cheese"
+58146342,"Pasta mixed dishes, excludes macaroni and cheese"
+58146343,"Pasta mixed dishes, excludes macaroni and cheese"
+58146351,"Pasta mixed dishes, excludes macaroni and cheese"
+58146352,"Pasta mixed dishes, excludes macaroni and cheese"
+58146353,"Pasta mixed dishes, excludes macaroni and cheese"
+58146361,"Pasta mixed dishes, excludes macaroni and cheese"
+58146362,"Pasta mixed dishes, excludes macaroni and cheese"
+58146363,"Pasta mixed dishes, excludes macaroni and cheese"
+58146371,"Pasta mixed dishes, excludes macaroni and cheese"
+58146372,"Pasta mixed dishes, excludes macaroni and cheese"
+58146373,"Pasta mixed dishes, excludes macaroni and cheese"
+58146381,"Pasta mixed dishes, excludes macaroni and cheese"
+58146382,"Pasta mixed dishes, excludes macaroni and cheese"
+58146383,"Pasta mixed dishes, excludes macaroni and cheese"
+58146391,"Pasta mixed dishes, excludes macaroni and cheese"
+58146392,"Pasta mixed dishes, excludes macaroni and cheese"
+58146393,"Pasta mixed dishes, excludes macaroni and cheese"
+58146401,"Pasta mixed dishes, excludes macaroni and cheese"
+58146402,"Pasta mixed dishes, excludes macaroni and cheese"
+58146403,"Pasta mixed dishes, excludes macaroni and cheese"
+58146411,"Pasta mixed dishes, excludes macaroni and cheese"
+58146412,"Pasta mixed dishes, excludes macaroni and cheese"
+58146413,"Pasta mixed dishes, excludes macaroni and cheese"
+58146421,"Pasta mixed dishes, excludes macaroni and cheese"
+58146422,"Pasta mixed dishes, excludes macaroni and cheese"
+58146423,"Pasta mixed dishes, excludes macaroni and cheese"
+58146431,"Pasta mixed dishes, excludes macaroni and cheese"
+58146432,"Pasta mixed dishes, excludes macaroni and cheese"
+58146433,"Pasta mixed dishes, excludes macaroni and cheese"
+58146441,"Pasta mixed dishes, excludes macaroni and cheese"
+58146442,"Pasta mixed dishes, excludes macaroni and cheese"
+58146443,"Pasta mixed dishes, excludes macaroni and cheese"
+58146451,"Pasta mixed dishes, excludes macaroni and cheese"
+58146452,"Pasta mixed dishes, excludes macaroni and cheese"
+58146453,"Pasta mixed dishes, excludes macaroni and cheese"
+58146601,"Pasta mixed dishes, excludes macaroni and cheese"
+58146602,"Pasta mixed dishes, excludes macaroni and cheese"
+58146603,"Pasta mixed dishes, excludes macaroni and cheese"
+58146611,"Pasta mixed dishes, excludes macaroni and cheese"
+58146612,"Pasta mixed dishes, excludes macaroni and cheese"
+58146613,"Pasta mixed dishes, excludes macaroni and cheese"
+58146621,"Pasta mixed dishes, excludes macaroni and cheese"
+58146622,"Pasta mixed dishes, excludes macaroni and cheese"
+58146623,"Pasta mixed dishes, excludes macaroni and cheese"
+58146631,"Pasta mixed dishes, excludes macaroni and cheese"
+58146632,"Pasta mixed dishes, excludes macaroni and cheese"
+58146633,"Pasta mixed dishes, excludes macaroni and cheese"
+58146641,"Pasta mixed dishes, excludes macaroni and cheese"
+58146642,"Pasta mixed dishes, excludes macaroni and cheese"
+58146643,"Pasta mixed dishes, excludes macaroni and cheese"
+58146651,"Pasta mixed dishes, excludes macaroni and cheese"
+58146652,"Pasta mixed dishes, excludes macaroni and cheese"
+58146653,"Pasta mixed dishes, excludes macaroni and cheese"
+58146661,"Pasta mixed dishes, excludes macaroni and cheese"
+58146662,"Pasta mixed dishes, excludes macaroni and cheese"
+58146663,"Pasta mixed dishes, excludes macaroni and cheese"
+58146671,"Pasta mixed dishes, excludes macaroni and cheese"
+58146672,"Pasta mixed dishes, excludes macaroni and cheese"
+58146673,"Pasta mixed dishes, excludes macaroni and cheese"
+58146681,"Pasta mixed dishes, excludes macaroni and cheese"
+58146682,"Pasta mixed dishes, excludes macaroni and cheese"
+58146683,"Pasta mixed dishes, excludes macaroni and cheese"
+58146691,"Pasta mixed dishes, excludes macaroni and cheese"
+58146692,"Pasta mixed dishes, excludes macaroni and cheese"
+58146693,"Pasta mixed dishes, excludes macaroni and cheese"
+58146701,"Pasta mixed dishes, excludes macaroni and cheese"
+58146702,"Pasta mixed dishes, excludes macaroni and cheese"
+58146703,"Pasta mixed dishes, excludes macaroni and cheese"
+58146711,"Pasta mixed dishes, excludes macaroni and cheese"
+58146712,"Pasta mixed dishes, excludes macaroni and cheese"
+58146713,"Pasta mixed dishes, excludes macaroni and cheese"
+58146721,"Pasta mixed dishes, excludes macaroni and cheese"
+58146722,"Pasta mixed dishes, excludes macaroni and cheese"
+58146723,"Pasta mixed dishes, excludes macaroni and cheese"
+58146731,"Pasta mixed dishes, excludes macaroni and cheese"
+58146732,"Pasta mixed dishes, excludes macaroni and cheese"
+58146733,"Pasta mixed dishes, excludes macaroni and cheese"
+58146741,"Pasta mixed dishes, excludes macaroni and cheese"
+58146742,"Pasta mixed dishes, excludes macaroni and cheese"
+58146743,"Pasta mixed dishes, excludes macaroni and cheese"
+58146751,"Pasta mixed dishes, excludes macaroni and cheese"
+58146752,"Pasta mixed dishes, excludes macaroni and cheese"
+58146753,"Pasta mixed dishes, excludes macaroni and cheese"
+58147110,"Pasta mixed dishes, excludes macaroni and cheese"
+58147330,Macaroni and cheese
+58147340,Macaroni and cheese
+58147510,"Pasta mixed dishes, excludes macaroni and cheese"
+58147520,Fried rice and lo/chow mein
+58148110,"Pasta mixed dishes, excludes macaroni and cheese"
+58148111,"Pasta mixed dishes, excludes macaroni and cheese"
+58148112,"Pasta mixed dishes, excludes macaroni and cheese"
+58148113,"Pasta mixed dishes, excludes macaroni and cheese"
+58148114,"Pasta mixed dishes, excludes macaroni and cheese"
+58148115,"Pasta mixed dishes, excludes macaroni and cheese"
+58148116,"Pasta mixed dishes, excludes macaroni and cheese"
+58148117,"Pasta mixed dishes, excludes macaroni and cheese"
+58148118,"Pasta mixed dishes, excludes macaroni and cheese"
+58148120,"Pasta mixed dishes, excludes macaroni and cheese"
+58148130,"Pasta mixed dishes, excludes macaroni and cheese"
+58148140,"Pasta mixed dishes, excludes macaroni and cheese"
+58148150,"Pasta mixed dishes, excludes macaroni and cheese"
+58148160,"Pasta mixed dishes, excludes macaroni and cheese"
+58148170,"Pasta mixed dishes, excludes macaroni and cheese"
+58148180,"Pasta mixed dishes, excludes macaroni and cheese"
+58148550,"Pasta mixed dishes, excludes macaroni and cheese"
+58149110,"Pasta mixed dishes, excludes macaroni and cheese"
+58150100,Rice mixed dishes
+58150110,Fried rice and lo/chow mein
+58150310,Fried rice and lo/chow mein
+58150320,Fried rice and lo/chow mein
+58150330,Fried rice and lo/chow mein
+58150340,Fried rice and lo/chow mein
+58150510,Fried rice and lo/chow mein
+58150520,Rice mixed dishes
+58150530,Poultry mixed dishes
+58151100,"Egg rolls, dumplings, sushi"
+58151170,"Egg rolls, dumplings, sushi"
+58151180,"Egg rolls, dumplings, sushi"
+58151190,"Egg rolls, dumplings, sushi"
+58151200,"Egg rolls, dumplings, sushi"
+58151210,"Egg rolls, dumplings, sushi"
+58151220,"Egg rolls, dumplings, sushi"
+58151230,"Egg rolls, dumplings, sushi"
+58151400,"Egg rolls, dumplings, sushi"
+58151410,"Egg rolls, dumplings, sushi"
+58151420,"Egg rolls, dumplings, sushi"
+58151430,"Egg rolls, dumplings, sushi"
+58151440,"Egg rolls, dumplings, sushi"
+58151450,"Egg rolls, dumplings, sushi"
+58155320,Rice mixed dishes
+58155410,"Soups, broth-based"
+58155510,"Soups, broth-based"
+58155810,Rice mixed dishes
+58155910,Rice mixed dishes
+58156210,Rice mixed dishes
+58156310,Rice mixed dishes
+58156710,Rice mixed dishes
+58157300,Rice mixed dishes
+58157310,Rice mixed dishes
+58157320,Rice mixed dishes
+58157330,Rice mixed dishes
+58160000,Rice mixed dishes
+58160100,"Bean, pea, legume dishes"
+58160102,"Bean, pea, legume dishes"
+58160104,"Bean, pea, legume dishes"
+58160106,"Bean, pea, legume dishes"
+58160110,"Bean, pea, legume dishes"
+58160120,"Bean, pea, legume dishes"
+58160132,"Bean, pea, legume dishes"
+58160150,"Bean, pea, legume dishes"
+58160154,"Bean, pea, legume dishes"
+58160156,"Bean, pea, legume dishes"
+58160400,Rice mixed dishes
+58160410,Rice mixed dishes
+58160420,Rice mixed dishes
+58160430,Rice mixed dishes
+58160440,Rice mixed dishes
+58160450,Rice mixed dishes
+58160460,Rice mixed dishes
+58160470,Rice mixed dishes
+58160480,Rice mixed dishes
+58160490,Rice mixed dishes
+58160500,Rice mixed dishes
+58160510,Rice mixed dishes
+58160520,Rice mixed dishes
+58160530,Rice mixed dishes
+58160540,Rice mixed dishes
+58160550,Rice mixed dishes
+58160560,Rice mixed dishes
+58160570,Rice mixed dishes
+58160580,Rice mixed dishes
+58160590,Rice mixed dishes
+58160600,Rice mixed dishes
+58160610,Rice mixed dishes
+58160620,Rice mixed dishes
+58160630,Rice mixed dishes
+58160640,Rice mixed dishes
+58160650,Rice mixed dishes
+58160660,Rice mixed dishes
+58160670,Rice mixed dishes
+58160680,Rice mixed dishes
+58160690,Rice mixed dishes
+58160700,Rice mixed dishes
+58160710,Rice mixed dishes
+58160720,Rice mixed dishes
+58160800,Rice mixed dishes
+58160805,Rice mixed dishes
+58160810,Rice mixed dishes
+58161200,Rice mixed dishes
+58161320,"Bean, pea, legume dishes"
+58161321,"Bean, pea, legume dishes"
+58161322,"Bean, pea, legume dishes"
+58161323,"Bean, pea, legume dishes"
+58161420,Rice mixed dishes
+58161422,Rice mixed dishes
+58161424,Rice mixed dishes
+58161430,Rice mixed dishes
+58161432,Rice mixed dishes
+58161434,Rice mixed dishes
+58161435,Rice mixed dishes
+58161437,Rice mixed dishes
+58161439,Rice mixed dishes
+58161440,Rice mixed dishes
+58161442,Rice mixed dishes
+58161444,Rice mixed dishes
+58161460,Rice mixed dishes
+58161462,Rice mixed dishes
+58161464,Rice mixed dishes
+58161470,Rice mixed dishes
+58161472,Rice mixed dishes
+58161474,Rice mixed dishes
+58161480,Rice mixed dishes
+58161482,Rice mixed dishes
+58161484,Rice mixed dishes
+58161490,Rice mixed dishes
+58161492,Rice mixed dishes
+58161494,Rice mixed dishes
+58161500,Rice mixed dishes
+58161502,Rice mixed dishes
+58161504,Rice mixed dishes
+58161510,Rice mixed dishes
+58161520,Rice mixed dishes
+58161522,Rice mixed dishes
+58161524,Rice mixed dishes
+58161530,Rice mixed dishes
+58161532,Rice mixed dishes
+58161534,Rice mixed dishes
+58161710,Rice mixed dishes
+58162090,Vegetable dishes
+58162110,Vegetable dishes
+58162120,Vegetable dishes
+58162130,Vegetable dishes
+58162140,Vegetable dishes
+58162310,Rice mixed dishes
+58163130,Rice mixed dishes
+58163310,Rice mixed dishes
+58163330,Rice mixed dishes
+58163360,Rice mixed dishes
+58163380,Rice mixed dishes
+58163400,Rice mixed dishes
+58163405,Rice mixed dishes
+58163410,Rice mixed dishes
+58163420,Rice mixed dishes
+58163430,Rice mixed dishes
+58163450,Rice mixed dishes
+58163510,Rice mixed dishes
+58164110,Rice mixed dishes
+58164210,Rice mixed dishes
+58164500,Rice mixed dishes
+58164510,Rice mixed dishes
+58164520,Rice mixed dishes
+58164530,Rice mixed dishes
+58164540,Rice mixed dishes
+58164550,Rice mixed dishes
+58164560,Fried rice and lo/chow mein
+58164570,Fried rice and lo/chow mein
+58164580,Fried rice and lo/chow mein
+58164800,Rice mixed dishes
+58164810,Rice mixed dishes
+58164820,Rice mixed dishes
+58164830,Rice mixed dishes
+58164840,Rice mixed dishes
+58164850,Rice mixed dishes
+58164860,Fried rice and lo/chow mein
+58164870,Fried rice and lo/chow mein
+58164880,Fried rice and lo/chow mein
+58165000,Rice mixed dishes
+58165010,Rice mixed dishes
+58165020,Rice mixed dishes
+58165030,Rice mixed dishes
+58165040,Rice mixed dishes
+58165050,Rice mixed dishes
+58165060,Fried rice and lo/chow mein
+58165070,Fried rice and lo/chow mein
+58165080,Fried rice and lo/chow mein
+58165400,Rice mixed dishes
+58165410,Rice mixed dishes
+58165420,Rice mixed dishes
+58165430,Rice mixed dishes
+58165440,Rice mixed dishes
+58165450,Rice mixed dishes
+58165460,Fried rice and lo/chow mein
+58165470,Fried rice and lo/chow mein
+58165480,Fried rice and lo/chow mein
+58174000,Grits and other cooked cereals
+58174100,"Pancakes, waffles, French toast"
+58175000,Turnovers and other grain-based items
+58175110,Turnovers and other grain-based items
+58200210,Vegetable sandwiches/burgers
+58200220,Vegetable sandwiches/burgers
+58200230,Vegetable sandwiches/burgers
+58200240,Vegetable sandwiches/burgers
+58200250,Vegetable sandwiches/burgers
+58201000,Peanut butter and jelly sandwiches
+58201005,Peanut butter and jelly sandwiches
+58201015,Peanut butter and jelly sandwiches
+58302080,"Pasta mixed dishes, excludes macaroni and cheese"
+58304010,"Pasta mixed dishes, excludes macaroni and cheese"
+58304060,"Pasta mixed dishes, excludes macaroni and cheese"
+58310310,Meat mixed dishes
+58400000,"Soups, broth-based"
+58400100,"Soups, broth-based"
+58400200,"Soups, broth-based"
+58401010,"Soups, broth-based"
+58403010,"Soups, broth-based"
+58403040,"Soups, broth-based"
+58403060,"Soups, broth-based"
+58404500,"Soups, broth-based"
+58407030,Ramen and Asian broth-based soups
+58407034,Ramen and Asian broth-based soups
+58407038,Ramen and Asian broth-based soups
+58407042,Ramen and Asian broth-based soups
+58407046,Ramen and Asian broth-based soups
+58407052,Ramen and Asian broth-based soups
+58407056,Ramen and Asian broth-based soups
+58407060,Ramen and Asian broth-based soups
+58408010,Ramen and Asian broth-based soups
+58421020,"Soups, broth-based"
+58421080,"Soups, broth-based"
+59003000,Soy and meat-alternative products
+61100600,Citrus fruits
+61101010,Citrus fruits
+61101200,Citrus fruits
+61110010,Citrus fruits
+61113010,Citrus fruits
+61113500,"Jams, syrups, toppings"
+61116010,Citrus fruits
+61119010,Citrus fruits
+61122300,Citrus fruits
+61122320,Citrus fruits
+61122330,Citrus fruits
+61125010,Citrus fruits
+61201010,Citrus juice
+61201020,Citrus juice
+61201220,Citrus juice
+61201225,Citrus juice
+61204000,Mustard and other condiments
+61204010,Mustard and other condiments
+61204200,Mustard and other condiments
+61207000,Mustard and other condiments
+61207010,Mustard and other condiments
+61207200,Mustard and other condiments
+61210000,Citrus juice
+61210010,Citrus juice
+61210220,Citrus juice
+61210250,Citrus juice
+61210620,Citrus juice
+61210720,Citrus juice
+61210820,Citrus juice
+61213220,Citrus juice
+61213800,Other fruit juice
+62101050,Dried fruits
+62101100,Dried fruits
+62104100,Dried fruits
+62105000,Dried fruits
+62106000,Dried fruits
+62107200,Dried fruits
+62108100,Dried fruits
+62109100,Dried fruits
+62110100,Dried fruits
+62113100,Dried fruits
+62114050,Dried fruits
+62114110,Dried fruits
+62116100,Dried fruits
+62119100,Dried fruits
+62120000,Dried fruits
+62120100,Dried fruits
+62122100,Dried fruits
+62125100,Dried fruits
+63100100,Other fruits and fruit salads
+63100110,Other fruits and fruit salads
+63101000,Apples
+63101110,Apples
+63101120,Apples
+63101150,Apples
+63101210,Apples
+63101310,Apples
+63103010,Other fruits and fruit salads
+63103110,Other fruits and fruit salads
+63105010,Other vegetables and combinations
+63107010,Bananas
+63107410,Bananas
+63109010,Melons
+63109015,Melons
+63109700,Other fruits and fruit salads
+63111010,Other fruits and fruit salads
+63113030,"Jams, syrups, toppings"
+63115010,Other fruits and fruit salads
+63115110,Other fruits and fruit salads
+63115200,Other fruits and fruit salads
+63116010,Other fruits and fruit salads
+63119010,Other fruits and fruit salads
+63119110,Other fruits and fruit salads
+63123000,Grapes
+63125010,Other fruits and fruit salads
+63126500,Other fruits and fruit salads
+63126510,Other fruits and fruit salads
+63127010,Melons
+63129010,Mango and papaya
+63129030,Mango and papaya
+63129050,Mango and papaya
+63131010,Peaches and nectarines
+63133010,Mango and papaya
+63133100,Mango and papaya
+63134010,Other fruits and fruit salads
+63135010,Peaches and nectarines
+63135110,Peaches and nectarines
+63135140,Peaches and nectarines
+63135170,Peaches and nectarines
+63135620,Peaches and nectarines
+63137010,Pears
+63137050,Pears
+63137110,Pears
+63137140,Pears
+63137170,Pears
+63139010,Other fruits and fruit salads
+63141010,Pineapple
+63141110,Pineapple
+63141140,Pineapple
+63141170,Pineapple
+63141200,Pineapple
+63143010,Other fruits and fruit salads
+63143110,Other fruits and fruit salads
+63145010,Other fruits and fruit salads
+63147110,Other fruits and fruit salads
+63148750,Other fruits and fruit salads
+63149010,Melons
+63200100,Blueberries and other berries
+63200110,Blueberries and other berries
+63201010,Blueberries and other berries
+63201600,Blueberries and other berries
+63203010,Blueberries and other berries
+63203110,Blueberries and other berries
+63203600,Blueberries and other berries
+63203700,"Jams, syrups, toppings"
+63207010,Blueberries and other berries
+63207110,Blueberries and other berries
+63219000,Blueberries and other berries
+63219610,Blueberries and other berries
+63223020,Strawberries
+63223110,Strawberries
+63223610,Strawberries
+63301010,Other fruits and fruit salads
+63311000,Other fruits and fruit salads
+63311050,Other fruits and fruit salads
+63311110,Other fruits and fruit salads
+63311140,Other fruits and fruit salads
+63311170,Other fruits and fruit salads
+63311180,Other fruits and fruit salads
+63401010,Other fruits and fruit salads
+63401060,Apples
+63401070,Other fruits and fruit salads
+63402950,Other fruits and fruit salads
+63402960,Other fruits and fruit salads
+63402970,Other fruits and fruit salads
+63402980,Other fruits and fruit salads
+63402990,Other fruits and fruit salads
+63403000,Other fruits and fruit salads
+63403010,Other fruits and fruit salads
+63403020,Other fruits and fruit salads
+63403030,Other fruits and fruit salads
+63403040,Other fruits and fruit salads
+63403150,Pudding
+63409010,"Dips, gravies, other sauces"
+63409015,"Dips, gravies, other sauces"
+63409020,Mustard and other condiments
+63413010,Other fruits and fruit salads
+63415100,"Soups, broth-based"
+63420105,"Gelatins, ices, sorbets"
+63420205,"Gelatins, ices, sorbets"
+63430150,"Gelatins, ices, sorbets"
+64100100,Other fruit juice
+64100110,Other fruit juice
+64100200,Other fruit juice
+64100220,Other fruit juice
+64101010,Apple juice
+64104010,Apple juice
+64104030,Apple juice
+64104600,Other fruit juice
+64104610,Other fruit juice
+64105400,Other fruit juice
+64116020,Other fruit juice
+64116060,Other fruit juice
+64120010,Other fruit juice
+64121000,Other fruit juice
+64124020,Other fruit juice
+64126000,Other fruit juice
+64132010,Other fruit juice
+64132500,Other fruit juice
+64133100,Other fruit juice
+64134015,Smoothies and grain drinks
+64134020,Smoothies and grain drinks
+64134025,Smoothies and grain drinks
+64134030,Smoothies and grain drinks
+64134100,Smoothies and grain drinks
+64134200,Smoothies and grain drinks
+64200100,Fruit drinks
+64201010,Fruit drinks
+64201500,Fruit drinks
+64202010,Fruit drinks
+64203020,Fruit drinks
+64204010,Fruit drinks
+64205010,Fruit drinks
+64210010,Fruit drinks
+64213010,Fruit drinks
+64215010,Fruit drinks
+64221010,Fruit drinks
+64401000,Mustard and other condiments
+67100000,Baby food: fruit
+67100100,Baby food: fruit
+67100105,Baby food: fruit
+67100250,Baby food: mixtures
+67100260,Baby food: mixtures
+67100350,Baby food: mixtures
+67100360,Baby food: mixtures
+67100450,Baby food: mixtures
+67100460,Baby food: mixtures
+67100470,Baby food: mixtures
+67100480,Baby food: mixtures
+67102010,Baby food: fruit
+67102030,Baby food: fruit
+67105030,Baby food: fruit
+67105040,Baby food: fruit
+67108010,Baby food: fruit
+67108040,Baby food: fruit
+67109010,Baby food: fruit
+67109040,Baby food: fruit
+67110000,Baby food: fruit
+67110100,Baby food: fruit
+67201000,Baby juice
+67202000,Baby juice
+67203800,Baby juice
+67204000,Baby juice
+67212000,Baby juice
+67230600,Baby juice
+67250150,Baby food: mixtures
+67408010,Baby food: snacks and sweets
+67430500,Baby food: snacks and sweets
+71000100,"White potatoes, baked or boiled"
+71100100,"White potatoes, baked or boiled"
+71101000,"White potatoes, baked or boiled"
+71102980,"White potatoes, baked or boiled"
+71102990,"White potatoes, baked or boiled"
+71103000,"White potatoes, baked or boiled"
+71103010,"White potatoes, baked or boiled"
+71103020,"White potatoes, baked or boiled"
+71103030,"White potatoes, baked or boiled"
+71103040,"White potatoes, baked or boiled"
+71103050,"White potatoes, baked or boiled"
+71103105,"White potatoes, baked or boiled"
+71103115,"White potatoes, baked or boiled"
+71103125,"White potatoes, baked or boiled"
+71103135,"White potatoes, baked or boiled"
+71103140,"White potatoes, baked or boiled"
+71103150,"White potatoes, baked or boiled"
+71103300,"White potatoes, baked or boiled"
+71103310,"White potatoes, baked or boiled"
+71103320,"White potatoes, baked or boiled"
+71104030,"White potatoes, baked or boiled"
+71104040,"White potatoes, baked or boiled"
+71104050,"White potatoes, baked or boiled"
+71104060,"White potatoes, baked or boiled"
+71104070,"White potatoes, baked or boiled"
+71104080,"White potatoes, baked or boiled"
+71104090,"White potatoes, baked or boiled"
+71104100,"White potatoes, baked or boiled"
+71104110,"White potatoes, baked or boiled"
+71104120,"White potatoes, baked or boiled"
+71104130,"White potatoes, baked or boiled"
+71104140,"White potatoes, baked or boiled"
+71104150,"White potatoes, baked or boiled"
+71104200,"White potatoes, baked or boiled"
+71106000,Mashed potatoes and white potato mixtures
+71106010,"White potatoes, baked or boiled"
+71106020,Mashed potatoes and white potato mixtures
+71106050,Mashed potatoes and white potato mixtures
+71106070,Mashed potatoes and white potato mixtures
+71200010,Potato chips
+71200100,Potato chips
+71200110,Potato chips
+71200120,Potato chips
+71200130,Potato chips
+71200140,Potato chips
+71200200,Potato chips
+71200210,Potato chips
+71200220,Potato chips
+71200230,Potato chips
+71200240,Potato chips
+71200300,Potato chips
+71200310,Potato chips
+71200400,Potato chips
+71200410,Potato chips
+71201050,Potato chips
+71201200,Potato chips
+71202000,Potato chips
+71202500,Potato chips
+71202510,Potato chips
+71203010,Potato chips
+71203020,Potato chips
+71203030,Potato chips
+71205020,Potato chips
+71205030,Potato chips
+71205040,Potato chips
+71220000,"Tortilla, corn, other chips"
+71305015,Mashed potatoes and white potato mixtures
+71305020,Mashed potatoes and white potato mixtures
+71305030,Mashed potatoes and white potato mixtures
+71305040,Mashed potatoes and white potato mixtures
+71305050,Mashed potatoes and white potato mixtures
+71305060,Mashed potatoes and white potato mixtures
+71305070,Mashed potatoes and white potato mixtures
+71305080,Mashed potatoes and white potato mixtures
+71400990,French fries and other fried white potatoes
+71401000,French fries and other fried white potatoes
+71401010,French fries and other fried white potatoes
+71401015,French fries and other fried white potatoes
+71401020,French fries and other fried white potatoes
+71401030,French fries and other fried white potatoes
+71401031,French fries and other fried white potatoes
+71401032,French fries and other fried white potatoes
+71401033,French fries and other fried white potatoes
+71401039,French fries and other fried white potatoes
+71401041,French fries and other fried white potatoes
+71401045,French fries and other fried white potatoes
+71401050,French fries and other fried white potatoes
+71402500,French fries and other fried white potatoes
+71402510,French fries and other fried white potatoes
+71402520,French fries and other fried white potatoes
+71403020,French fries and other fried white potatoes
+71403030,French fries and other fried white potatoes
+71403040,French fries and other fried white potatoes
+71403050,French fries and other fried white potatoes
+71403500,French fries and other fried white potatoes
+71404000,French fries and other fried white potatoes
+71404010,French fries and other fried white potatoes
+71404020,French fries and other fried white potatoes
+71404030,French fries and other fried white potatoes
+71404040,French fries and other fried white potatoes
+71404050,French fries and other fried white potatoes
+71405010,French fries and other fried white potatoes
+71405019,French fries and other fried white potatoes
+71405030,French fries and other fried white potatoes
+71405040,French fries and other fried white potatoes
+71405050,French fries and other fried white potatoes
+71410000,French fries and other fried white potatoes
+71410500,French fries and other fried white potatoes
+71411000,French fries and other fried white potatoes
+71411100,French fries and other fried white potatoes
+71501000,Mashed potatoes and white potato mixtures
+71501005,Mashed potatoes and white potato mixtures
+71501006,Mashed potatoes and white potato mixtures
+71501007,Mashed potatoes and white potato mixtures
+71501010,Mashed potatoes and white potato mixtures
+71501011,Mashed potatoes and white potato mixtures
+71501012,Mashed potatoes and white potato mixtures
+71501013,Mashed potatoes and white potato mixtures
+71501016,Mashed potatoes and white potato mixtures
+71501017,Mashed potatoes and white potato mixtures
+71501018,Mashed potatoes and white potato mixtures
+71501035,Mashed potatoes and white potato mixtures
+71501040,Mashed potatoes and white potato mixtures
+71501045,Mashed potatoes and white potato mixtures
+71501054,Mashed potatoes and white potato mixtures
+71501061,Mashed potatoes and white potato mixtures
+71501071,Mashed potatoes and white potato mixtures
+71501075,Mashed potatoes and white potato mixtures
+71503010,French fries and other fried white potatoes
+71505000,French fries and other fried white potatoes
+71505010,French fries and other fried white potatoes
+71505020,French fries and other fried white potatoes
+71505030,French fries and other fried white potatoes
+71505040,French fries and other fried white potatoes
+71505050,French fries and other fried white potatoes
+71505060,French fries and other fried white potatoes
+71507005,"White potatoes, baked or boiled"
+71507010,"White potatoes, baked or boiled"
+71507020,"White potatoes, baked or boiled"
+71507025,"White potatoes, baked or boiled"
+71507030,"White potatoes, baked or boiled"
+71507035,"White potatoes, baked or boiled"
+71508001,"White potatoes, baked or boiled"
+71508005,"White potatoes, baked or boiled"
+71508010,"White potatoes, baked or boiled"
+71508020,"White potatoes, baked or boiled"
+71508025,"White potatoes, baked or boiled"
+71508030,"White potatoes, baked or boiled"
+71508035,"White potatoes, baked or boiled"
+71600950,Mashed potatoes and white potato mixtures
+71601010,Mashed potatoes and white potato mixtures
+71601015,Mashed potatoes and white potato mixtures
+71601020,Mashed potatoes and white potato mixtures
+71601025,Mashed potatoes and white potato mixtures
+71601030,Mashed potatoes and white potato mixtures
+71601035,Mashed potatoes and white potato mixtures
+71601040,Mashed potatoes and white potato mixtures
+71601045,Mashed potatoes and white potato mixtures
+71601050,Mashed potatoes and white potato mixtures
+71602010,Mashed potatoes and white potato mixtures
+71602950,Mashed potatoes and white potato mixtures
+71603010,Mashed potatoes and white potato mixtures
+71603015,Mashed potatoes and white potato mixtures
+71603020,Mashed potatoes and white potato mixtures
+71603025,Mashed potatoes and white potato mixtures
+71603030,Mashed potatoes and white potato mixtures
+71603035,Mashed potatoes and white potato mixtures
+71603040,Mashed potatoes and white potato mixtures
+71603045,Mashed potatoes and white potato mixtures
+71603050,Mashed potatoes and white potato mixtures
+71701000,Mashed potatoes and white potato mixtures
+71701500,Mashed potatoes and white potato mixtures
+71703990,Mashed potatoes and white potato mixtures
+71704000,Mashed potatoes and white potato mixtures
+71801000,"Soups, cream-based"
+71801005,"Soups, cream-based"
+71900100,Other starchy vegetables
+71900200,Other starchy vegetables
+71905000,Other starchy vegetables
+71905008,Other starchy vegetables
+71905100,Other starchy vegetables
+71905410,"Tortilla, corn, other chips"
+71930120,Other starchy vegetables
+71930190,Fried vegetables
+71930200,"Biscuits, muffins, quick breads"
+71962040,Other starchy vegetables
+71970200,Other starchy vegetables
+71980200,"Tortilla, corn, other chips"
+72101100,Other dark green vegetables
+72101220,Other dark green vegetables
+72103000,Broccoli
+72103030,Broccoli
+72104100,Other dark green vegetables
+72104220,Other dark green vegetables
+72107100,Other dark green vegetables
+72107211,Other dark green vegetables
+72107212,Other dark green vegetables
+72107220,Other dark green vegetables
+72107221,Other dark green vegetables
+72107222,Other dark green vegetables
+72107227,Other dark green vegetables
+72107228,Other dark green vegetables
+72107230,Other dark green vegetables
+72107231,Other dark green vegetables
+72110100,Other dark green vegetables
+72110221,Other dark green vegetables
+72113100,Other dark green vegetables
+72113220,Other dark green vegetables
+72116000,Lettuce and lettuce salads
+72116150,Lettuce and lettuce salads
+72116220,Other dark green vegetables
+72118211,Other dark green vegetables
+72118212,Other dark green vegetables
+72118220,Other dark green vegetables
+72118221,Other dark green vegetables
+72118222,Other dark green vegetables
+72118223,Other dark green vegetables
+72119190,Other dark green vegetables
+72119211,Other dark green vegetables
+72119212,Other dark green vegetables
+72119220,Other dark green vegetables
+72119221,Other dark green vegetables
+72119222,Other dark green vegetables
+72120220,Other dark green vegetables
+72122100,Other dark green vegetables
+72122211,Other dark green vegetables
+72122212,Other dark green vegetables
+72122220,Other dark green vegetables
+72122221,Other dark green vegetables
+72122222,Other dark green vegetables
+72123020,Other dark green vegetables
+72124100,Lettuce and lettuce salads
+72125100,Spinach
+72125211,Spinach
+72125212,Spinach
+72125213,Spinach
+72125217,Spinach
+72125218,Spinach
+72125220,Spinach
+72125221,Spinach
+72125222,Spinach
+72125223,Spinach
+72125224,Spinach
+72125225,Spinach
+72125227,Spinach
+72125228,Spinach
+72125230,Spinach
+72125240,Vegetable dishes
+72125260,Vegetable dishes
+72125310,Vegetable dishes
+72125500,Vegetable dishes
+72126001,Other dark green vegetables
+72128211,Other dark green vegetables
+72128212,Other dark green vegetables
+72128220,Other dark green vegetables
+72128221,Other dark green vegetables
+72128222,Other dark green vegetables
+72130100,Other dark green vegetables
+72130201,Other dark green vegetables
+72132201,Other dark green vegetables
+72133201,Other dark green vegetables
+72201100,Broccoli
+72201190,Broccoli
+72201211,Broccoli
+72201212,Broccoli
+72201220,Broccoli
+72201221,Broccoli
+72201222,Broccoli
+72201223,Broccoli
+72201224,Broccoli
+72201226,Broccoli
+72201227,Broccoli
+72202010,Vegetable dishes
+72202020,Vegetable dishes
+72202030,Fried vegetables
+72203000,Broccoli
+72203070,Broccoli
+72302100,"Soups, cream-based"
+73101010,Carrots
+73101110,"Coleslaw, non-lettuce salads"
+73101210,"Coleslaw, non-lettuce salads"
+73102190,Carrots
+73102211,Carrots
+73102212,Carrots
+73102213,Carrots
+73102217,Carrots
+73102218,Carrots
+73102220,Carrots
+73102221,Carrots
+73102222,Carrots
+73102223,Carrots
+73102224,Carrots
+73102225,Carrots
+73102227,Carrots
+73102228,Carrots
+73102241,Carrots
+73103010,Carrots
+73103020,Carrots
+73103021,Carrots
+73103022,Carrots
+73105000,Vegetable juice
+73105010,Vegetable juice
+73111211,Other vegetables and combinations
+73111212,Other vegetables and combinations
+73111213,Other vegetables and combinations
+73111220,Other vegetables and combinations
+73111221,Other vegetables and combinations
+73111222,Other vegetables and combinations
+73111223,Other vegetables and combinations
+73201013,Other red and orange vegetables
+73201020,Other red and orange vegetables
+73302010,Other red and orange vegetables
+73303010,Other red and orange vegetables
+73303020,Other red and orange vegetables
+73305020,Vegetable dishes
+73401000,Other red and orange vegetables
+73403000,Other red and orange vegetables
+73403010,Other red and orange vegetables
+73403020,Other red and orange vegetables
+73405000,Other red and orange vegetables
+73405010,Other red and orange vegetables
+73405020,Other red and orange vegetables
+73406000,Other red and orange vegetables
+73407000,Other red and orange vegetables
+73407050,Other red and orange vegetables
+73407060,Other red and orange vegetables
+73409000,Other red and orange vegetables
+73410200,Fried vegetables
+73410210,"Tortilla, corn, other chips"
+73410320,Fried vegetables
+73410340,Fried vegetables
+73410400,Fried vegetables
+73410500,Fried vegetables
+73420020,Fried vegetables
+73420100,Fried vegetables
+73420200,Fried vegetables
+73502000,"Soups, cream-based"
+74101000,Tomatoes
+74201000,Tomatoes
+74201001,Tomatoes
+74201003,Tomatoes
+74203010,Vegetable dishes
+74204500,Tomatoes
+74205010,Fried vegetables
+74205020,"Olives, pickles, pickled vegetables"
+74206000,Tomatoes
+74301100,Vegetable juice
+74301150,Vegetable juice
+74302000,Vegetable juice
+74303000,Vegetable juice
+74303100,Vegetable juice
+74401010,Tomato-based condiments
+74401110,Tomato-based condiments
+74402010,Tomato-based condiments
+74402100,Tomato-based condiments
+74402110,Tomato-based condiments
+74402150,Tomato-based condiments
+74402200,Tomato-based condiments
+74402210,Tomato-based condiments
+74402250,Tomato-based condiments
+74402260,"Dips, gravies, other sauces"
+74402350,"Dips, gravies, other sauces"
+74403000,Mustard and other condiments
+74404010,"Pasta sauces, tomato-based"
+74404020,"Pasta sauces, tomato-based"
+74404050,"Pasta sauces, tomato-based"
+74404060,"Pasta sauces, tomato-based"
+74404090,"Pasta sauces, tomato-based"
+74406010,Tomato-based condiments
+74406060,Mustard and other condiments
+74406100,Tomato-based condiments
+74406500,Tomato-based condiments
+74410110,Mustard and other condiments
+74420110,Mustard and other condiments
+74506000,"Coleslaw, non-lettuce salads"
+74601000,"Soups, broth-based"
+74601010,"Soups, cream-based"
+74602010,"Soups, broth-based"
+74602200,"Soups, broth-based"
+74701000,Vegetable sandwiches/burgers
+74701010,Vegetable sandwiches/burgers
+75100250,Other vegetables and combinations
+75100300,Other vegetables and combinations
+75100500,Other vegetables and combinations
+75100750,Other vegetables and combinations
+75100800,Other vegetables and combinations
+75101000,Other vegetables and combinations
+75101800,String beans
+75102500,Other vegetables and combinations
+75102600,Other vegetables and combinations
+75102750,Other vegetables and combinations
+75103000,Cabbage
+75104000,Cabbage
+75105000,Cabbage
+75105500,Other vegetables and combinations
+75107000,Other vegetables and combinations
+75109000,Other vegetables and combinations
+75109010,Other vegetables and combinations
+75109400,Not included in a food category
+75109500,Not included in a food category
+75109550,Not included in a food category
+75109600,Corn
+75111000,Other vegetables and combinations
+75111200,Other vegetables and combinations
+75111500,Mustard and other condiments
+75111800,Other vegetables and combinations
+75112000,Other vegetables and combinations
+75113000,Lettuce and lettuce salads
+75113060,Lettuce and lettuce salads
+75113080,Lettuce and lettuce salads
+75114000,Lettuce and lettuce salads
+75115000,Other vegetables and combinations
+75117010,Onions
+75117020,Onions
+75119000,Not included in a food category
+75120000,Other starchy vegetables
+75121000,Mustard and other condiments
+75122000,Other vegetables and combinations
+75122100,Other vegetables and combinations
+75122200,Other red and orange vegetables
+75124000,Other vegetables and combinations
+75125000,Other vegetables and combinations
+75127000,Other vegetables and combinations
+75127500,Other vegetables and combinations
+75127750,Other vegetables and combinations
+75128000,Other vegetables and combinations
+75128010,Other vegetables and combinations
+75129000,Other vegetables and combinations
+75132000,Vegetable juice
+75132100,Vegetable juice
+75140500,"Coleslaw, non-lettuce salads"
+75140510,"Coleslaw, non-lettuce salads"
+75140990,"Coleslaw, non-lettuce salads"
+75141000,"Coleslaw, non-lettuce salads"
+75141040,"Coleslaw, non-lettuce salads"
+75141100,"Coleslaw, non-lettuce salads"
+75142000,"Coleslaw, non-lettuce salads"
+75142500,"Coleslaw, non-lettuce salads"
+75142550,"Coleslaw, non-lettuce salads"
+75142600,"Coleslaw, non-lettuce salads"
+75143000,Lettuce and lettuce salads
+75143050,Lettuce and lettuce salads
+75143100,Lettuce and lettuce salads
+75143200,Lettuce and lettuce salads
+75143300,Lettuce and lettuce salads
+75143350,Lettuce and lettuce salads
+75144100,Vegetable dishes
+75145000,Vegetable dishes
+75146000,Vegetable dishes
+75147000,Vegetable dishes
+75148010,Vegetable dishes
+75200700,Other fruit juice
+75202011,Other vegetables and combinations
+75202012,Other vegetables and combinations
+75202013,Other vegetables and combinations
+75202020,Other vegetables and combinations
+75202021,Other vegetables and combinations
+75202022,Other vegetables and combinations
+75202023,Other vegetables and combinations
+75202027,Other vegetables and combinations
+75202028,Other vegetables and combinations
+75202031,Other vegetables and combinations
+75202032,Other vegetables and combinations
+75202034,Other vegetables and combinations
+75202035,Other vegetables and combinations
+75203028,Other vegetables and combinations
+75204012,Other starchy vegetables
+75204022,Other starchy vegetables
+75204023,Other starchy vegetables
+75205005,String beans
+75205021,String beans
+75205022,String beans
+75205023,String beans
+75205030,String beans
+75205031,String beans
+75205032,String beans
+75205033,String beans
+75205044,String beans
+75205045,String beans
+75205047,String beans
+75205048,String beans
+75205050,String beans
+75205051,String beans
+75205120,String beans
+75205130,String beans
+75205131,String beans
+75205132,String beans
+75205200,Fried vegetables
+75206020,String beans
+75207021,Other vegetables and combinations
+75208011,Other vegetables and combinations
+75208013,Other vegetables and combinations
+75208020,Other vegetables and combinations
+75208021,Other vegetables and combinations
+75208023,Other vegetables and combinations
+75208110,Other vegetables and combinations
+75208310,Other vegetables and combinations
+75208501,Other starchy vegetables
+75208720,Other vegetables and combinations
+75209011,Other vegetables and combinations
+75209012,Other vegetables and combinations
+75209020,Other vegetables and combinations
+75209021,Other vegetables and combinations
+75209022,Other vegetables and combinations
+75209501,Other vegetables and combinations
+75210010,Cabbage
+75210020,Cabbage
+75211020,Cabbage
+75211030,Cabbage
+75211031,Cabbage
+75211032,Cabbage
+75212020,Cabbage
+75213020,Cabbage
+75213110,Other vegetables and combinations
+75213120,Other vegetables and combinations
+75214011,Other vegetables and combinations
+75214012,Other vegetables and combinations
+75214020,Other vegetables and combinations
+75214021,Other vegetables and combinations
+75214022,Other vegetables and combinations
+75214027,Other vegetables and combinations
+75214028,Other vegetables and combinations
+75214030,Other vegetables and combinations
+75214031,Other vegetables and combinations
+75215020,Other vegetables and combinations
+75215120,Other vegetables and combinations
+75215511,Other vegetables and combinations
+75215990,Corn
+75216111,Corn
+75216112,Corn
+75216113,Corn
+75216120,Corn
+75216121,Corn
+75216122,Corn
+75216123,Corn
+75216134,Corn
+75216135,Corn
+75216137,Corn
+75216138,Corn
+75216141,Corn
+75216142,Corn
+75216153,Corn
+75216310,Corn
+75216320,Corn
+75216321,Corn
+75216322,Corn
+75216720,Other vegetables and combinations
+75217010,Other vegetables and combinations
+75217020,Other vegetables and combinations
+75217301,Other vegetables and combinations
+75217400,Mustard and other condiments
+75217520,Grits and other cooked cereals
+75218011,Other vegetables and combinations
+75218400,Onions
+75218501,Other vegetables and combinations
+75219011,Other vegetables and combinations
+75219020,Other vegetables and combinations
+75219021,Other vegetables and combinations
+75219023,Other vegetables and combinations
+75219033,Other vegetables and combinations
+75219034,Other vegetables and combinations
+75219100,Other vegetables and combinations
+75220011,Other vegetables and combinations
+75220012,Other vegetables and combinations
+75220020,Other vegetables and combinations
+75220021,Other vegetables and combinations
+75220022,Other vegetables and combinations
+75220051,Lettuce and lettuce salads
+75221011,Onions
+75221021,Onions
+75221030,Onions
+75221061,Onions
+75221160,Other vegetables and combinations
+75222020,Other vegetables and combinations
+75223022,Other starchy vegetables
+75223023,Other starchy vegetables
+75224000,Other starchy vegetables
+75224021,Other starchy vegetables
+75224022,Other starchy vegetables
+75224023,Other starchy vegetables
+75224030,Other starchy vegetables
+75224031,Other starchy vegetables
+75224032,Other starchy vegetables
+75224033,Other starchy vegetables
+75224043,Other starchy vegetables
+75224044,Other starchy vegetables
+75224046,Other starchy vegetables
+75224047,Other starchy vegetables
+75224049,Other starchy vegetables
+75224050,Other starchy vegetables
+75224120,Other starchy vegetables
+75224130,Other starchy vegetables
+75224131,Other starchy vegetables
+75224132,Other starchy vegetables
+75226020,Other vegetables and combinations
+75226060,Other red and orange vegetables
+75226111,Mustard and other condiments
+75226700,Mustard and other condiments
+75228020,Other vegetables and combinations
+75229011,Other vegetables and combinations
+75230000,"Olives, pickles, pickled vegetables"
+75231011,Other vegetables and combinations
+75231012,Other vegetables and combinations
+75231020,Other vegetables and combinations
+75231021,Other vegetables and combinations
+75231022,Other vegetables and combinations
+75232000,Not included in a food category
+75232110,Other vegetables and combinations
+75232120,Other vegetables and combinations
+75233011,Other vegetables and combinations
+75233012,Other vegetables and combinations
+75233020,Other vegetables and combinations
+75233021,Other vegetables and combinations
+75233022,Other vegetables and combinations
+75233023,Other vegetables and combinations
+75233027,Other vegetables and combinations
+75233028,Other vegetables and combinations
+75233030,Other vegetables and combinations
+75233031,Other vegetables and combinations
+75233220,Other red and orange vegetables
+75234021,Other vegetables and combinations
+75235000,Other starchy vegetables
+75235750,Other vegetables and combinations
+75236000,Not included in a food category
+75236500,Mustard and other condiments
+75301110,Other starchy vegetables
+75301120,Other starchy vegetables
+75302080,"Coleslaw, non-lettuce salads"
+75306998,Other vegetables and combinations
+75307000,Other vegetables and combinations
+75310990,Other vegetables and combinations
+75311012,Other vegetables and combinations
+75311013,Other vegetables and combinations
+75311020,Other vegetables and combinations
+75311022,Other vegetables and combinations
+75311023,Other vegetables and combinations
+75311027,Other vegetables and combinations
+75311028,Other vegetables and combinations
+75311030,Other vegetables and combinations
+75311031,Other vegetables and combinations
+75311110,Other vegetables and combinations
+75311120,Other vegetables and combinations
+75311121,Other vegetables and combinations
+75311122,Other vegetables and combinations
+75315010,Other starchy vegetables
+75315020,Other starchy vegetables
+75316050,Vegetable dishes
+75317010,Other vegetables and combinations
+75317020,Other vegetables and combinations
+75330050,Other vegetables and combinations
+75330060,Other vegetables and combinations
+75330080,Other vegetables and combinations
+75330090,Other vegetables and combinations
+75340010,Other vegetables and combinations
+75340020,Other vegetables and combinations
+75340200,Other vegetables and combinations
+75365000,Not included in a food category
+75400500,Vegetable dishes
+75403020,Vegetable dishes
+75403200,Stir-fry and soy-based sauce mixtures
+75409020,Fried vegetables
+75410500,Other Mexican mixed dishes
+75410530,Other Mexican mixed dishes
+75410550,Turnovers and other grain-based items
+75411010,Vegetable dishes
+75411020,"Biscuits, muffins, quick breads"
+75412010,Fried vegetables
+75412030,"Dips, gravies, other sauces"
+75412060,Vegetable dishes
+75412070,Vegetable dishes
+75414020,Vegetable dishes
+75414030,Fried vegetables
+75414500,Fried vegetables
+75415022,Fried vegetables
+75416500,"Coleslaw, non-lettuce salads"
+75416600,"Coleslaw, non-lettuce salads"
+75418010,Fried vegetables
+75418020,Vegetable dishes
+75418030,Vegetable dishes
+75418040,Vegetable dishes
+75418060,Vegetable dishes
+75439010,Vegetable dishes
+75439500,Stir-fry and soy-based sauce mixtures
+75440200,Fried vegetables
+75440400,Fried vegetables
+75440600,Vegetable dishes
+75440610,Vegetable dishes
+75460900,Fried rice and lo/chow mein
+75500110,"Olives, pickles, pickled vegetables"
+75500210,"Olives, pickles, pickled vegetables"
+75500510,"Olives, pickles, pickled vegetables"
+75501010,"Olives, pickles, pickled vegetables"
+75502010,"Olives, pickles, pickled vegetables"
+75502500,"Olives, pickles, pickled vegetables"
+75502510,"Olives, pickles, pickled vegetables"
+75502520,"Olives, pickles, pickled vegetables"
+75503010,"Olives, pickles, pickled vegetables"
+75503020,"Olives, pickles, pickled vegetables"
+75503040,"Olives, pickles, pickled vegetables"
+75503080,"Olives, pickles, pickled vegetables"
+75503085,"Olives, pickles, pickled vegetables"
+75503090,Mustard and other condiments
+75505000,"Olives, pickles, pickled vegetables"
+75506010,Mustard and other condiments
+75506100,Mustard and other condiments
+75507000,"Olives, pickles, pickled vegetables"
+75510000,"Olives, pickles, pickled vegetables"
+75510010,"Olives, pickles, pickled vegetables"
+75510020,"Olives, pickles, pickled vegetables"
+75510030,"Olives, pickles, pickled vegetables"
+75510050,"Olives, pickles, pickled vegetables"
+75511010,Mustard and other condiments
+75511020,"Olives, pickles, pickled vegetables"
+75511040,"Olives, pickles, pickled vegetables"
+75511050,Other vegetables and combinations
+75511100,"Olives, pickles, pickled vegetables"
+75511300,Fried vegetables
+75512010,"Olives, pickles, pickled vegetables"
+75513010,"Olives, pickles, pickled vegetables"
+75515100,"Olives, pickles, pickled vegetables"
+75534030,"Olives, pickles, pickled vegetables"
+75534550,Mustard and other condiments
+75535000,"Olives, pickles, pickled vegetables"
+75601100,"Soups, broth-based"
+75604600,"Soups, broth-based"
+75607060,"Soups, cream-based"
+75608100,"Soups, cream-based"
+75611010,"Soups, cream-based"
+75647000,Ramen and Asian broth-based soups
+75649010,"Soups, broth-based"
+75649040,"Soups, broth-based"
+75649110,"Soups, broth-based"
+75651000,"Soups, broth-based"
+75652010,"Soups, broth-based"
+75656060,"Soups, broth-based"
+76000000,Baby food: vegetables
+76201010,Baby food: vegetables
+76201040,Baby food: vegetables
+76205010,Baby food: vegetables
+76205040,Baby food: vegetables
+76209010,Baby food: vegetables
+76209040,Baby food: vegetables
+76401010,Baby food: vegetables
+76401040,Baby food: vegetables
+76403010,Baby food: vegetables
+76407010,Baby food: vegetables
+76407020,Baby food: vegetables
+76407050,Baby food: mixtures
+76407080,Baby food: mixtures
+76409010,Baby food: vegetables
+76409040,Baby food: vegetables
+76700000,Baby food: meat and dinners
+76702100,Baby food: meat and dinners
+76702200,Baby food: meat and dinners
+76702300,Baby food: meat and dinners
+76702400,Baby food: meat and dinners
+77121010,Mashed potatoes and white potato mixtures
+77201210,Other starchy vegetables
+77205610,Meat mixed dishes
+77272010,Meat mixed dishes
+77316010,Meat mixed dishes
+77316510,Meat mixed dishes
+77316600,Meat mixed dishes
+78101000,Other fruit juice
+78101100,Smoothies and grain drinks
+78101110,Smoothies and grain drinks
+78101115,Smoothies and grain drinks
+78101118,Smoothies and grain drinks
+78101120,Smoothies and grain drinks
+78101125,Smoothies and grain drinks
+78101130,Smoothies and grain drinks
+81100000,Butter and animal fats
+81100500,Butter and animal fats
+81101000,Butter and animal fats
+81101010,Butter and animal fats
+81101520,Butter and animal fats
+81102000,Margarine
+81102010,Margarine
+81102020,Margarine
+81103090,Margarine
+81104010,Margarine
+81106010,Margarine
+81200100,Margarine
+81201000,Butter and animal fats
+81202000,Butter and animal fats
+81203000,Margarine
+81204000,Butter and animal fats
+81301000,"Dips, gravies, other sauces"
+81301020,"Dips, gravies, other sauces"
+81302010,"Dips, gravies, other sauces"
+81302040,Mayonnaise
+81302050,Mayonnaise
+81302060,Mustard and other condiments
+81302070,"Dips, gravies, other sauces"
+81308100,Mustard and other condiments
+81308200,"Dips, gravies, other sauces"
+81312100,"Dips, gravies, other sauces"
+81322000,Butter and animal fats
+82101000,Salad dressings and vegetable oils
+82101300,Salad dressings and vegetable oils
+82101500,Salad dressings and vegetable oils
+82102000,Salad dressings and vegetable oils
+82103000,Salad dressings and vegetable oils
+82103500,Salad dressings and vegetable oils
+82104000,Salad dressings and vegetable oils
+82105000,Salad dressings and vegetable oils
+82105500,Salad dressings and vegetable oils
+82106000,Salad dressings and vegetable oils
+82107000,Salad dressings and vegetable oils
+82108000,Salad dressings and vegetable oils
+82108500,Salad dressings and vegetable oils
+82108700,Salad dressings and vegetable oils
+82109000,Salad dressings and vegetable oils
+83100100,Salad dressings and vegetable oils
+83100200,Mayonnaise
+83101000,Salad dressings and vegetable oils
+83101600,Salad dressings and vegetable oils
+83102000,Salad dressings and vegetable oils
+83103000,Salad dressings and vegetable oils
+83104000,Salad dressings and vegetable oils
+83105500,Salad dressings and vegetable oils
+83106000,Salad dressings and vegetable oils
+83107000,Mayonnaise
+83108000,Mayonnaise
+83109000,Salad dressings and vegetable oils
+83110000,Mayonnaise
+83112000,Salad dressings and vegetable oils
+83112400,Salad dressings and vegetable oils
+83112950,Salad dressings and vegetable oils
+83112990,Salad dressings and vegetable oils
+83113500,Salad dressings and vegetable oils
+83114000,Salad dressings and vegetable oils
+83115000,Salad dressings and vegetable oils
+83200100,Salad dressings and vegetable oils
+83201000,Salad dressings and vegetable oils
+83201500,Salad dressings and vegetable oils
+83202020,Salad dressings and vegetable oils
+83203000,Salad dressings and vegetable oils
+83204000,Mayonnaise
+83204030,Mayonnaise
+83204050,Mayonnaise
+83204500,Salad dressings and vegetable oils
+83205450,Salad dressings and vegetable oils
+83205560,Salad dressings and vegetable oils
+83206500,Salad dressings and vegetable oils
+83207000,Salad dressings and vegetable oils
+83208500,Salad dressings and vegetable oils
+83300100,Salad dressings and vegetable oils
+83300200,Salad dressings and vegetable oils
+83300250,Salad dressings and vegetable oils
+83300400,Salad dressings and vegetable oils
+83300500,Salad dressings and vegetable oils
+83300600,Salad dressings and vegetable oils
+83300700,Mayonnaise
+83300750,Salad dressings and vegetable oils
+83300900,Salad dressings and vegetable oils
+83301000,Salad dressings and vegetable oils
+89901000,Not included in a food category
+89901002,Not included in a food category
+89901004,Not included in a food category
+89901006,Not included in a food category
+89901010,Not included in a food category
+89901020,Not included in a food category
+89901030,Not included in a food category
+89901040,Not included in a food category
+89901050,Not included in a food category
+89902000,Vegetables on a sandwich
+89902010,Vegetables on a sandwich
+89902020,Vegetables on a sandwich
+89902030,Vegetables on a sandwich
+89902040,Vegetables on a sandwich
+89902050,Vegetables on a sandwich
+89902060,Vegetables on a sandwich
+89902070,Vegetables on a sandwich
+89902100,Not included in a food category
+91101000,Sugars and honey
+91101010,Sugars and honey
+91101020,Sugars and honey
+91102010,Sugars and honey
+91104100,Sugars and honey
+91106010,Sugar substitutes
+91107000,Sugar substitutes
+91108000,Sugar substitutes
+91108010,Sugar substitutes
+91108020,Sugar substitutes
+91200000,Sugar substitutes
+91200005,Sugar substitutes
+91200040,Sugar substitutes
+91200110,Sugar substitutes
+91201010,Sugar substitutes
+91300010,"Jams, syrups, toppings"
+91300100,"Jams, syrups, toppings"
+91301030,"Jams, syrups, toppings"
+91301050,"Jams, syrups, toppings"
+91301080,"Jams, syrups, toppings"
+91301081,"Jams, syrups, toppings"
+91301100,"Jams, syrups, toppings"
+91301130,"Jams, syrups, toppings"
+91301510,"Jams, syrups, toppings"
+91302010,Sugars and honey
+91302020,Sugars and honey
+91303000,Sugars and honey
+91304010,"Jams, syrups, toppings"
+91304020,"Jams, syrups, toppings"
+91304030,"Jams, syrups, toppings"
+91304040,"Jams, syrups, toppings"
+91304060,"Jams, syrups, toppings"
+91304090,"Jams, syrups, toppings"
+91305010,"Jams, syrups, toppings"
+91305020,"Jams, syrups, toppings"
+91306020,"Jams, syrups, toppings"
+91306025,"Jams, syrups, toppings"
+91306030,"Jams, syrups, toppings"
+91306040,"Jams, syrups, toppings"
+91361010,Mustard and other condiments
+91361040,"Jams, syrups, toppings"
+91361050,Mustard and other condiments
+91400000,"Jams, syrups, toppings"
+91401000,"Jams, syrups, toppings"
+91402000,"Jams, syrups, toppings"
+91403000,"Jams, syrups, toppings"
+91404000,"Jams, syrups, toppings"
+91405000,"Jams, syrups, toppings"
+91405500,"Jams, syrups, toppings"
+91406500,"Jams, syrups, toppings"
+91407100,"Jams, syrups, toppings"
+91407120,"Jams, syrups, toppings"
+91407150,"Jams, syrups, toppings"
+91501010,"Gelatins, ices, sorbets"
+91501020,"Gelatins, ices, sorbets"
+91501100,"Gelatins, ices, sorbets"
+91511010,"Gelatins, ices, sorbets"
+91511020,"Gelatins, ices, sorbets"
+91520100,"Gelatins, ices, sorbets"
+91560100,Pudding
+91601000,"Gelatins, ices, sorbets"
+91601010,"Gelatins, ices, sorbets"
+91610900,"Gelatins, ices, sorbets"
+91611000,"Gelatins, ices, sorbets"
+91611100,"Gelatins, ices, sorbets"
+91612000,"Gelatins, ices, sorbets"
+91621000,"Gelatins, ices, sorbets"
+91621050,"Gelatins, ices, sorbets"
+91700010,Candy not containing chocolate
+91701010,Candy containing chocolate
+91705005,Candy containing chocolate
+91705010,Candy containing chocolate
+91705012,Candy containing chocolate
+91705015,Candy containing chocolate
+91705020,Candy containing chocolate
+91705080,Candy containing chocolate
+91705200,Candy containing chocolate
+91705250,Candy not containing chocolate
+91705290,Candy containing chocolate
+91705300,Candy containing chocolate
+91705312,Candy containing chocolate
+91705315,Candy containing chocolate
+91705400,Candy not containing chocolate
+91705440,Candy containing chocolate
+91705450,Candy containing chocolate
+91705460,Candy containing chocolate
+91705470,Candy containing chocolate
+91705480,Candy containing chocolate
+91705510,Candy containing chocolate
+91705520,Candy containing chocolate
+91705530,Candy containing chocolate
+91705550,Candy containing chocolate
+91706010,Candy containing chocolate
+91706020,Candy not containing chocolate
+91718300,Candy not containing chocolate
+91721000,Candy not containing chocolate
+91723000,Candy not containing chocolate
+91723030,Candy not containing chocolate
+91728000,Candy not containing chocolate
+91731000,Candy containing chocolate
+91733000,Candy not containing chocolate
+91745000,Candy not containing chocolate
+91745010,Candy not containing chocolate
+91745025,Candy not containing chocolate
+91745030,Candy not containing chocolate
+91745035,Candy not containing chocolate
+91745050,Candy not containing chocolate
+91745110,Candy not containing chocolate
+91746100,Candy containing chocolate
+91746110,Candy containing chocolate
+91746300,Candy not containing chocolate
+91746350,Candy not containing chocolate
+91750000,Candy not containing chocolate
+91770060,Candy not containing chocolate
+91801000,Candy not containing chocolate
+91802000,Candy not containing chocolate
+92100000,Coffee
+92100500,Coffee
+92101000,Coffee
+92101500,Coffee
+92101600,Coffee
+92101610,Coffee
+92101630,Coffee
+92101700,Coffee
+92101800,Coffee
+92101810,Coffee
+92101820,Coffee
+92101850,Coffee
+92101851,Coffee
+92101900,Coffee
+92101901,Coffee
+92101903,Coffee
+92101904,Coffee
+92101905,Coffee
+92101906,Coffee
+92101910,Coffee
+92101911,Coffee
+92101913,Coffee
+92101917,Coffee
+92101918,Coffee
+92101919,Coffee
+92101920,Coffee
+92101921,Coffee
+92101923,Coffee
+92101925,Coffee
+92101926,Coffee
+92101928,Coffee
+92101930,Coffee
+92101931,Coffee
+92101933,Coffee
+92101935,Coffee
+92101936,Coffee
+92101938,Coffee
+92101950,Coffee
+92101955,Coffee
+92101960,Coffee
+92101965,Coffee
+92101970,Coffee
+92101975,Coffee
+92102000,Coffee
+92102010,Coffee
+92102020,Coffee
+92102030,Coffee
+92102040,Coffee
+92102050,Coffee
+92102060,Coffee
+92102070,Coffee
+92102080,Coffee
+92102090,Coffee
+92102100,Coffee
+92102110,Coffee
+92102400,Coffee
+92102401,Coffee
+92102450,Coffee
+92102500,Coffee
+92102501,Coffee
+92102502,Coffee
+92102503,Coffee
+92102504,Coffee
+92102505,Coffee
+92102510,Coffee
+92102511,Coffee
+92102512,Coffee
+92102513,Coffee
+92102514,Coffee
+92102515,Coffee
+92102600,Coffee
+92102601,Coffee
+92102602,Coffee
+92102610,Coffee
+92102611,Coffee
+92102612,Coffee
+92103000,Coffee
+92104000,Coffee
+92111000,Coffee
+92111010,Coffee
+92114000,Coffee
+92121000,Coffee
+92121001,Coffee
+92121010,Coffee
+92121030,Coffee
+92121040,Coffee
+92121041,Coffee
+92130000,Coffee
+92130001,Coffee
+92130005,Coffee
+92130006,Coffee
+92130010,Coffee
+92130011,Coffee
+92130020,Coffee
+92130021,Coffee
+92130030,Coffee
+92130031,Coffee
+92152000,Coffee
+92152010,Coffee
+92161000,Coffee
+92161001,Coffee
+92161002,Coffee
+92162000,Coffee
+92162001,Coffee
+92162002,Coffee
+92171000,Coffee
+92171010,Coffee
+92191100,Not included in a food category
+92191200,Not included in a food category
+92191400,Not included in a food category
+92193000,Not included in a food category
+92193005,Not included in a food category
+92193025,Not included in a food category
+92201010,Coffee
+92202010,Coffee
+92302000,Tea
+92302500,Tea
+92303010,Tea
+92303100,Tea
+92304100,Tea
+92305010,Tea
+92305040,Tea
+92305050,Tea
+92305090,Tea
+92305110,Tea
+92305180,Tea
+92305900,Tea
+92305910,Tea
+92305920,Tea
+92306000,Tea
+92306090,Tea
+92306100,Smoothies and grain drinks
+92306700,Tea
+92306800,Tea
+92306850,Tea
+92306910,Tea
+92306920,Tea
+92307000,Not included in a food category
+92307400,Not included in a food category
+92307500,Tea
+92307510,Tea
+92307520,Tea
+92308000,Tea
+92308010,Tea
+92308020,Tea
+92308030,Tea
+92308040,Tea
+92308050,Tea
+92308500,Tea
+92308510,Tea
+92308520,Tea
+92308530,Tea
+92308540,Tea
+92308550,Tea
+92309000,Tea
+92309010,Tea
+92309020,Tea
+92309030,Tea
+92309040,Tea
+92309050,Tea
+92309500,Tea
+92309510,Tea
+92309520,Tea
+92400000,Soft drinks
+92400100,Diet soft drinks
+92410110,Flavored or carbonated water
+92410210,Flavored or carbonated water
+92410250,Flavored or carbonated water
+92410310,Soft drinks
+92410320,Diet soft drinks
+92410340,Soft drinks
+92410350,Diet soft drinks
+92410360,Soft drinks
+92410370,Diet soft drinks
+92410390,Soft drinks
+92410400,Diet soft drinks
+92410410,Soft drinks
+92410420,Diet soft drinks
+92410510,Soft drinks
+92410520,Diet soft drinks
+92410550,Soft drinks
+92410560,Diet soft drinks
+92410610,Soft drinks
+92410620,Diet soft drinks
+92410710,Soft drinks
+92410720,Diet soft drinks
+92410810,Soft drinks
+92410820,Diet soft drinks
+92411510,Soft drinks
+92411520,Soft drinks
+92411610,Diet soft drinks
+92411620,Diet soft drinks
+92432000,Fruit drinks
+92433000,Fruit drinks
+92510610,Fruit drinks
+92510650,Fruit drinks
+92510720,Fruit drinks
+92510955,Fruit drinks
+92510960,Fruit drinks
+92511000,Fruit drinks
+92511015,Fruit drinks
+92512090,Fruit drinks
+92512110,Fruit drinks
+92513000,Fruit drinks
+92513010,Other diet drinks
+92530410,Fruit drinks
+92530510,Fruit drinks
+92530610,Fruit drinks
+92530950,Fruit drinks
+92531030,Fruit drinks
+92541010,Fruit drinks
+92542000,Fruit drinks
+92550030,Fruit drinks
+92550035,Fruit drinks
+92550040,Fruit drinks
+92550110,Fruit drinks
+92550200,Fruit drinks
+92550350,Fruit drinks
+92550360,Fruit drinks
+92550370,Fruit drinks
+92550380,Fruit drinks
+92550400,Other diet drinks
+92550405,Fruit drinks
+92550610,Other diet drinks
+92550620,Other diet drinks
+92552000,Other diet drinks
+92552010,Other diet drinks
+92552030,Fruit drinks
+92582110,Fruit drinks
+92610020,Smoothies and grain drinks
+92610030,Smoothies and grain drinks
+92611010,Smoothies and grain drinks
+92611100,Smoothies and grain drinks
+92612010,Fruit drinks
+92613010,Smoothies and grain drinks
+92613510,Smoothies and grain drinks
+92801000,Fruit drinks
+92803000,Fruit drinks
+92804000,Fruit drinks
+92900100,Not included in a food category
+92900110,Not included in a food category
+92900200,Not included in a food category
+92900300,Not included in a food category
+93101000,Beer
+93102000,Beer
+93102300,Beer
+93106000,Beer
+93106100,Beer
+93106500,Beer
+93106600,Beer
+93201000,Liquor and cocktails
+93201010,Liquor and cocktails
+93202000,Liquor and cocktails
+93301000,Liquor and cocktails
+93301010,Liquor and cocktails
+93301030,Liquor and cocktails
+93301032,Liquor and cocktails
+93301040,Liquor and cocktails
+93301045,Liquor and cocktails
+93301050,Liquor and cocktails
+93301060,Liquor and cocktails
+93301075,Liquor and cocktails
+93301083,Liquor and cocktails
+93301085,Liquor and cocktails
+93301090,Liquor and cocktails
+93301100,Liquor and cocktails
+93301110,Liquor and cocktails
+93301111,Liquor and cocktails
+93301113,Beer
+93301115,Wine
+93301120,Liquor and cocktails
+93301125,Liquor and cocktails
+93301127,Liquor and cocktails
+93301130,Liquor and cocktails
+93301132,Liquor and cocktails
+93301135,Liquor and cocktails
+93301136,Liquor and cocktails
+93301140,Liquor and cocktails
+93301141,Liquor and cocktails
+93301142,Liquor and cocktails
+93301150,Liquor and cocktails
+93301160,Liquor and cocktails
+93301170,Liquor and cocktails
+93301181,Liquor and cocktails
+93301182,Liquor and cocktails
+93301183,Liquor and cocktails
+93301184,Liquor and cocktails
+93301190,Liquor and cocktails
+93301191,Liquor and cocktails
+93301200,Liquor and cocktails
+93301205,Liquor and cocktails
+93301211,Liquor and cocktails
+93301213,Liquor and cocktails
+93301214,Liquor and cocktails
+93301215,Liquor and cocktails
+93301216,Liquor and cocktails
+93301217,Liquor and cocktails
+93301218,Liquor and cocktails
+93301230,Liquor and cocktails
+93301240,Liquor and cocktails
+93301250,Liquor and cocktails
+93301270,Liquor and cocktails
+93301275,Wine
+93301280,Liquor and cocktails
+93301310,Liquor and cocktails
+93301320,Liquor and cocktails
+93301360,Liquor and cocktails
+93301370,Liquor and cocktails
+93301400,Liquor and cocktails
+93301500,Liquor and cocktails
+93301510,Liquor and cocktails
+93301550,Liquor and cocktails
+93301600,Liquor and cocktails
+93302000,Liquor and cocktails
+93401005,Wine
+93401010,Wine
+93401020,Wine
+93401030,Wine
+93401100,Wine
+93402000,Wine
+93403000,Wine
+93404000,Wine
+93404550,Wine
+93404560,Wine
+93405000,Wine
+93406000,Liquor and cocktails
+93501000,Liquor and cocktails
+93502000,Liquor and cocktails
+93502100,Liquor and cocktails
+93503000,Liquor and cocktails
+93504000,Liquor and cocktails
+93505000,Liquor and cocktails
+93505100,Liquor and cocktails
+94000010,Tap water
+94000100,Tap water
+94100100,Bottled water
+94100200,Flavored or carbonated water
+94100300,Flavored or carbonated water
+94200100,Enhanced water
+94200200,Enhanced water
+94300100,Baby water
+95101000,Nutritional beverages
+95101010,Nutritional beverages
+95102000,Nutritional beverages
+95103000,Nutritional beverages
+95103010,Nutritional beverages
+95104000,Nutritional beverages
+95106000,Nutritional beverages
+95106010,Nutritional beverages
+95110000,Nutritional beverages
+95110010,Nutritional beverages
+95110020,Nutritional beverages
+95120000,Nutritional beverages
+95120010,Nutritional beverages
+95120020,Nutritional beverages
+95120050,Nutritional beverages
+95201000,Protein and nutritional powders
+95201010,Protein and nutritional powders
+95201200,Protein and nutritional powders
+95201300,Protein and nutritional powders
+95201500,Protein and nutritional powders
+95201600,Protein and nutritional powders
+95202000,Protein and nutritional powders
+95202010,Protein and nutritional powders
+95210000,Protein and nutritional powders
+95210010,Protein and nutritional powders
+95210020,Protein and nutritional powders
+95220000,Protein and nutritional powders
+95220010,Protein and nutritional powders
+95230000,Protein and nutritional powders
+95230010,Protein and nutritional powders
+95230020,Protein and nutritional powders
+95230030,Protein and nutritional powders
+95310200,Sport and energy drinks
+95310400,Sport and energy drinks
+95310500,Sport and energy drinks
+95310550,Sport and energy drinks
+95310555,Sport and energy drinks
+95310560,Sport and energy drinks
+95310600,Sport and energy drinks
+95310700,Sport and energy drinks
+95310750,Sport and energy drinks
+95310800,Sport and energy drinks
+95311000,Sport and energy drinks
+95312400,Diet sport and energy drinks
+95312410,Diet sport and energy drinks
+95312500,Diet sport and energy drinks
+95312550,Diet sport and energy drinks
+95312555,Diet sport and energy drinks
+95312560,Sport and energy drinks
+95312600,Diet sport and energy drinks
+95312700,Diet sport and energy drinks
+95312800,Diet sport and energy drinks
+95312900,Sport and energy drinks
+95312905,Sport and energy drinks
+95313200,Diet sport and energy drinks
+95320200,Sport and energy drinks
+95320500,Sport and energy drinks
+95321000,Sport and energy drinks
+95322200,Diet sport and energy drinks
+95322500,Diet sport and energy drinks
+95323000,Diet sport and energy drinks
+95330100,Sport and energy drinks
+95330500,Sport and energy drinks
+95342000,Fruit drinks
+99991400,Not included in a food category
+99991410,Not included in a food category
+99992100,Not included in a food category
+99992230,Not included in a food category
+99992405,Not included in a food category
+99992600,Not included in a food category
+99992610,Not included in a food category
+99995000,Not included in a food category
+99995130,Not included in a food category
+99995135,Not included in a food category
+99995620,Not included in a food category
+99995625,Not included in a food category
+99997100,Not included in a food category
+99997210,Not included in a food category
+99997220,Not included in a food category
+99997310,Not included in a food category
+99997340,Not included in a food category
+99997410,Not included in a food category
+99997510,Not included in a food category
+99997515,Not included in a food category
+99997520,Not included in a food category
+99997525,Not included in a food category
+99997530,Not included in a food category
+99997535,Not included in a food category
+99997540,Not included in a food category
+99997545,Not included in a food category
+99997550,Not included in a food category
+99997555,Not included in a food category
+99997800,Not included in a food category
+99997802,Not included in a food category
+99997804,Not included in a food category
+99997805,Not included in a food category
+99997810,Not included in a food category
+99997815,Not included in a food category
+99997820,Not included in a food category
+99998130,Not included in a food category
+99998210,Not included in a food category
