@@ -1,0 +1,78 @@
+
+1) Importamos de librerias
+Primero se importan Numpy, Pandas, Matplotlib y varias metricas de scikit-learn.
+La idea es usar Numpy/Pandas para manipular datos, Matplotlib para graficar y sklearn solo para validar metricas.
+
+2) Carga del dataset
+Se lee el archivo australian.dat con separador por espacios.
+Luego se separa:
+- X: todas las columnas menos la ultima (A1 a A14)
+- y: la ultima columna (A15), que es la clase a predecir
+
+3) Ajuste de etiquetas de salida
+Si la clase viene como {1,2}, se transforma a {0,1} para trabajar en clasificacion binaria estandar.
+Eso evita errores al calcular funciones de perdida y metricas.
+
+4) Particion train/test
+Se fija semilla (42) para reproducibilidad.
+Se mezclan los indices de forma aleatoria y se divide 80% para entrenamiento y 20% para prueba.
+Asi se entrena con una parte de datos y se evalua en datos no vistos.
+
+5) Estandarizacion de variables
+Se calcula media y desviacion estandar usando solo train.
+Despues se normaliza train y test con esos mismos parametros.
+Esto evita fuga de informacion y ayuda a que el entrenamiento converja mejor.
+
+6) Revision rapida del dataset
+Se imprimen tamanos, balance de clases en train/test y se renombran columnas como A1...A15 para que sea mas legible.
+
+7) Definicion del modelo (regresion logistica hecha a mano)
+Se define:
+- sigmoid(x): convierte una combinacion lineal en probabilidad [0,1]
+- bce(y, y_hat): funcion de perdida de entropia cruzada binaria
+- clase Perceptron: guarda pesos, hace prediccion y entrena con descenso por gradiente
+
+Aunque se llama Perceptron, en la practica es una regresion logistica entrenada con BCE + sigmoide.
+
+8) Entrenamiento
+Se inicializan pesos aleatorios, se fija epocas=500 y learning rate=0.05.
+En cada epoca:
+- se calcula y_hat
+- se calcula la perdida
+- se calcula gradiente
+- se actualizan pesos
+- se guardan pesos por epoca
+Tambien se imprime la perdida cada cierto numero de epocas para ver progreso.
+
+9) Funciones de evaluacion
+Se crean funciones para:
+- evaluate: devolver clase 0/1 con umbral t (por defecto 0.5)
+- evaluate_proba: devolver probabilidad estimada
+Con esto se pueden calcular metricas de clasificacion y curva ROC.
+
+10) Exactitud (accuracy)
+Se predice en train y test y se calcula accuracy.
+Ademas se compara contra una linea base ingenua (predecir siempre la clase mayoritaria).
+Esto sirve para comprobar que el modelo realmente aprende algo util.
+
+11) Matriz de confusion
+Se calculan TP, TN, FP, FN manualmente y tambien con confusion_matrix de sklearn.
+Luego se grafica la matriz para visualizar aciertos y errores por clase.
+
+12) Precision y recall
+Se implementan precision y recall manuales.
+Despues se comparan con precision_score y recall_score de sklearn para validar que coincidan.
+Tambien se prueba como cambian precision/recall al mover el umbral de 0.1 a 0.9.
+
+13) F1-score
+Se calcula F1 manualmente con la formula:
+F1 = 2*(precision*recall)/(precision+recall)
+Y se compara contra f1_score de sklearn.
+
+14) Curva ROC y AUC
+Con probabilidades del modelo en test se calcula:
+- fpr (tasa de falsos positivos)
+- tpr (tasa de verdaderos positivos)
+Se grafica la curva ROC y se reporta AUC.
+Interpretacion rapida: mientras mas cerca de 1 este el AUC, mejor capacidad de discriminacion tiene el modelo.
+
