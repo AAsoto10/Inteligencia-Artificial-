@@ -1,7 +1,9 @@
 He creado un array de 16 casillas que representa un tablero de 4x4 donde a ciertas posiciones les asigné 
-recompensas positivas y negativas para que el agente pueda aprender cuáles son mejores. Luego con reshape convierto 
-el array en una matriz 4x4 para visualizar mejor la tabla. Los estados serían cada una de las casillas del tablero y
- las acciones consisten en elegir una posición. En el for de partidas el agente repite el proceso muchas veces para 
- aprender del entorno y en el for de turnos va seleccionando casillas recibiendo recompensas y actualizando los valores aprendidos
- También se utiliza exploración y explotación donde algunas veces prueba casillas aleatorias y otras veces elige la casilla que considera mejor
-  según lo aprendido.
+recompensas positivas y negativas para que el agente pueda aprender cuales son mejores
+luego con reshape convierto el array en una matriz 4x4 para visualizar mejor la tabla,
+los estados serían cada una de las casillas del tablero ylas acciones consisten en elegir una posicion.
+En el for de partidas el agente repite el proceso muchas veces para 
+aprender del entorno y en el for de turnos va seleccionando casillas recibiendo recompensas y actualizando los valores aprendidos
+También se utiliza exploración y explotación donde algunas veces prueba casillas aleatorias y otras veces elige la casilla que considera mejor
+según lo aprendido
+he utilizado el metodo incremental
